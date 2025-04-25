@@ -3332,7 +3332,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:calico": "2025-04-12 03:20:05 +0000"
+      "minecraft:calico": "2025-04-12 03:20:05 +0000",
+      "minecraft:siamese": "2025-04-25 19:19:00 +0000"
     },
     "done": false
   },
@@ -6822,6 +6823,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-04-24 23:31:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-04-24 23:42:53 +0000"
@@ -6829,6 +6836,12 @@
     "done": true
   },
   "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-24 23:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-24 23:42:53 +0000"
     },
@@ -6858,12 +6871,6 @@
     },
     "done": true
   },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight_0": "2025-04-25 00:26:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-24 23:53:25 +0000"
@@ -6888,12 +6895,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
-    "criteria": {
-      "has_pump_upgrade": "2025-04-24 23:31:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-24 23:53:25 +0000"
@@ -6909,12 +6910,6 @@
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-24 23:53:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-04-24 23:42:53 +0000"
     },
     "done": true
   },
@@ -6963,6 +6958,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-24 23:53:25 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-04-25 00:26:02 +0000"
     },
     "done": true
   },
