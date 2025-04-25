@@ -2559,3 +2559,11 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [25Apr2025 19:31:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [25Apr2025 19:31:39.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdassadsadsa
 [25Apr2025 19:31:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame
+[25Apr2025 19:35:05.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasdsad
+[25Apr2025 19:40:08.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[25Apr2025 19:40:08.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[25Apr2025 19:40:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25Apr2025 19:40:17.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:55971] logged in with entity id 10697 at (633.1109984778012, 41.687967992431645, 1282.6197558812958)
+[25Apr2025 19:40:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25Apr2025 19:40:39.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasffasd
+[25Apr2025 19:40:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culos
