@@ -9288,3 +9288,7 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [25Apr2025 20:04:31.038] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogicContainer$1 (target of net/minecraft/world/inventory/Slot)
 [25Apr2025 20:04:31.039] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/crafting/CraftingUpgradeContainer$1 (target of net/minecraft/world/inventory/Slot)
 [25Apr2025 20:04:31.040] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/crafting/CraftingItemHandler (target of net/minecraft/world/Container)
+[25Apr2025 20:06:28.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 20:06:28.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 20:11:28.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 20:11:28.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
