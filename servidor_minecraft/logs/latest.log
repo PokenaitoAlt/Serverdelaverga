@@ -2287,3 +2287,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 01:24:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [26Apr2025 01:25:06.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Zombie
 [26Apr2025 01:25:12.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7228, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[26Apr2025 01:25:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> MAMAGUEBO LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG
+[26Apr2025 01:25:39.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 01:25:39.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 01:26:06.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:42419] logged in with entity id 7764 at (-39.5, 76.0, 105.5)
+[26Apr2025 01:26:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 01:26:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> CUL
+[26Apr2025 01:26:29.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dejame jugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar
+[26Apr2025 01:27:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdfdas
+[26Apr2025 01:33:55.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsdsdsdsdsdsdsfa
+[26Apr2025 01:34:00.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> carga terreno
+[26Apr2025 01:37:00.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13841, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[26Apr2025 01:37:49.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.010020018428463,0.0,-1.5836047494469767
+[26Apr2025 01:38:03.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14602, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[26Apr2025 01:38:11.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26Apr2025 01:38:11.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 01:42:19.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59499] logged in with entity id 15962 at (767.6966490022343, 63.0, 1204.27613219864)
+[26Apr2025 01:42:19.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 01:42:27.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=398} BlockPos{x=-630, y=62, z=398}
+[26Apr2025 01:42:27.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=398} BlockPos{x=-630, y=62, z=398}
+[26Apr2025 01:42:27.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=397} BlockPos{x=-630, y=62, z=397}
+[26Apr2025 01:42:27.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=397} BlockPos{x=-630, y=62, z=397}
+[26Apr2025 01:42:27.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=396} BlockPos{x=-630, y=62, z=395}
+[26Apr2025 01:42:29.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=65, z=394} BlockPos{x=-630, y=62, z=394}
+[26Apr2025 01:42:29.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=65, z=394} BlockPos{x=-630, y=62, z=394}
+[26Apr2025 01:42:29.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=393} BlockPos{x=-630, y=62, z=394}
+[26Apr2025 01:42:29.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=393} BlockPos{x=-630, y=62, z=394}
+[26Apr2025 01:42:30.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=392} BlockPos{x=-630, y=62, z=392}
+[26Apr2025 01:42:30.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=392} BlockPos{x=-630, y=62, z=392}
+[26Apr2025 01:42:30.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=391} BlockPos{x=-630, y=62, z=391}
+[26Apr2025 01:42:30.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=390} BlockPos{x=-630, y=62, z=389}
+[26Apr2025 01:42:30.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-630, y=64, z=390} BlockPos{x=-630, y=62, z=389}
+[26Apr2025 01:42:38.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assa
+[26Apr2025 01:43:13.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 01:43:13.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 01:43:37.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57755] logged in with entity id 17095 at (823.9578689020146, 73.0, 1171.1998142340676)
+[26Apr2025 01:43:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 01:44:00.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asadasd

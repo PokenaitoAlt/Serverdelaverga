@@ -7696,5 +7696,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_wall": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
