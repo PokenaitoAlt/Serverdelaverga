@@ -2820,3 +2820,21 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 05:51:12.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/132740, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
 [26Apr2025 05:52:21.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/133010, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
 [26Apr2025 05:56:08.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135317, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[26Apr2025 06:00:31.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Frightening Rush]
+[26Apr2025 06:00:35.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Phasmophobic]
+[26Apr2025 06:01:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Bonfire Lit]
+[26Apr2025 06:03:52.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[26Apr2025 06:03:52.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[26Apr2025 06:03:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 06:04:18.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57911] logged in with entity id 138780 at (-751.2980631566176, 64.16610926093821, 348.8340112382103)
+[26Apr2025 06:04:18.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 06:04:31.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26Apr2025 06:04:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 06:04:39.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60293] logged in with entity id 138908 at (-751.2980631566176, 64.16610926093821, 348.8340112382103)
+[26Apr2025 06:04:39.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 06:05:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[26Apr2025 06:05:04.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cudcoiapjsa
+[26Apr2025 06:05:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> oasjdpajdpaos
+[26Apr2025 06:05:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pajaro
+[26Apr2025 06:05:15.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdadssadsda
+[26Apr2025 06:08:46.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/140039, l='ServerLevel[world]', x=-764.38, y=-256.00, z=339.00] died, message: 'Villager was killed'

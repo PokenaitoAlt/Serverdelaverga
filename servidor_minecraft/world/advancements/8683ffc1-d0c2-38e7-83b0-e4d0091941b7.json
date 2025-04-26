@@ -433,6 +433,7 @@
       "minecraft:pillager": "2025-04-11 03:35:20 +0000",
       "minecraft:blaze": "2025-04-21 21:25:59 +0000",
       "minecraft:skeleton": "2025-04-11 03:06:50 +0000",
+      "minecraft:ghast": "2025-04-26 05:56:44 +0000",
       "minecraft:hoglin": "2025-04-18 22:43:26 +0000",
       "minecraft:vindicator": "2025-04-18 16:35:03 +0000",
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
@@ -7844,6 +7845,12 @@
     },
     "done": true
   },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-04-26 06:00:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-04-26 02:04:37 +0000"
@@ -7997,6 +8004,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-26 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-04-26 06:00:31 +0000"
     },
     "done": true
   },
