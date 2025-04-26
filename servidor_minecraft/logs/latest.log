@@ -2324,3 +2324,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 01:43:37.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57755] logged in with entity id 17095 at (823.9578689020146, 73.0, 1171.1998142340676)
 [26Apr2025 01:43:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [26Apr2025 01:44:00.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asadasd
+[26Apr2025 01:49:54.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:45141] logged in with entity id 22133 at (-612.5, 63.0, 424.5)
+[26Apr2025 01:49:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[26Apr2025 01:50:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasf
+[26Apr2025 01:50:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> ass
+[26Apr2025 01:51:05.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22801, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[26Apr2025 01:51:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsadsa
