@@ -2448,3 +2448,97 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 02:49:47.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> z
 [26Apr2025 02:49:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> z
 [26Apr2025 02:49:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ma.brazzers.es
+[26Apr2025 03:00:20.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 03:00:20.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:00:51.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43179] logged in with entity id 43727 at (-766.3522879539158, 63.0, 337.84917375711746)
+[26Apr2025 03:00:51.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 03:01:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ella e callaita
+[26Apr2025 03:01:21.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pero pal sexo e atrevida
+[26Apr2025 03:02:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cuñloadsoasdk
+[26Apr2025 03:02:36.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 03:02:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:03:14.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40779] logged in with entity id 44698 at (-766.5, 69.5, 334.5)
+[26Apr2025 03:03:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 03:04:12.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26Apr2025 03:04:12.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:04:22.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38407] logged in with entity id 45677 at (-766.5, 69.5, 334.5)
+[26Apr2025 03:04:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 03:05:05.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 03:05:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:05:35.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:54169] logged in with entity id 46666 at (-766.5, 69.5, 334.5)
+[26Apr2025 03:05:35.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 03:05:59.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdkjlsadaskjsad}
+[26Apr2025 03:06:12.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 03:06:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:06:17.219] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 03:06:17.219] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 03:06:21.303] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 03:07:01.908] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 03:07:01.908] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 03:07:46.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.2939453125
+[26Apr2025 03:07:46.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.2939453125
+[26Apr2025 03:07:46.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.2939453125
+[26Apr2025 03:07:46.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.2939453125
+[26Apr2025 03:08:09.215] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 03:09:39.470] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Apr2025 03:09:39.554] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker succeeded with 1768 radius, 12 samples
+[26Apr2025 03:09:42.447] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Apr2025 03:09:42.517] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker succeeded with 1299 radius, 7 samples
+[26Apr2025 03:09:46.100] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Apr2025 03:09:50.106] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker succeeded with 6523 radius, 162 samples
+[26Apr2025 03:09:50.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[26Apr2025 03:09:54.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36123] logged in with entity id 51238 at (-766.5, 69.5, 334.5)
+[26Apr2025 03:09:54.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 03:09:54.910] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Apr2025 03:10:00.539] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker succeeded with 4787 radius, 69 samples
+[26Apr2025 03:10:00.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 10.131602381612083,0.17675927506424216,0.4848228620396071
+[26Apr2025 03:10:00.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.274971760560106,0.0,7.16259630529953
+[26Apr2025 03:10:00.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.583688416257246,0.0,7.340075194763813
+[26Apr2025 03:10:00.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.897017765143232,0.0,7.518268575169714
+[26Apr2025 03:10:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -8.214525050680209,0.0,7.6970539478907085
+[26Apr2025 03:10:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -8.535491341536954,0.0,7.876941667726896
+[26Apr2025 03:10:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -8.858944985186326,0.0,8.058939059090108
+[26Apr2025 03:10:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -9.184044947484153,0.0,8.243821414208242
+[26Apr2025 03:10:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -9.510069471911606,0.0,8.432172979021743
+[26Apr2025 03:10:00.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -9.836405526442036,0.0,8.624419740808207
+[26Apr2025 03:10:00.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -10.162537484054383,0.0,8.820858191985735
+[26Apr2025 03:10:00.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -10.488037728682343,0.0,9.021677451267351
+[26Apr2025 03:10:00.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -10.81255715748739,0.0,9.226978667920775
+[26Apr2025 03:10:00.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -11.135813345336146,0.0,9.436795002037115
+[26Apr2025 03:10:00.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -11.457583886341581,0.0,9.65110312662955
+[26Apr2025 03:10:00.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -11.778146383691478,0.0,9.869296828518827
+[26Apr2025 03:10:00.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -12.097737818683413,0.0,10.090844763230734
+[26Apr2025 03:10:00.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -12.416558812217886,0.0,10.315283143212582
+[26Apr2025 03:10:00.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -12.734777445240638,0.0,10.542209131150912
+[26Apr2025 03:10:00.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -13.052537437572823,0.0,10.771268864575632
+[26Apr2025 03:10:00.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -13.369958302283635,0.0,11.002155646639949
+[26Apr2025 03:10:00.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -13.687140232508227,0.0,11.234602292165619
+[26Apr2025 03:10:00.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -14.004166111672816,0.0,11.468377236079732
+[26Apr2025 03:10:00.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -14.32110565472874,0.0,11.70327798930839
+[26Apr2025 03:10:00.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -14.63801441904559,0.0,11.939131302678334
+[26Apr2025 03:10:00.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -14.954939955013515,0.0,12.175784202367367
+[26Apr2025 03:10:00.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -15.271917953853972,0.0,12.413108062532046
+[26Apr2025 03:10:00.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -15.588978134853164,0.0,12.650990109461873
+[26Apr2025 03:10:00.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -15.90614485373169,0.0,12.88933184754137
+[26Apr2025 03:10:00.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -16.223435333046382,0.0,13.128050689903603
+[26Apr2025 03:10:00.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -16.508996756864804,0.0,13.34289764233813
+[26Apr2025 03:10:00.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -16.766002031493144,0.0,13.53625989440684
+[26Apr2025 03:10:00.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -16.997306772531147,0.0,13.71028591665845
+[26Apr2025 03:10:00.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -17.205481033950605,0.0,13.866909332535897
+[26Apr2025 03:10:00.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -17.392837864264834,0.0,14.007870403091374
+[26Apr2025 03:10:00.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -10.590112173649231,0.0,7.1487598362650715
+[26Apr2025 03:10:00.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -10.741871198163267,0.0,7.262938297365508
+[26Apr2025 03:10:00.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -10.878454316607645,0.0,7.365698909633693
+[26Apr2025 03:10:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> PUEDO VOTAR
+[26Apr2025 03:10:15.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> YA NOTO EL PRIVILEGIO
+[26Apr2025 03:10:24.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 03:10:24.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:13:41.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[26Apr2025 03:13:41.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[26Apr2025 03:13:59.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39933] logged in with entity id 53436 at (-766.5, 69.5, 334.5)
+[26Apr2025 03:13:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 03:14:16.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> EL CUlo
+[26Apr2025 03:14:19.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ciñpads
+[26Apr2025 03:14:22.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26Apr2025 03:14:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 03:15:47.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Vex
