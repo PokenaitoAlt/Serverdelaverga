@@ -2838,3 +2838,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 06:05:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pajaro
 [26Apr2025 06:05:15.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdadssadsda
 [26Apr2025 06:08:46.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/140039, l='ServerLevel[world]', x=-764.38, y=-256.00, z=339.00] died, message: 'Villager was killed'
+[26Apr2025 06:13:35.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/141630, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[26Apr2025 06:15:14.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[26Apr2025 06:15:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[26Apr2025 06:15:24.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142397, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[26Apr2025 06:15:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina died
