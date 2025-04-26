@@ -32,7 +32,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-19 05:07:58 +0000",
+      "minecraft:mushroom_fields": "2025-04-26 03:50:14 +0000",
       "minecraft:taiga": "2025-04-23 02:15:40 +0000",
+      "minecraft:deep_ocean": "2025-04-26 03:40:31 +0000",
       "minecraft:frozen_river": "2025-04-23 03:01:07 +0000",
       "minecraft:sunflower_plains": "2025-04-17 04:34:17 +0000",
       "minecraft:cherry_grove": "2025-04-19 05:05:47 +0000",
@@ -60,6 +62,7 @@
       "minecraft:windswept_forest": "2025-04-23 02:10:37 +0000",
       "minecraft:ocean": "2025-04-18 00:04:59 +0000",
       "minecraft:jungle": "2025-04-19 04:19:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-26 03:43:30 +0000",
       "minecraft:flower_forest": "2025-04-17 04:34:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 02:48:46 +0000",
       "minecraft:deep_dark": "2025-04-23 04:36:06 +0000",
@@ -7697,6 +7700,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall": {
     "criteria": {
       "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
@@ -7715,6 +7724,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-26 03:42:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs": {
     "criteria": {
       "has_polished_cut_diorite": "2025-04-26 02:01:39 +0000"
@@ -7727,9 +7754,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-26 02:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
     },
     "done": true
   },
@@ -7739,9 +7778,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs": {
     "criteria": {
       "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-26 03:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-26 03:30:09 +0000"
     },
     "done": true
   },
@@ -7754,6 +7835,12 @@
   "create:recipes/building_blocks/small_tuff_brick_slab": {
     "criteria": {
       "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 03:30:09 +0000"
     },
     "done": true
   },
