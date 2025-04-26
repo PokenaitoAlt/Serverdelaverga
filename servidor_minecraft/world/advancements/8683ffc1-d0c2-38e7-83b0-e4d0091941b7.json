@@ -7700,9 +7700,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
     },
     "done": true
   },
@@ -7715,6 +7745,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall": {
     "criteria": {
       "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
     },
     "done": true
   },
@@ -7736,6 +7772,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-26 03:30:12 +0000"
@@ -7748,9 +7796,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-04-26 04:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-04-26 03:42:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
     },
     "done": true
   },
@@ -7778,9 +7862,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-26 02:45:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
     },
     "done": true
   },
@@ -7802,6 +7898,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs": {
     "criteria": {
       "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
@@ -7811,6 +7913,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-26 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2025-04-26 04:57:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
     },
     "done": true
   },
@@ -7859,6 +7973,18 @@
   "create:recipes/building_blocks/small_tuff_brick_slab": {
     "criteria": {
       "has_small_tuff_bricks": "2025-04-26 01:35:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-26 05:10:05 +0000"
     },
     "done": true
   },

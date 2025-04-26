@@ -2738,3 +2738,48 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 04:56:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ni Kofasushi se lanza esas
 [26Apr2025 04:57:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> diablox
 [26Apr2025 04:57:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Glorious Feast]
+[26Apr2025 04:59:10.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Mi gente vengan con una pala
+[26Apr2025 04:59:16.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> A inagurar el panda
+[26Apr2025 05:00:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Seba veni
+[26Apr2025 05:00:27.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> voy
+[26Apr2025 05:01:31.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> seba movelo
+[26Apr2025 05:01:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> trae una pala
+[26Apr2025 05:01:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> voy, llevo pala y hamburguesas
+[26Apr2025 05:02:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> estoy haciendo hamborguesa
+[26Apr2025 05:03:02.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ni papichi
+[26Apr2025 05:03:12.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> toi aca
+[26Apr2025 05:03:32.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya les doy las suyas
+[26Apr2025 05:03:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> epa tengan
+[26Apr2025 05:04:20.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ni los combos de papichi
+[26Apr2025 05:04:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el diablo q lag
+[26Apr2025 05:04:31.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ni brachos burgers
+[26Apr2025 05:04:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Veni
+[26Apr2025 05:04:43.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ni el Maracucho burger
+[26Apr2025 05:05:04.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> epa fotico en las estatuas con las hamborguesas
+[26Apr2025 05:05:07.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ven ven
+[26Apr2025 05:05:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Seba tomala
+[26Apr2025 05:06:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mirando hacia abajo
+[26Apr2025 05:06:12.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Para abajo
+[26Apr2025 05:06:25.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lesto
+[26Apr2025 05:06:26.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya?
+[26Apr2025 05:06:36.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> quedo criminal ese panda
+[26Apr2025 05:06:42.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Gracias mano
+[26Apr2025 05:06:57.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> en la manito
+[26Apr2025 05:07:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Que le pongo?
+[26Apr2025 05:07:10.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/112414, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[26Apr2025 05:07:35.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Mira compadre
+[26Apr2025 05:08:47.033] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: ConcentricRingsSearchWorker starting with 100000 max samples
+[26Apr2025 05:08:51.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
+[26Apr2025 05:08:51.634] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: ConcentricRingsSearchWorker succeeded with 256 samples
+[26Apr2025 05:09:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[26Apr2025 05:09:23.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 05:09:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 05:09:40.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57235] logged in with entity id 113685 at (-662.0564864813641, 68.0625, 406.94448870149364)
+[26Apr2025 05:09:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 05:11:36.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/114865, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[26Apr2025 05:11:46.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [My Bald Satanic Goth Girl Friend]
+[26Apr2025 05:11:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [First big catch of the month!]
+[26Apr2025 05:12:26.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/115290, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[26Apr2025 05:15:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [I'm not sugar coating it]
+[26Apr2025 05:16:00.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dalas?
+[26Apr2025 05:16:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> momento azucarado
