@@ -6967,5 +6967,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-26 02:48:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-26 02:48:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
