@@ -7934,6 +7934,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2025-04-26 05:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-26 03:30:12 +0000"

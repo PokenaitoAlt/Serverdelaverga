@@ -2811,3 +2811,12 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 05:29:13.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ya no
 [26Apr2025 05:29:17.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Seba metete en discord
 [26Apr2025 05:29:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> xd
+[26Apr2025 05:44:25.233] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[26Apr2025 05:44:25.266] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e4f4d689: RandomSpreadSearchWorker succeeded with 247 radius, 1 samples
+[26Apr2025 05:45:06.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Path to Better Gear]
+[26Apr2025 05:47:13.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131283, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
+[26Apr2025 05:47:28.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/131301, l='ServerLevel[world]', x=-764.39, y=-256.00, z=339.00] died, message: 'Villager was killed'
+[26Apr2025 05:49:39.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/132326, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[26Apr2025 05:51:12.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/132740, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[26Apr2025 05:52:21.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/133010, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[26Apr2025 05:56:08.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135317, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
