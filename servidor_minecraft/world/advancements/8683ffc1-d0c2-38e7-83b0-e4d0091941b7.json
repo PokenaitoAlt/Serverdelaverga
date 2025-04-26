@@ -7772,6 +7772,12 @@
     },
     "done": true
   },
+  "scguns:main/iron/venturi": {
+    "criteria": {
+      "venturi": "2025-04-26 04:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-26 02:45:06 +0000"
