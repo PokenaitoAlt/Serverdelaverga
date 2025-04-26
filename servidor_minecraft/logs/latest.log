@@ -2783,3 +2783,28 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 05:15:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [I'm not sugar coating it]
 [26Apr2025 05:16:00.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dalas?
 [26Apr2025 05:16:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> momento azucarado
+[26Apr2025 05:20:19.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rempalago[/127.77.141.205:38891] logged in with entity id 118781 at (-739.2704959554713, 61.0, 301.49725340878757)
+[26Apr2025 05:20:19.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago joined the game
+[26Apr2025 05:20:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> jojo
+[26Apr2025 05:20:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> epa mano
+[26Apr2025 05:20:47.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Nojoda Jojo te vais a meterahorita?
+[26Apr2025 05:20:48.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rempalago> oah
+[26Apr2025 05:20:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rempalago> estaba ocupado sorry
+[26Apr2025 05:22:30.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rempalago lost connection: Disconnected
+[26Apr2025 05:22:30.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago left the game
+[26Apr2025 05:23:30.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.77.141.205:36863] logged in with entity id 120293 at (-690.5034038388703, -58.0, 183.27854575223856)
+[26Apr2025 05:23:30.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[26Apr2025 05:27:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> we
+[26Apr2025 05:27:33.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mira
+[26Apr2025 05:27:38.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> XD
+[26Apr2025 05:27:40.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> A donde
+[26Apr2025 05:27:43.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDDD
+[26Apr2025 05:27:45.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122101, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
+[26Apr2025 05:27:47.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Duerman
+[26Apr2025 05:27:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> vamos a dormir seba
+[26Apr2025 05:27:53.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no ves al sonic verdad?
+[26Apr2025 05:27:55.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122154, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[26Apr2025 05:27:57.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> No
+[26Apr2025 05:27:58.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> xd
+[26Apr2025 05:28:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Pero dejalo xD
+[26Apr2025 05:28:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ponte el mamaguebo paquete de texturas vergacion
