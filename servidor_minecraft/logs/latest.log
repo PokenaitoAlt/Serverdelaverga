@@ -2330,3 +2330,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 01:50:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> ass
 [26Apr2025 01:51:05.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22801, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
 [26Apr2025 01:51:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsadsa
+[26Apr2025 02:07:49.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -1.2364880451418685,0.2046003784434376,-10.16233691757111
+[26Apr2025 02:07:51.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[26Apr2025 02:07:51.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[26Apr2025 02:07:51.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 02:08:03.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:34875] logged in with entity id 27462 at (-725.8114248374499, 63.7531999805212, 306.6136042832057)
+[26Apr2025 02:08:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 02:09:39.832] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Pokenaito just tried to change non-editable sign
+[26Apr2025 02:10:55.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya basta freezer
+[26Apr2025 02:11:03.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 02:11:03.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 02:11:34.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53233] logged in with entity id 28876 at (-767.1557830569664, 69.5, 355.5672589894605)
+[26Apr2025 02:11:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 02:11:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadasfafs
+[26Apr2025 02:12:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame picnhe
+[26Apr2025 02:12:06.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> let me in
+[26Apr2025 02:12:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adssad
+[26Apr2025 02:12:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya?
+[26Apr2025 02:12:49.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 02:12:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 02:13:21.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59811] logged in with entity id 29390 at (-767.1557830569664, 69.5, 355.5672589894605)
+[26Apr2025 02:13:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 02:13:51.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 02:13:51.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 02:14:22.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44691] logged in with entity id 29933 at (-767.1557830569664, 69.5, 355.5672589894605)
+[26Apr2025 02:14:22.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 02:14:39.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[26Apr2025 02:14:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dasads
+[26Apr2025 02:14:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[26Apr2025 02:14:54.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cu
+[26Apr2025 02:14:55.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lo
+[26Apr2025 02:14:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> jlo
+[26Apr2025 02:15:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mr world wide
+[26Apr2025 02:15:05.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> culo con kk
+[26Apr2025 02:15:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pitbull
+[26Apr2025 02:15:14.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> say my name
+[26Apr2025 02:15:26.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yeah bticj
+[26Apr2025 02:15:29.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adasdsa
