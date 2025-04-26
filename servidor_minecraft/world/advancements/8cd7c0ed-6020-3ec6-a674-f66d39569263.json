@@ -4085,9 +4085,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-04-26 04:23:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-04-26 04:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2025-04-26 03:43:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-04-26 04:23:39 +0000"
     },
     "done": true
   },
