@@ -2259,3 +2259,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Apr2025 01:08:13.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [26Apr2025 01:10:32.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culoo
 [26Apr2025 01:11:13.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo con caca
+[26Apr2025 01:17:20.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasdsa
+[26Apr2025 01:17:53.797] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f81c2f8[id=<null>,name=Zombie62002,properties={},legacy=false] (/127.109.46.254:53721) lost connection: Disconnected
+[26Apr2025 01:18:00.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:41341] logged in with entity id 2262 at (-660.5, 68.0, 402.5)
+[26Apr2025 01:18:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[26Apr2025 01:18:23.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Duerme Cabron
+[26Apr2025 01:18:26.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> o estais lejo
+[26Apr2025 01:20:08.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3954, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[26Apr2025 01:20:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasfdas
+[26Apr2025 01:20:44.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 01:20:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 01:21:22.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:41777] logged in with entity id 4531 at (631.3000000119209, 57.0, 1285.336427696379)
+[26Apr2025 01:21:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 01:21:36.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mecagoen
+[26Apr2025 01:21:49.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadasd
+[26Apr2025 01:21:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sueltame laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaag
+[26Apr2025 01:23:08.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26Apr2025 01:23:08.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 01:23:34.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59747] logged in with entity id 5779 at (645.576329991921, 62.41261116876026, 1262.4900918580897)
+[26Apr2025 01:23:34.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 01:23:54.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cuñlaspd
+[26Apr2025 01:24:04.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6355, l='ServerLevel[world]', x=-765.40, y=-256.00, z=338.90] died, message: 'Villager was killed'
+[26Apr2025 01:24:05.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26Apr2025 01:24:05.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 01:24:05.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 01:24:39.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:52501] logged in with entity id 6522 at (645.576329991921, 62.41261116876026, 1262.4900918580897)
+[26Apr2025 01:24:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 01:25:06.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Zombie
+[26Apr2025 01:25:12.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7228, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
