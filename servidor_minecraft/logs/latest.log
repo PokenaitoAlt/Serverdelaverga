@@ -2687,3 +2687,12 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 03:51:03.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
 [26Apr2025 03:54:47.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85359, l='ServerLevel[world]', x=-662.54, y=-256.00, z=409.80] died, message: 'Villager was killed'
 [26Apr2025 03:55:06.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85553, l='ServerLevel[world]', x=-764.62, y=-256.00, z=338.94] died, message: 'Villager was killed'
+[26Apr2025 03:59:47.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [A Glorious Feast]
+[26Apr2025 03:59:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> er hueso
+[26Apr2025 04:00:05.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> papu estan cerca?
+[26Apr2025 04:00:08.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tengan
+[26Apr2025 04:08:06.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a esos rayos ahi que tenerles respeto
+[26Apr2025 04:08:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> MUCHACHOS USTEDES ESCUCHARON EL REMPALAGO?
+[26Apr2025 04:09:28.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92634, l='ServerLevel[world]', x=-751.83, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[26Apr2025 04:09:56.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92735, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.98] died, message: 'Villager was killed'
+[26Apr2025 04:15:55.836] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/95376, l='ServerLevel[world]', x=-765.07, y=-256.00, z=350.08] died, message: 'Villager was killed'

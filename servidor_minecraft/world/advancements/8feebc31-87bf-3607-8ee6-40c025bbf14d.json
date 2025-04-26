@@ -7039,6 +7039,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-04-26 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-04-26 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2025-04-26 03:59:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cod_roll": {
     "criteria": {
       "has_cod_slice": "2025-04-26 03:51:54 +0000"
