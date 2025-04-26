@@ -2843,3 +2843,12 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26Apr2025 06:15:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [26Apr2025 06:15:24.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142397, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
 [26Apr2025 06:15:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina died
+[26Apr2025 06:24:34.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.8119405321238,1.1661092609382138,1.9269178635137791
+[26Apr2025 06:24:38.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[26Apr2025 06:24:38.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[26Apr2025 06:24:38.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26Apr2025 06:24:48.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43197] logged in with entity id 146711 at (-677.3543240040923, 64.00133597911214, 395.41323194039865)
+[26Apr2025 06:24:48.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26Apr2025 06:25:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ratas
+[26Apr2025 06:27:24.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26Apr2025 06:27:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game

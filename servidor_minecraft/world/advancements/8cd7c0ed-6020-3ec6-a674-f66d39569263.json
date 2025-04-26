@@ -4164,9 +4164,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-26 06:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-26 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 06:24:11 +0000"
     },
     "done": true
   },

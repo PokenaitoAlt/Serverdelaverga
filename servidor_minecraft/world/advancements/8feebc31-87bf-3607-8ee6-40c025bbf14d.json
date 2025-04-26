@@ -7141,12 +7141,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-04-26 06:05:56 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-04-26 06:05:30 +0000"
@@ -7204,6 +7198,18 @@
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2025-04-26 06:05:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-04-26 06:05:56 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-04-26 06:20:19 +0000"
     },
     "done": true
   },
