@@ -2259,3 +2259,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 15:48:51.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:59483] logged in with entity id 111 at (-664.5990794225997, 63.0, 406.06986216748936)
 [27Apr2025 15:48:51.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [27Apr2025 15:48:53.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[27Apr2025 16:16:23.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:51741] logged in with entity id 5381 at (-558.9104166775942, 64.0, 395.1132261470687)
+[27Apr2025 16:16:23.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[27Apr2025 16:16:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Señor tablos
+[27Apr2025 16:16:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Entro la esencia
+[27Apr2025 16:18:45.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> ESENCIA
+[27Apr2025 16:18:48.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> DUERMNEEEEEEE
+[27Apr2025 16:18:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> AAAAAAAAAAAAAAAAAAAAA
+[27Apr2025 16:18:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> 0.0
+[27Apr2025 16:19:02.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que Fue Miguee
+[27Apr2025 16:19:19.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> todo bien rey?
+[27Apr2025 16:23:04.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Fino Fino
+[27Apr2025 16:23:06.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> chance
+[27Apr2025 16:23:07.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[27Apr2025 16:23:07.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
