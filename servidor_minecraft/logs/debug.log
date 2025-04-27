@@ -8295,3 +8295,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 15:49:08.678] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogicContainer$1 (target of net/minecraft/world/inventory/Slot)
 [27Apr2025 15:51:46.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 15:51:46.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 15:56:46.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 15:56:46.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 16:01:46.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 16:01:46.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
