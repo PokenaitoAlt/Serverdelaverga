@@ -2330,3 +2330,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 18:55:50.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Gravedigger]
 [27Apr2025 18:56:00.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [27Apr2025 18:56:00.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[27Apr2025 19:01:23.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:44051] logged in with entity id 87927 at (-93.68053816662675, 54.0, 1927.3686421764207)
+[27Apr2025 19:01:23.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[27Apr2025 19:01:56.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:46213] logged in with entity id 88207 at (-1702.3055580593282, -43.0, 920.1186716659274)
+[27Apr2025 19:01:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[27Apr2025 19:02:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> perate
+[27Apr2025 19:02:44.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 tried to swim in lava
+[27Apr2025 19:02:48.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDDDDDDDD
+[27Apr2025 19:02:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> CUASCUASCUAS
+[27Apr2025 19:03:00.222] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/89494, l='ServerLevel[world]', x=-661.37, y=-256.00, z=409.99] died, message: 'Villager was killed'
+[27Apr2025 19:04:30.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/89990, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'

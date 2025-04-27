@@ -5690,6 +5690,12 @@
     },
     "done": true
   },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-04-27 18:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-27 17:23:27 +0000"
