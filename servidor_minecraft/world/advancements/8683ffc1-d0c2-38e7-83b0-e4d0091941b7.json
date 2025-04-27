@@ -417,6 +417,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-11 02:59:28 +0000",
+      "cooked_beef": "2025-04-27 17:00:40 +0000",
       "beef": "2025-04-16 16:52:30 +0000",
       "baked_potato": "2025-04-19 03:14:58 +0000",
       "apple": "2025-04-11 02:48:25 +0000",
@@ -8025,6 +8026,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-04-27 16:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-27 16:44:11 +0000"
@@ -8046,6 +8053,18 @@
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassis_from_conversion": {
     "criteria": {
       "has_item": "2025-04-27 16:51:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2025-04-27 16:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-27 17:24:25 +0000"
     },
     "done": true
   },
@@ -8073,6 +8092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-27 17:24:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/full_tatami_mat": {
     "criteria": {
       "has_canvas": "2025-04-27 16:43:09 +0000"
@@ -8091,6 +8116,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-27 17:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-27 17:24:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-27 16:44:11 +0000"
@@ -8100,6 +8137,12 @@
   "farmersdelight:recipes/decorations/canvas_sign": {
     "criteria": {
       "has_canvas": "2025-04-27 16:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-27 17:24:25 +0000"
     },
     "done": true
   },

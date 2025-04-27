@@ -2290,3 +2290,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 16:51:18.498] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [27Apr2025 16:51:18.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4928ms or 98 ticks behind
 [27Apr2025 16:51:18.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -7.5708274630301275,-1.0013359791121417,-6.640662143389875
+[27Apr2025 17:06:25.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -6.266678522967709,1.1661092609382138,-7.914987896370803
+[27Apr2025 17:06:27.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[27Apr2025 17:06:32.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! -6.540809960550973,1.2987031463477763,-8.19394240392478
+[27Apr2025 17:08:45.266] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ce9a3a03: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[27Apr2025 17:08:45.291] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ce9a3a03: RandomSpreadSearchWorker succeeded with 475 radius, 1 samples
+[27Apr2025 17:11:18.639] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[27Apr2025 17:11:25.288] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[27Apr2025 17:11:26.413] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[27Apr2025 17:11:34.195] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[27Apr2025 17:27:22.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> https//:petardas.com.ve
+[27Apr2025 17:34:22.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[27Apr2025 17:34:22.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
