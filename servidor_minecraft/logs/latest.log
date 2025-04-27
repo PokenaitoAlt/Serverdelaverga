@@ -2309,3 +2309,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 17:44:48.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [27Apr2025 17:46:34.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [27Apr2025 17:46:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[27Apr2025 18:04:17.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:42527] logged in with entity id 61088 at (-92.30000001192093, 53.0, 238.22410375766526)
+[27Apr2025 18:04:17.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
