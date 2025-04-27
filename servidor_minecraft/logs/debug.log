@@ -10698,3 +10698,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 21:16:07.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49674, l='ServerLevel[world]', x=972.42, y=70.00, z=862.16] died, message: 'Villager was slain by The Immortal'
 [27Apr2025 21:16:33.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49631, l='ServerLevel[world]', x=957.83, y=70.00, z=859.50] died, message: 'Villager was slain by The Immortal'
 [27Apr2025 21:16:44.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/49675, l='ServerLevel[world]', x=964.15, y=70.00, z=850.14] died, message: 'Weaponsmith was slain by The Immortal'
+[27Apr2025 21:20:25.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:20:25.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 21:25:25.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:25:25.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
