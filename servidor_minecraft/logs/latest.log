@@ -2274,3 +2274,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 19:47:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Local Brewery]
 [27Apr2025 19:56:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Stayin' Frosty]
 [27Apr2025 20:02:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Better Blade]
+[27Apr2025 20:07:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 fell from a high place
+[27Apr2025 20:09:26.765] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21194, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[27Apr2025 20:11:48.765] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22092, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[27Apr2025 20:12:46.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22457, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[27Apr2025 20:13:50.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22931, l='ServerLevel[world]', x=-765.25, y=-256.00, z=350.01] died, message: 'Villager was killed'
+[27Apr2025 20:14:12.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Zombie
+[27Apr2025 20:15:15.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Enchanter]
