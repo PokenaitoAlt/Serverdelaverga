@@ -2273,3 +2273,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 16:23:06.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> chance
 [27Apr2025 16:23:07.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [27Apr2025 16:23:07.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[27Apr2025 16:34:03.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.77.141.205:46081] logged in with entity id 11084 at (-350.4077843269194, 62.18988120660522, 760.6794150674733)
+[27Apr2025 16:34:03.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[27Apr2025 16:34:13.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> JOJOOOOOOOO!!!!!
+[27Apr2025 16:34:28.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> potato
+[27Apr2025 16:34:33.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> mythril?
+[27Apr2025 16:35:10.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:41129] logged in with entity id 11974 at (-662.5557600770048, 63.0, 397.89441039589514)
+[27Apr2025 16:35:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[27Apr2025 16:35:10.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> picamos esta vez?
+[27Apr2025 16:35:21.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si quieres
+[27Apr2025 16:35:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Andamos en discord
+[27Apr2025 16:35:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Hay que hacer picos
+[27Apr2025 16:35:28.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> voy
