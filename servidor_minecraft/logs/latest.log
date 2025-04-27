@@ -2316,3 +2316,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 18:14:59.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:49479] logged in with entity id 66261 at (-93.22951701323716, 36.0, 551.3303440684942)
 [27Apr2025 18:14:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [27Apr2025 18:24:33.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57461, l='ServerLevel[world]', x=-1827.30, y=66.00, z=972.31] died, message: 'Villager was squashed by a falling anvil'
+[27Apr2025 18:30:30.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[27Apr2025 18:30:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[27Apr2025 18:30:42.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:47975] logged in with entity id 72703 at (-1773.086961946138, -38.0, 908.3000000119209)
+[27Apr2025 18:30:42.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[27Apr2025 18:32:22.296] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ce9a3a03: ConcentricRingsSearchWorker starting with 100000 max samples
+[27Apr2025 18:32:22.657] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ce9a3a03: ConcentricRingsSearchWorker succeeded with 256 samples
