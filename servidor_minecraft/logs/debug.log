@@ -9651,3 +9651,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 18:32:22.657] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ce9a3a03: ConcentricRingsSearchWorker succeeded with 256 samples
 [27Apr2025 18:36:53.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 18:36:53.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:40:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Hidden in the Depths]
+[27Apr2025 18:41:00.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Those Were the Days]
+[27Apr2025 18:41:53.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:41:53.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 18:46:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Hot Tourist Destinations]
+[27Apr2025 18:46:25.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[27Apr2025 18:46:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[27Apr2025 18:46:53.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 18:46:53.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
