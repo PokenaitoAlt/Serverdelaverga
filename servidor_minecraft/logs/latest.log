@@ -2311,3 +2311,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 17:46:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [27Apr2025 18:04:17.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:42527] logged in with entity id 61088 at (-92.30000001192093, 53.0, 238.22410375766526)
 [27Apr2025 18:04:17.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[27Apr2025 18:13:53.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[27Apr2025 18:13:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[27Apr2025 18:14:59.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:49479] logged in with entity id 66261 at (-93.22951701323716, 36.0, 551.3303440684942)
+[27Apr2025 18:14:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[27Apr2025 18:24:33.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57461, l='ServerLevel[world]', x=-1827.30, y=66.00, z=972.31] died, message: 'Villager was squashed by a falling anvil'
