@@ -2272,3 +2272,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 19:40:17.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:60901] logged in with entity id 2909 at (-422.5016862889383, 76.0, 80.52393144907501)
 [27Apr2025 19:40:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [27Apr2025 19:47:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Local Brewery]
+[27Apr2025 19:56:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Stayin' Frosty]
+[27Apr2025 20:02:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Better Blade]
