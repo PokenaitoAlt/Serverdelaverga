@@ -8166,9 +8166,21 @@
     },
     "done": true
   },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-04-27 18:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-04-27 18:39:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-04-27 18:47:40 +0000"
     },
     "done": true
   },
@@ -8214,6 +8226,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-04-27 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-27 18:39:19 +0000"
@@ -8238,9 +8256,27 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 18:47:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-27 18:37:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-04-27 18:47:40 +0000"
     },
     "done": true
   },
@@ -8250,9 +8286,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-04-27 18:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-04-27 18:40:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-04-27 18:47:40 +0000"
     },
     "done": true
   },

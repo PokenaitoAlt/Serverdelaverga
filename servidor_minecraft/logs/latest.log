@@ -2327,3 +2327,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 18:46:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Hot Tourist Destinations]
 [27Apr2025 18:46:25.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
 [27Apr2025 18:46:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[27Apr2025 18:55:50.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Gravedigger]
+[27Apr2025 18:56:00.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[27Apr2025 18:56:00.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
