@@ -1137,8 +1137,10 @@
       "minecraft:skeleton": "2025-04-18 02:22:06 +0000",
       "minecraft:spider": "2025-04-18 16:53:39 +0000",
       "minecraft:creeper": "2025-04-18 02:21:21 +0000",
+      "minecraft:piglin": "2025-04-27 20:30:17 +0000",
       "minecraft:enderman": "2025-04-21 17:21:40 +0000",
       "minecraft:zombie": "2025-04-18 16:31:40 +0000",
+      "minecraft:drowned": "2025-04-27 20:53:43 +0000",
       "minecraft:zombie_villager": "2025-04-23 05:04:07 +0000"
     },
     "done": false
@@ -5985,6 +5987,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-04-27 20:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 20:31:55 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_rod": {
     "criteria": {
       "gobber2_rod": "2025-04-27 20:02:51 +0000"
@@ -5997,15 +6011,51 @@
     },
     "done": true
   },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-04-27 20:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-27 20:35:38 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2025-04-27 20:02:22 +0000"
     },
     "done": true
   },
+  "gobber2:gobber2_ring_ascent": {
+    "criteria": {
+      "gobber2_ring_ascent": "2025-04-27 21:01:40 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_sword": {
     "criteria": {
       "gobber2_sword": "2025-04-27 20:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 20:31:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-04-27 20:27:29 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring": {
+    "criteria": {
+      "gobber2_ring": "2025-04-27 21:01:33 +0000"
     },
     "done": true
   },

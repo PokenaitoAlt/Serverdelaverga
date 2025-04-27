@@ -421,6 +421,7 @@
       "beef": "2025-04-16 16:52:30 +0000",
       "baked_potato": "2025-04-19 03:14:58 +0000",
       "apple": "2025-04-11 02:48:25 +0000",
+      "rabbit": "2025-04-27 20:34:50 +0000",
       "mutton": "2025-04-11 04:21:28 +0000",
       "bread": "2025-04-11 03:47:55 +0000",
       "rotten_flesh": "2025-04-11 03:42:16 +0000",
@@ -443,6 +444,7 @@
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
       "minecraft:phantom": "2025-04-23 05:52:38 +0000",
       "minecraft:wither_skeleton": "2025-04-21 21:08:55 +0000",
+      "minecraft:husk": "2025-04-27 20:31:50 +0000",
       "minecraft:piglin": "2025-04-20 18:04:55 +0000",
       "minecraft:enderman": "2025-04-17 03:13:35 +0000",
       "minecraft:vex": "2025-04-26 03:14:01 +0000",
@@ -8389,12 +8391,6 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-04-27 19:47:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-04-27 19:44:19 +0000"
@@ -8407,9 +8403,9 @@
     },
     "done": true
   },
-  "gobber2:root": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "gobber2_globette": "2025-04-27 20:05:54 +0000"
+      "potion": "2025-04-27 19:47:27 +0000"
     },
     "done": true
   },
@@ -8422,6 +8418,102 @@
   "netherexp:nether/stayin_frosty": {
     "criteria": {
       "c1": "2025-04-27 19:56:29 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-04-27 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-27 20:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-27 20:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-27 20:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-04-27 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-04-27 21:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-27 20:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-27 20:47:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-04-27 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-27 20:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-04-27 21:00:20 +0000"
     },
     "done": true
   },
