@@ -2285,3 +2285,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Apr2025 16:35:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Andamos en discord
 [27Apr2025 16:35:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Hay que hacer picos
 [27Apr2025 16:35:28.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> voy
+[27Apr2025 16:42:56.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-748, y=71, z=219} BlockPos{x=-747, y=71, z=218}
