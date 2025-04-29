@@ -2061,7 +2061,6 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2025-04-23 06:13:36 +0000",
-      "pasta_with_meatballs": "2025-04-27 21:26:52 +0000",
       "beef_stew": "2025-04-18 04:21:00 +0000"
     },
     "done": false
@@ -6042,12 +6041,6 @@
     },
     "done": true
   },
-  "gobber2:gobber2_pickaxe": {
-    "criteria": {
-      "gobber2_pickaxe": "2025-04-27 21:42:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-04-27 21:12:31 +0000"
@@ -6063,12 +6056,6 @@
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-04-27 20:27:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-04-27 21:26:52 +0000"
     },
     "done": true
   },

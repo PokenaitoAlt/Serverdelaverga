@@ -8463,19 +8463,13 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-04-27 21:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
     },
@@ -8493,27 +8487,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-04-27 21:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-04-27 20:47:14 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_pickup_upgrade": "2025-04-27 21:00:20 +0000"
+      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:46:36 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-04-27 21:00:20 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-04-27 21:00:32 +0000"
     },
     "done": true
   },

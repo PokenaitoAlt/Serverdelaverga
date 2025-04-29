@@ -7213,17 +7213,5 @@
     },
     "done": true
   },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-04-29 01:15:41 +0000"
-    },
-    "done": true
-  },
-  "create_mechanical_chicken:recipes/misc/crafting/mechanical_chicken": {
-    "criteria": {
-      "has_brass_sheet": "2025-04-29 01:15:48 +0000"
-    },
-    "done": true
-  },
   "DataVersion": 3465
 }
