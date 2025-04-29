@@ -3230,3 +3230,69 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 [29Apr2025 04:03:18.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Teneis esmeralda?
 [29Apr2025 04:03:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> si
 [29Apr2025 04:03:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cuanta necesitas?
+[29Apr2025 04:03:46.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> 2
+[29Apr2025 04:04:23.543] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 32], discarding
+[29Apr2025 04:04:23.551] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 33], discarding
+[29Apr2025 04:04:23.556] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-64, 34], discarding
+[29Apr2025 04:04:23.557] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-63, 34], discarding
+[29Apr2025 04:04:23.559] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-69, 35], discarding
+[29Apr2025 04:04:23.561] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-65, 35], discarding
+[29Apr2025 04:04:23.562] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-64, 35], discarding
+[29Apr2025 04:04:23.564] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 04:04:23.564] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-63, 35], discarding
+[29Apr2025 04:04:23.566] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 04:04:23.567] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-69, 36], discarding
+[29Apr2025 04:04:23.569] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-66, 36], discarding
+[29Apr2025 04:04:23.572] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 04:04:23.572] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-65, 36], discarding
+[29Apr2025 04:04:23.577] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-69, 37], discarding
+[29Apr2025 04:04:23.578] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-68, 37], discarding
+[29Apr2025 04:04:23.610] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-70, 37], discarding
+[29Apr2025 04:04:23.623] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-66, 20], discarding
+[29Apr2025 04:04:23.624] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-65, 20], discarding
+[29Apr2025 04:04:23.626] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 04:04:23.628] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-66, 21], discarding
+[29Apr2025 04:04:23.629] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 04:04:23.629] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-65, 21], discarding
+[29Apr2025 04:04:23.632] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/oak
+[29Apr2025 04:04:23.673] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-68, 43], discarding
+[29Apr2025 04:04:23.683] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-69, 44], discarding
+[29Apr2025 04:04:23.683] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 04:04:23.684] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-68, 44], discarding
+[29Apr2025 04:04:23.684] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-67, 44], discarding
+[29Apr2025 04:04:23.685] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-66, 44], discarding
+[29Apr2025 04:04:34.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[29Apr2025 04:04:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 04:06:27.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38401] logged in with entity id 8826 at (-728.7377799055951, 63.0, 339.80231139986256)
+[29Apr2025 04:06:27.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 04:06:43.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aho
+[29Apr2025 04:07:02.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño un wheezer y yo lag
+[29Apr2025 04:07:12.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[29Apr2025 04:07:12.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 04:07:29.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:55993] logged in with entity id 9114 at (-763.7773162612714, 69.0, 341.11410946399104)
+[29Apr2025 04:07:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 04:07:50.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hola gamer, juguemos league of legends
+[29Apr2025 04:08:15.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Listo
+[29Apr2025 04:08:24.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[29Apr2025 04:08:24.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 04:08:38.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:54311] logged in with entity id 9287 at (-763.7773162612714, 69.0, 341.11410946399104)
+[29Apr2025 04:08:38.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 04:09:38.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[29Apr2025 04:09:38.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 04:09:38.714] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[29Apr2025 04:10:26.815] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6a368bf2[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:51343): Took too long to log in
+[29Apr2025 04:10:26.817] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a368bf2[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:51343) lost connection: Took too long to log in
+[29Apr2025 04:10:26.865] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Apr2025 04:11:26.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39795] logged in with entity id 9730 at (-763.7773162612714, 69.0, 341.11410946399104)
+[29Apr2025 04:11:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 04:11:27.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[29Apr2025 04:11:27.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 04:11:42.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50523] logged in with entity id 9764 at (-763.7773162612714, 69.0, 341.11410946399104)
+[29Apr2025 04:11:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 04:12:03.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[29Apr2025 04:12:21.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zancudo
+[29Apr2025 04:12:39.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> :o
+[29Apr2025 04:12:44.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el bloque de exp
+[29Apr2025 04:12:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Shif mas click derecho
+[29Apr2025 04:13:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Listo?
+[29Apr2025 04:13:30.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> durisimo hermano

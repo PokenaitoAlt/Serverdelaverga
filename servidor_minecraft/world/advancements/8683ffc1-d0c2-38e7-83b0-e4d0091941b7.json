@@ -8517,5 +8517,11 @@
     },
     "done": true
   },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2025-04-29 04:05:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
