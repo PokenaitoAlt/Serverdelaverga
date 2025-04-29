@@ -3039,3 +3039,194 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 [29Apr2025 03:52:24.221] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-26, 29], discarding
 [29Apr2025 03:52:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> wena
 [29Apr2025 03:52:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya estoy en la casa
+[29Apr2025 03:53:53.437] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-21, 30], discarding
+[29Apr2025 03:53:53.437] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-21, 30], discarding
+[29Apr2025 03:53:53.438] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:53:53.438] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-20, 30], discarding
+[29Apr2025 03:53:53.438] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-20, 30], discarding
+[29Apr2025 03:53:53.441] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-21, 31], discarding
+[29Apr2025 03:53:53.442] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:53:53.443] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-20, 31], discarding
+[29Apr2025 03:54:58.754] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-55, -1], discarding
+[29Apr2025 03:54:58.754] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-55, -1], discarding
+[29Apr2025 03:54:58.755] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-54, -1], discarding
+[29Apr2025 03:54:58.755] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-54, -1], discarding
+[29Apr2025 03:54:58.779] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-55, 0], discarding
+[29Apr2025 03:54:58.779] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-55, 0], discarding
+[29Apr2025 03:54:58.780] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:54:58.780] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:54:58.780] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-54, 0], discarding
+[29Apr2025 03:54:58.780] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-54, 0], discarding
+[29Apr2025 03:54:58.791] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-59, 1], discarding
+[29Apr2025 03:54:58.792] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-58, 1], discarding
+[29Apr2025 03:54:58.804] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 2], discarding
+[29Apr2025 03:54:58.806] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-59, 2], discarding
+[29Apr2025 03:54:58.807] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:54:58.807] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-58, 2], discarding
+[29Apr2025 03:54:58.810] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:logless_tree/birch' in chunk [-54, 2], discarding
+[29Apr2025 03:54:58.811] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/birch
+[29Apr2025 03:54:58.811] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:logless_tree/birch' in chunk [-53, 2], discarding
+[29Apr2025 03:54:58.818] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:54:58.818] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 3], discarding
+[29Apr2025 03:54:58.865] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 5], discarding
+[29Apr2025 03:54:58.866] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 5], discarding
+[29Apr2025 03:54:58.876] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 6], discarding
+[29Apr2025 03:54:58.877] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:54:58.877] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-50, 6], discarding
+[29Apr2025 03:54:58.877] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 6], discarding
+[29Apr2025 03:54:58.878] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-49, 6], discarding
+[29Apr2025 03:54:58.899] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-50, 7], discarding
+[29Apr2025 03:54:58.900] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:54:58.900] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-49, 7], discarding
+[29Apr2025 03:54:58.914] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 2], discarding
+[29Apr2025 03:54:58.915] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 3], discarding
+[29Apr2025 03:54:58.919] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 11], discarding
+[29Apr2025 03:54:58.920] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 12], discarding
+[29Apr2025 03:54:58.932] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-55, -3], discarding
+[29Apr2025 03:54:58.933] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:54:58.933] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-54, -3], discarding
+[29Apr2025 03:54:58.935] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, -3], discarding
+[29Apr2025 03:54:58.936] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-49, -3], discarding
+[29Apr2025 03:54:58.939] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:logless_tree/spruce' in chunk [-63, -1], discarding
+[29Apr2025 03:54:58.941] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/spruce
+[29Apr2025 03:54:58.941] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:logless_tree/spruce' in chunk [-63, 0], discarding
+[29Apr2025 03:55:43.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: You logged in from another location
+[29Apr2025 03:55:43.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 03:55:43.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.119.54.188:33067] logged in with entity id 3712 at (-635.7774659511931, 71.0, 320.94636472565236)
+[29Apr2025 03:55:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 03:55:57.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culoi
+[29Apr2025 03:56:00.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo y teta
+[29Apr2025 03:56:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tetaculo
+[29Apr2025 03:56:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cucuclolo
+[29Apr2025 03:56:21.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> fuentealbilla
+[29Apr2025 03:56:32.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> panconqueso
+[29Apr2025 03:57:25.395] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[29Apr2025 03:57:25.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[29Apr2025 03:57:44.511] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41c5f1b[id=<null>,name=Zombie62002,properties={},legacy=false] (/127.109.46.254:48385) lost connection: Disconnected
+[29Apr2025 03:57:52.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:42763] logged in with entity id 4431 at (949.7997209881524, 70.0, 832.6856218046564)
+[29Apr2025 03:57:52.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[29Apr2025 03:58:00.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[29Apr2025 03:58:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zancudo
+[29Apr2025 03:58:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 suffocated in a wall
+[29Apr2025 03:58:19.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: You logged in from another location
+[29Apr2025 03:58:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[29Apr2025 03:58:19.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.119.54.188:38429] logged in with entity id 4746 at (938.476659971157, 70.17675927506424, 802.3093494858816)
+[29Apr2025 03:58:19.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[29Apr2025 03:58:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zancudo
+[29Apr2025 03:58:40.990] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-42, 40], discarding
+[29Apr2025 03:58:40.993] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-38, 40], discarding
+[29Apr2025 03:58:40.994] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-37, 40], discarding
+[29Apr2025 03:58:41.029] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-43, 40], discarding
+[29Apr2025 03:58:41.035] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-43, 41], discarding
+[29Apr2025 03:58:41.037] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:58:41.037] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-42, 41], discarding
+[29Apr2025 03:58:41.038] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-38, 41], discarding
+[29Apr2025 03:58:41.040] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:58:41.040] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-37, 41], discarding
+[29Apr2025 03:58:41.053] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-44, 40], discarding
+[29Apr2025 03:58:41.054] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-44, 41], discarding
+[29Apr2025 03:58:41.118] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-46, 40], discarding
+[29Apr2025 03:58:41.119] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-45, 40], discarding
+[29Apr2025 03:58:41.126] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-46, 41], discarding
+[29Apr2025 03:58:41.126] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:58:41.126] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-45, 41], discarding
+[29Apr2025 03:58:41.364] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 39], discarding
+[29Apr2025 03:58:41.365] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 39], discarding
+[29Apr2025 03:58:41.401] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 40], discarding
+[29Apr2025 03:58:41.402] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:58:41.403] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 40], discarding
+[29Apr2025 03:58:41.416] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-59, 36], discarding
+[29Apr2025 03:58:41.419] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-59, 40], discarding
+[29Apr2025 03:58:41.419] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:58:41.420] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-59, 41], discarding
+[29Apr2025 03:58:41.425] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 41], discarding
+[29Apr2025 03:58:41.426] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 41], discarding
+[29Apr2025 03:58:41.446] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-60, 34], discarding
+[29Apr2025 03:58:41.447] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-60, 35], discarding
+[29Apr2025 03:58:41.476] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-60, 36], discarding
+[29Apr2025 03:58:41.479] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-60, 40], discarding
+[29Apr2025 03:58:41.480] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-60, 41], discarding
+[29Apr2025 03:58:41.481] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-60, 42], discarding
+[29Apr2025 03:58:41.483] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-59, 42], discarding
+[29Apr2025 03:58:43.340] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 11], discarding
+[29Apr2025 03:58:43.341] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-61, 11], discarding
+[29Apr2025 03:58:43.354] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:58:43.354] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 12], discarding
+[29Apr2025 03:58:43.385] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 16], discarding
+[29Apr2025 03:58:43.387] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 03:58:43.387] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 17], discarding
+[29Apr2025 03:58:43.388] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-61, 19], discarding
+[29Apr2025 03:58:43.389] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-61, 20], discarding
+[29Apr2025 03:58:43.397] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-61, 10], discarding
+[29Apr2025 03:58:43.404] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 11], discarding
+[29Apr2025 03:58:43.405] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 12], discarding
+[29Apr2025 03:58:43.408] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 16], discarding
+[29Apr2025 03:58:43.410] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 17], discarding
+[29Apr2025 03:58:48.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Listo
+[29Apr2025 03:58:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> se desaparecio un tp
+[29Apr2025 03:58:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Es que este era el problema
+[29Apr2025 03:58:59.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y es el tp que yo pusse pa mi mina
+[29Apr2025 03:59:11.363] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-21, 31], discarding
+[29Apr2025 03:59:11.364] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 03:59:11.364] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-20, 31], discarding
+[29Apr2025 03:59:11.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bueno si se borro ni modo
+[29Apr2025 03:59:17.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> como andaba afuera cuando entraba volvi a cargar el terreno
+[29Apr2025 03:59:22.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> total el mineral ya lo saque
+[29Apr2025 03:59:29.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Es que eso bro
+[29Apr2025 03:59:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> BRO esta zona como no estaba aqui se desaperia todo
+[29Apr2025 03:59:50.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> tu barco, mi casa, la de miguel TODO
+[29Apr2025 04:00:01.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> osea como
+[29Apr2025 04:00:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> entonces te necesitaba aqui para que primero tu cargaras los chunk y poder recuperar todo
+[29Apr2025 04:00:11.400] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 04:00:11.400] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 04:00:11.400] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-54, 0], discarding
+[29Apr2025 04:00:11.401] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-54, 0], discarding
+[29Apr2025 04:00:11.403] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-55, 0], discarding
+[29Apr2025 04:00:11.403] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-55, 0], discarding
+[29Apr2025 04:00:11.410] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-58, 1], discarding
+[29Apr2025 04:00:11.420] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 04:00:11.420] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-58, 2], discarding
+[29Apr2025 04:00:11.423] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:logless_tree/birch' in chunk [-54, 2], discarding
+[29Apr2025 04:00:11.424] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:logless_tree/birch
+[29Apr2025 04:00:11.424] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:logless_tree/birch' in chunk [-53, 2], discarding
+[29Apr2025 04:00:11.472] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 5], discarding
+[29Apr2025 04:00:11.473] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 5], discarding
+[29Apr2025 04:00:11.482] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-51, 6], discarding
+[29Apr2025 04:00:11.483] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:mossy_pyramid
+[29Apr2025 04:00:11.483] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-50, 6], discarding
+[29Apr2025 04:00:11.483] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-50, 6], discarding
+[29Apr2025 04:00:11.484] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-49, 6], discarding
+[29Apr2025 04:00:11.537] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-55, -1], discarding
+[29Apr2025 04:00:11.537] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-55, -1], discarding
+[29Apr2025 04:00:11.538] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-54, -1], discarding
+[29Apr2025 04:00:11.538] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-54, -1], discarding
+[29Apr2025 04:00:11.546] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-59, 1], discarding
+[29Apr2025 04:00:11.548] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-59, 2], discarding
+[29Apr2025 04:00:11.573] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-41, 5], discarding
+[29Apr2025 04:00:11.576] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-41, 6], discarding
+[29Apr2025 04:00:11.603] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-40, 5], discarding
+[29Apr2025 04:00:11.604] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 04:00:11.604] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-40, 6], discarding
+[29Apr2025 04:00:11.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 2], discarding
+[29Apr2025 04:00:11.639] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: watching:torch_cave
+[29Apr2025 04:00:11.639] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-61, 3], discarding
+[29Apr2025 04:00:11.643] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:mossy_pyramid' in chunk [-61, 9], discarding
+[29Apr2025 04:00:11.647] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 2], discarding
+[29Apr2025 04:00:11.649] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'watching:torch_cave' in chunk [-62, 3], discarding
+[29Apr2025 04:00:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> huh
+[29Apr2025 04:00:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya veo
+[29Apr2025 04:00:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya ahora SI
+[29Apr2025 04:00:54.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Puedo meter el de Anomaly y el From the fog otra vez
+[29Apr2025 04:01:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Al estar en esta zona
+[29Apr2025 04:01:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> cuando entre aun mantenemos todos
+[29Apr2025 04:01:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> y no habra un problema
+[29Apr2025 04:01:18.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> como q 2 herobrine
+[29Apr2025 04:01:27.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Uno no te hace nada
+[29Apr2025 04:01:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> el otro si
+[29Apr2025 04:01:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> csm
+[29Apr2025 04:01:49.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Como te digo lo importante es que este esta zona cargada
+[29Apr2025 04:02:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Porque asi podemos llegar y recuperat todow
+[29Apr2025 04:02:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> okok
+[29Apr2025 04:03:18.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Teneis esmeralda?
+[29Apr2025 04:03:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> si
+[29Apr2025 04:03:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cuanta necesitas?
