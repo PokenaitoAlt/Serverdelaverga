@@ -8535,12 +8535,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/glass_pane_from_vertical_framed_glass_pane": {
-    "criteria": {
-      "has_item": "2025-04-29 22:37:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/smelting/glass_from_vertical_framed_glass": {
     "criteria": {
       "has_item": "2025-04-29 22:37:53 +0000"
@@ -8550,6 +8544,12 @@
   "create:recipes/building_blocks/vertical_framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2025-04-29 22:37:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_vertical_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-04-29 22:37:59 +0000"
     },
     "done": true
   },

@@ -5148,5 +5148,11 @@
     },
     "done": true
   },
+  "scguns:main/copper/makeshift_rifle": {
+    "criteria": {
+      "makeshift_rifle": "2025-04-29 22:56:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
