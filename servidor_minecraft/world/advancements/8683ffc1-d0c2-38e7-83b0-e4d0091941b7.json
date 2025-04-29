@@ -8553,5 +8553,47 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-04-29 23:37:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-04-29 23:37:55 +0000"
+    },
+    "done": true
+  },
+  "create_mechanical_chicken:recipes/misc/crafting/mechanical_chicken": {
+    "criteria": {
+      "has_brass_sheet": "2025-04-29 23:37:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-04-29 23:37:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-04-29 23:37:55 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-04-29 23:37:51 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/combat_shotgun": {
+    "criteria": {
+      "combat_shotgun": "2025-04-29 23:49:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
