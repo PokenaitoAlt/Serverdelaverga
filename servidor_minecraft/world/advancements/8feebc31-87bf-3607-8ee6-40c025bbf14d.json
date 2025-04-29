@@ -7213,15 +7213,27 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-04-29 04:24:06 +0000"
+    },
+    "done": true
+  },
   "create_mechanical_chicken:recipes/misc/crafting/mechanical_chicken": {
     "criteria": {
       "has_brass_sheet": "2025-04-29 04:24:10 +0000"
     },
     "done": true
   },
-  "create:andesite_casing": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "0": "2025-04-29 04:24:06 +0000"
+      "cod": "2025-04-29 21:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-29 21:30:06 +0000"
     },
     "done": true
   },
