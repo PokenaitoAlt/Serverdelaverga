@@ -7328,12 +7328,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2025-04-30 02:32:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-04-30 02:32:02 +0000"
@@ -7343,12 +7337,6 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2025-04-30 02:32:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2025-04-30 02:32:45 +0000"
     },
     "done": true
   },
@@ -7364,15 +7352,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-30 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-04-30 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-04-30 02:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2025-04-30 02:32:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
+  "create:mechanical_press": {
     "criteria": {
-      "has_needed_dye": "2025-04-30 02:32:02 +0000"
+      "0": "2025-04-30 02:44:23 +0000"
     },
     "done": true
   },
