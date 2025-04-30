@@ -8655,6 +8655,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/copper_table_cloth_clear": {
+    "criteria": {
+      "has_copper_table_cloth": "2025-04-30 02:09:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-04-30 02:22:12 +0000"
@@ -8664,12 +8670,6 @@
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-04-30 02:22:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/copper_table_cloth_clear": {
-    "criteria": {
-      "has_copper_table_cloth": "2025-04-30 02:09:55 +0000"
     },
     "done": true
   },
