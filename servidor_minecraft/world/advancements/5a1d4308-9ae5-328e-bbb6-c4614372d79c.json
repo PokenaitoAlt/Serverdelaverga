@@ -2061,6 +2061,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2025-04-23 06:13:36 +0000",
+      "pasta_with_meatballs": "2025-04-30 02:01:05 +0000",
       "beef_stew": "2025-04-18 04:21:00 +0000"
     },
     "done": false
@@ -6080,6 +6081,12 @@
   "scguns:main/iron_blueprint": {
     "criteria": {
       "iron_blueprint": "2025-04-30 01:51:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-30 02:01:05 +0000"
     },
     "done": true
   },
