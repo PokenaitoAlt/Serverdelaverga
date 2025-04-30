@@ -2474,3 +2474,12 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [30Apr2025 05:04:12.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> o bueno mas o menos
 [30Apr2025 05:07:31.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XD
 [30Apr2025 05:07:34.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Metete al discord
+[30Apr2025 05:17:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coasdoada
+[30Apr2025 05:18:19.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[30Apr2025 05:18:19.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[30Apr2025 05:18:45.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:42669] logged in with entity id 18960 at (-765.2237998660961, 69.0, 363.5798044731213)
+[30Apr2025 05:18:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[30Apr2025 05:18:48.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Fishy Business]
+[30Apr2025 05:19:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> insecto
+[30Apr2025 05:21:48.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -10.11596892842465,0.0,-0.11097509672015349
+[30Apr2025 05:21:48.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8225ms or 164 ticks behind

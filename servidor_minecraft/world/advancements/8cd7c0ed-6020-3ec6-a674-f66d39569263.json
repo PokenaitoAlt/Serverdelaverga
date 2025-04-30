@@ -1640,6 +1640,7 @@
       "minecraft:spider": "2025-04-19 04:35:39 +0000",
       "minecraft:creeper": "2025-04-20 16:44:58 +0000",
       "minecraft:phantom": "2025-04-26 04:13:54 +0000",
+      "minecraft:piglin": "2025-04-30 05:22:40 +0000",
       "minecraft:enderman": "2025-04-26 05:56:53 +0000",
       "minecraft:zombie": "2025-04-20 16:20:58 +0000",
       "minecraft:drowned": "2025-04-20 17:42:10 +0000",
@@ -5154,6 +5155,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-30 05:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-30 05:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-30 05:03:56 +0000"
@@ -5181,6 +5194,24 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-04-30 05:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-30 05:18:57 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2025-04-30 05:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-30 05:18:57 +0000"
     },
     "done": true
   },
