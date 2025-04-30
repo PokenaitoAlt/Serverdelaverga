@@ -8781,5 +8781,11 @@
     },
     "done": true
   },
+  "gobber2:gobber2_staff_stars": {
+    "criteria": {
+      "gobber2_staff_stars": "2025-04-30 03:28:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
