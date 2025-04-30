@@ -5154,9 +5154,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-30 05:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-30 05:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 05:04:23 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_staff_stars": {
     "criteria": {
       "gobber2_staff_stars": "2025-04-30 04:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 05:03:56 +0000"
     },
     "done": true
   },
