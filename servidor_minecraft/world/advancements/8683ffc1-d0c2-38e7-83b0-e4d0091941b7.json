@@ -8553,6 +8553,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-04-29 23:37:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-04-29 23:37:55 +0000"
@@ -8583,15 +8589,45 @@
     },
     "done": true
   },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2025-04-29 23:37:51 +0000"
-    },
-    "done": true
-  },
   "scguns:main/iron/combat_shotgun": {
     "criteria": {
       "combat_shotgun": "2025-04-29 23:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-30 00:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-30 00:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-30 00:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-30 00:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-30 00:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-30 00:03:56 +0000"
     },
     "done": true
   },
