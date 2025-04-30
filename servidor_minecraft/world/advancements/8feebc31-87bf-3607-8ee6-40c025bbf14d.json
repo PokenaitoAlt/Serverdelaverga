@@ -7376,6 +7376,18 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-04-30 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2025-04-30 02:50:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
     "criteria": {
       "has_item": "2025-04-30 03:03:02 +0000"
@@ -7403,12 +7415,6 @@
   "create:recipes/misc/crafting/materials/cardboard_block": {
     "criteria": {
       "has_item": "2025-04-30 03:03:02 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-04-30 02:44:23 +0000"
     },
     "done": true
   },
@@ -7460,12 +7466,6 @@
     },
     "done": true
   },
-  "scguns:main/vehement_coal": {
-    "criteria": {
-      "vehement_coal": "2025-04-30 02:50:26 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
     "criteria": {
       "has_item": "2025-04-30 03:03:02 +0000"
@@ -7493,6 +7493,12 @@
   "create:recipes/misc/crafting/logistics/stock_ticker": {
     "criteria": {
       "has_item": "2025-04-30 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_staff_stars": {
+    "criteria": {
+      "gobber2_staff_stars": "2025-04-30 03:27:44 +0000"
     },
     "done": true
   },
