@@ -8787,5 +8787,17 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_ascent": {
+    "criteria": {
+      "gobber2_ring_ascent": "2025-04-30 03:49:06 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring": {
+    "criteria": {
+      "gobber2_ring": "2025-04-30 03:48:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

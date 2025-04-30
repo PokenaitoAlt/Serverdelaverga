@@ -6091,7 +6091,37 @@
     },
     "done": true
   },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2025-04-30 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/twisting_ivy": {
+    "criteria": {
+      "has_item": "2025-04-30 02:50:52 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2025-04-30 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2025-04-30 03:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-30 03:15:26 +0000"
     },
@@ -6100,12 +6130,6 @@
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-04-30 03:17:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/ivy/twisting_ivy": {
-    "criteria": {
-      "has_item": "2025-04-30 02:50:52 +0000"
     },
     "done": true
   },
@@ -6121,27 +6145,45 @@
     },
     "done": true
   },
-  "scguns:main/vehement_coal": {
+  "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
-      "vehement_coal": "2025-04-30 02:46:02 +0000"
+      "has_item": "2025-04-30 03:54:22 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_rod_nether": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "gobber2_rod_nether": "2025-04-30 03:01:50 +0000"
+      "has_bone_block": "2025-04-30 03:54:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
-      "has_glowstone_dust": "2025-04-30 03:15:26 +0000"
+      "has_item": "2025-04-30 03:54:22 +0000"
     },
     "done": true
   },
-  "scguns:main/sheol": {
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
-      "sheol": "2025-04-30 02:53:21 +0000"
+      "has_item": "2025-04-30 03:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-30 03:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-30 03:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-30 03:58:11 +0000"
     },
     "done": true
   },
