@@ -2483,3 +2483,14 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [30Apr2025 05:19:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> insecto
 [30Apr2025 05:21:48.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -10.11596892842465,0.0,-0.11097509672015349
 [30Apr2025 05:21:48.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8225ms or 164 ticks behind
+[30Apr2025 05:29:49.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[30Apr2025 05:29:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[30Apr2025 05:30:11.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:45527] logged in with entity id 22752 at (-763.1151767268814, 63.0, 344.3132127981053)
+[30Apr2025 05:30:11.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[30Apr2025 05:30:54.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23693, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[30Apr2025 05:31:11.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[30Apr2025 05:31:11.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[30Apr2025 05:31:35.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:42815] logged in with entity id 24158 at (-763.1151767268814, 63.0, 344.3132127981053)
+[30Apr2025 05:31:35.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[30Apr2025 05:33:35.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[30Apr2025 05:33:35.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
