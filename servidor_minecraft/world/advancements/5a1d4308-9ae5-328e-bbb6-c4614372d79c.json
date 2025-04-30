@@ -6115,6 +6115,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_staff_harvest": {
+    "criteria": {
+      "gobber2_staff_harvest": "2025-04-30 03:40:15 +0000"
+    },
+    "done": true
+  },
   "scguns:main/vehement_coal": {
     "criteria": {
       "vehement_coal": "2025-04-30 02:46:02 +0000"
