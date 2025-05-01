@@ -8981,5 +8981,23 @@
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-05-01 23:35:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

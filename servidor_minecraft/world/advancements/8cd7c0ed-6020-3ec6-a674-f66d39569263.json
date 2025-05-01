@@ -5267,6 +5267,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-01 23:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-05-01 22:25:26 +0000"
@@ -5309,6 +5315,12 @@
     },
     "done": true
   },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-05-01 23:27:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-01 22:54:47 +0000"
@@ -5330,6 +5342,12 @@
   "netherexp:recipes/soul_slate_tiles/chiseled": {
     "criteria": {
       "has_planks": "2025-05-01 23:15:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-01 23:33:16 +0000"
     },
     "done": true
   },
@@ -5426,6 +5444,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-05-01 20:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-01 23:33:16 +0000"
     },
     "done": true
   },
@@ -5579,6 +5603,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-01 23:33:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-01 22:54:47 +0000"
@@ -5624,6 +5654,12 @@
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-05-01 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-01 23:31:13 +0000"
     },
     "done": true
   },
@@ -5693,6 +5729,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-01 23:33:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-01 22:54:47 +0000"
@@ -5702,6 +5744,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:39:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-05-01 23:25:11 +0000"
     },
     "done": true
   },
@@ -5732,6 +5780,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-05-01 20:04:53 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/dye/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-01 23:28:05 +0000"
     },
     "done": true
   },
@@ -5930,6 +5984,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:39:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-05-01 23:25:11 +0000"
     },
     "done": true
   },

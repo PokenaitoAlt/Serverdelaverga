@@ -1134,6 +1134,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-19 04:40:08 +0000",
+      "minecraft:blaze": "2025-05-01 23:34:32 +0000",
       "minecraft:skeleton": "2025-04-18 02:22:06 +0000",
       "minecraft:hoglin": "2025-04-30 02:42:52 +0000",
       "minecraft:spider": "2025-04-18 16:53:39 +0000",
@@ -6311,9 +6312,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-01 23:30:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-01 23:28:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:41 +0000"
     },
     "done": true
   },
@@ -6323,9 +6348,33 @@
     },
     "done": true
   },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-05-01 23:28:21 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-01 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-01 23:34:44 +0000"
     },
     "done": true
   },
@@ -6341,9 +6390,27 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/cracked": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_bow_nether": {
     "criteria": {
       "gobber2_bow_nether": "2025-05-01 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
     },
     "done": true
   },
@@ -6356,6 +6423,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-05-01 20:41:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
     },
     "done": true
   },
@@ -6383,9 +6456,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-01 23:30:13 +0000"
     },
     "done": true
   },
@@ -6407,6 +6498,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
@@ -6419,6 +6522,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-05-01 20:26:27 +0000"
@@ -6428,6 +6543,30 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-01 23:27:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-01 23:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
     },
     "done": true
   },
@@ -6449,9 +6588,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-01 23:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-05-01 20:26:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/chiseled": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
     },
     "done": true
   },
@@ -6467,6 +6624,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-01 23:31:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
       "harvest_ropelogged_tomato": "2025-05-01 20:01:10 +0000"
@@ -6479,9 +6642,33 @@
     },
     "done": true
   },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:41 +0000"
     },
     "done": true
   },
@@ -6491,9 +6678,51 @@
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-05-01 23:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-05-01 23:30:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-01 23:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/indented": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
     },
     "done": true
   },
@@ -6503,15 +6732,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-05-01 21:30:56 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/dye/brown_dye_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-01 23:28:22 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_nether": {
     "criteria": {
       "gobber2_ring_nether": "2025-05-01 21:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
     },
     "done": true
   },
@@ -6539,9 +6786,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/pillar": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-01 22:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-01 23:30:13 +0000"
     },
     "done": true
   },
@@ -6551,9 +6816,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
     },
     "done": true
   },
@@ -6563,9 +6846,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-01 23:30:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-05-01 20:26:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
     },
     "done": true
   },
@@ -6590,6 +6933,36 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 23:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-01 23:27:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-05-01 23:30:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-01 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/wall": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:26:39 +0000"
     },
     "done": true
   },
