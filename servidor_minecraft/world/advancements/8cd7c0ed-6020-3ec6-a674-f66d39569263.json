@@ -5297,6 +5297,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_pickaxe_nether": {
+    "criteria": {
+      "gobber2_pickaxe_nether": "2025-05-01 21:16:42 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2025-05-01 20:50:27 +0000"
@@ -5360,6 +5366,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-01 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-05-01 21:10:43 +0000"
     },
     "done": true
   },

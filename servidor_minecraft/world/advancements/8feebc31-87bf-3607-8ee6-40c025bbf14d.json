@@ -790,6 +790,7 @@
       "minecraft:pillager": "2025-04-11 03:40:42 +0000",
       "minecraft:blaze": "2025-04-21 21:43:21 +0000",
       "minecraft:skeleton": "2025-04-11 03:45:55 +0000",
+      "minecraft:ravager": "2025-05-01 21:15:25 +0000",
       "minecraft:spider": "2025-04-11 03:13:19 +0000",
       "minecraft:creeper": "2025-04-11 03:11:08 +0000",
       "minecraft:slime": "2025-04-25 00:10:22 +0000",
@@ -7530,6 +7531,12 @@
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-01 20:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-01 21:15:38 +0000"
     },
     "done": true
   },
