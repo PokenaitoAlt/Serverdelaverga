@@ -2463,3 +2463,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 19:47:32.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> me quiero volver chango
 [01May2025 19:47:36.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [01May2025 19:47:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[01May2025 19:48:32.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:45765] logged in with entity id 23763 at (-669.9752841597705, 64.0, 438.58923615136644)
+[01May2025 19:48:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[01May2025 19:50:49.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24322, l='ServerLevel[world]', x=-765.53, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01May2025 19:56:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoda hasta el caballo me le cambio el nombre
+[01May2025 19:57:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> con lo que costo la etiqueta
+[01May2025 19:57:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hey ando En discord
