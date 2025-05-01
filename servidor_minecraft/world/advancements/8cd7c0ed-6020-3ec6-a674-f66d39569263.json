@@ -4948,10 +4948,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-27 20:29:41 +0000",
+      "minecraft:nether_wastes": "2025-05-01 21:00:23 +0000",
       "minecraft:soul_sand_valley": "2025-05-01 20:50:27 +0000",
-      "minecraft:warped_forest": "2025-04-27 20:30:11 +0000"
+      "minecraft:warped_forest": "2025-04-27 20:30:11 +0000",
+      "minecraft:basalt_deltas": "2025-05-01 21:02:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
@@ -5442,6 +5444,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-01 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 21:05:50 +0000"
     },
     "done": true
   },

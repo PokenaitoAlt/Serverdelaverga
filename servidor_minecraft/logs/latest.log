@@ -2549,3 +2549,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 20:57:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Castlemania]
 [01May2025 20:57:59.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was doomed to fall by Apparition
 [01May2025 20:59:28.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[01May2025 21:01:00.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25578f6e[id=<null>,name=Kierbyuwu,properties={},legacy=false] (/127.160.147.109:56067) lost connection: Disconnected
+[01May2025 21:02:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [Hot Tourist Destinations]
+[01May2025 21:04:44.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:33919] logged in with entity id 65902 at (-751.9966082502997, 58.434108691663226, 345.57097993743633)
+[01May2025 21:04:44.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[01May2025 21:04:50.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65945, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01May2025 21:05:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu drowned
+[01May2025 21:05:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Those Were the Days]
+[01May2025 21:08:03.296] [Server thread/ERROR] [mezz.jei.common.transfer.BasicRecipeTransferHandlerServer/]: Tried to transfer recipe but was given an empty inventory slot as an ingredient source: 11
