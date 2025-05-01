@@ -2526,3 +2526,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 20:27:55.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
 [01May2025 20:27:55.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
 [01May2025 20:27:55.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
+[01May2025 20:38:29.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=66, z=368} BlockPos{x=-765, y=67, z=367}
