@@ -5411,6 +5411,12 @@
     },
     "done": true
   },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-05-01 21:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-05-01 21:33:48 +0000"

@@ -2611,3 +2611,20 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 21:56:01.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=17, z=111} BlockPos{x=-105, y=16, z=110}
 [01May2025 21:59:45.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 burned to death
 [01May2025 21:59:59.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Castlemania]
+[01May2025 22:02:58.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108017, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.96] died, message: 'Villager was killed'
+[01May2025 22:03:19.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/108237, l='ServerLevel[world]', x=960.48, y=69.00, z=848.14] died, message: 'Weaponsmith was squashed by a falling anvil'
+[01May2025 22:08:23.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[01May2025 22:08:23.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[01May2025 22:09:13.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:49645] logged in with entity id 113586 at (919.2432736364357, 59.1188963910629, 1342.5244164675175)
+[01May2025 22:09:13.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[01May2025 22:11:11.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was squashed by a falling anvil
+[01May2025 22:12:50.631] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[01May2025 22:12:57.334] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[01May2025 22:14:06.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.999741466289152,1.0752008901189498,1.7543833313106347
+[01May2025 22:14:10.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[01May2025 22:14:10.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[01May2025 22:14:10.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01May2025 22:14:24.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46469] logged in with entity id 118020 at (-678.1659802051249, 65.79673560066871, 363.07052105166343)
+[01May2025 22:14:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01May2025 22:14:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdfasdsa
+[01May2025 22:19:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was doomed to fall

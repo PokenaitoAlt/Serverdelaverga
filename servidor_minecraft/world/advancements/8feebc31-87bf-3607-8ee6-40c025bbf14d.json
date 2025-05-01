@@ -7543,33 +7543,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_item": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/jagged": {
-    "criteria": {
-      "has_planks": "2025-05-01 21:50:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-05-01 21:46:50 +0000"
+      "bastion": "2025-05-01 21:39:41 +0000"
     },
     "done": true
   },
@@ -7582,6 +7558,96 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-01 21:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-01 21:41:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-01 21:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-01 21:41:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-01 21:41:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-01 21:46:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-01 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-05-01 21:50:21 +0000"
     },
     "done": true
   },
@@ -7603,33 +7669,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-01 21:41:29 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/bricks_from_etched": {
     "criteria": {
       "has_item": "2025-05-01 21:50:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-01 21:56:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-05-01 21:48:18 +0000"
     },
     "done": true
   },
@@ -7639,57 +7681,21 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item2": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
-    "criteria": {
-      "has_item": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/soul_slate/wall": {
     "criteria": {
       "has_planks": "2025-05-01 21:50:21 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_candle": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_planks": "2025-05-01 21:48:18 +0000"
+      "has_magma_cream": "2025-05-01 21:56:29 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/basalt/stairs": {
+  "netherexp:nether/occult_manor": {
     "criteria": {
-      "has_item": "2025-05-01 21:41:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-01 21:48:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-05-01 21:41:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-01 21:39:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/basalt/wall": {
-    "criteria": {
-      "has_item": "2025-05-01 21:41:29 +0000"
+      "structure": "2025-05-01 21:59:59 +0000"
     },
     "done": true
   },
