@@ -6309,6 +6309,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-01 20:26:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/jagged": {
     "criteria": {
       "has_planks": "2025-05-01 19:17:42 +0000"
@@ -6333,15 +6345,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-05-01 20:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-01 20:26:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/slab": {
     "criteria": {
       "has_planks": "2025-05-01 19:17:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-05-01 20:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-05-01 20:26:27 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/stairs": {
     "criteria": {
       "has_planks": "2025-05-01 19:17:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-05-01 20:01:10 +0000"
     },
     "done": true
   },
@@ -6357,9 +6405,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-01 20:26:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/wall": {
     "criteria": {
       "has_planks": "2025-05-01 19:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-05-01 20:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-05-01 20:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-05-01 20:26:27 +0000"
     },
     "done": true
   },
