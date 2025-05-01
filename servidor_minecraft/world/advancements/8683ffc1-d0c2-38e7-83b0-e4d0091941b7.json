@@ -44,6 +44,7 @@
       "minecraft:savanna_plateau": "2025-04-23 01:55:57 +0000",
       "minecraft:beach": "2025-04-16 16:09:15 +0000",
       "minecraft:dark_forest": "2025-04-17 22:19:51 +0000",
+      "minecraft:mangrove_swamp": "2025-05-01 22:31:31 +0000",
       "minecraft:sparse_jungle": "2025-04-17 23:54:32 +0000",
       "minecraft:river": "2025-04-11 03:14:08 +0000",
       "minecraft:lukewarm_ocean": "2025-04-23 04:15:46 +0000",
@@ -427,6 +428,7 @@
       "rotten_flesh": "2025-04-11 03:42:16 +0000",
       "golden_carrot": "2025-04-27 19:42:17 +0000",
       "cooked_chicken": "2025-04-11 03:08:13 +0000",
+      "cod": "2025-05-01 22:26:00 +0000",
       "carrot": "2025-04-17 02:58:12 +0000"
     },
     "done": false
