@@ -7712,5 +7712,23 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-01 23:06:32 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/combat_shotgun": {
+    "criteria": {
+      "combat_shotgun": "2025-05-01 23:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-01 23:06:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

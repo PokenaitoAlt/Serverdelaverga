@@ -5297,6 +5297,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-01 20:04:53 +0000"
@@ -5321,6 +5327,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:15:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-01 22:24:26 +0000"
@@ -5339,9 +5351,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/cracked": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:15:54 +0000"
     },
     "done": true
   },
@@ -5360,6 +5384,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-01 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
     },
     "done": true
   },
@@ -5579,6 +5609,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/chiseled": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/occult_manor": {
     "criteria": {
       "structure": "2025-05-01 21:10:43 +0000"
@@ -5651,6 +5687,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:15:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-01 22:54:47 +0000"
@@ -5666,6 +5708,12 @@
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-01 22:24:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/indented": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
     },
     "done": true
   },
@@ -5702,6 +5750,12 @@
   "scguns:main/vehement_coal": {
     "criteria": {
       "vehement_coal": "2025-05-01 21:48:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/pillar": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
     },
     "done": true
   },
@@ -5762,6 +5816,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-01 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:15:54 +0000"
     },
     "done": true
   },
@@ -5843,6 +5903,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-01 22:24:26 +0000"
@@ -5870,6 +5936,12 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-01 22:24:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/wall": {
+    "criteria": {
+      "has_planks": "2025-05-01 23:16:19 +0000"
     },
     "done": true
   },
