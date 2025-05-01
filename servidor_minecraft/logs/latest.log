@@ -2344,3 +2344,27 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[01May2025 19:00:27.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5798, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01May2025 19:00:35.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:53195] logged in with entity id 5839 at (-89.23726666604942, 34.0, 112.87917399213536)
+[01May2025 19:00:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[01May2025 19:01:35.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[01May2025 19:01:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[01May2025 19:02:20.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:56835] logged in with entity id 6609 at (-89.23726666604942, 34.0, 112.87917399213536)
+[01May2025 19:02:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[01May2025 19:02:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> xd
+[01May2025 19:02:39.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fdsaf
+[01May2025 19:02:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ghgfp
+[01May2025 19:02:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Te da mucho Lag?
+[01May2025 19:02:44.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[01May2025 19:02:44.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[01May2025 19:02:56.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:59077] logged in with entity id 6923 at (-671.322007863327, 63.0, 431.12843359647184)
+[01May2025 19:02:56.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[01May2025 19:03:19.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> teneis Lag Jojo??
+[01May2025 19:03:20.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[01May2025 19:03:20.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[01May2025 19:04:12.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:54483] logged in with entity id 8062 at (-89.23726666604942, 34.0, 112.87917399213536)
+[01May2025 19:04:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[01May2025 19:05:29.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8909, l='ServerLevel[world]', x=129.67, y=72.00, z=81.89]
+[01May2025 19:05:32.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8977, l='ServerLevel[world]', x=146.64, y=72.00, z=112.48]
+[01May2025 19:05:32.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8978, l='ServerLevel[world]', x=146.65, y=73.00, z=110.12]
+[01May2025 19:06:26.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9288, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.99] died, message: 'Villager was killed'
