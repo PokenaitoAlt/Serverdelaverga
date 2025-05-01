@@ -6333,9 +6333,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-01 20:41:50 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe_nether": {
+    "criteria": {
+      "gobber2_pickaxe_nether": "2025-05-01 20:44:08 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2025-05-01 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_nether": {
+    "criteria": {
+      "gobber2_ingot_nether": "2025-05-01 20:44:00 +0000"
     },
     "done": true
   },
@@ -6432,6 +6450,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-05-01 20:26:28 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2025-05-01 20:43:41 +0000"
     },
     "done": true
   },

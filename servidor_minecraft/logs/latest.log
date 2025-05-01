@@ -2527,3 +2527,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 20:27:55.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
 [01May2025 20:27:55.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
 [01May2025 20:38:29.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=66, z=368} BlockPos{x=-765, y=67, z=367}
+[01May2025 20:43:41.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Gobber Goes Nether]
+[01May2025 20:44:00.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Stronger Material]
+[01May2025 20:44:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [An Even Better Block Breaker]
