@@ -8981,12 +8981,6 @@
     },
     "done": true
   },
-  "netherexp:nether/non_renewable_yeah_right": {
-    "criteria": {
-      "killed_entity": "2025-05-01 23:35:37 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2025-05-01 23:34:42 +0000"
@@ -8996,6 +8990,120 @@
   "netherexp:recipes/misc/ecto_soul_sand": {
     "criteria": {
       "has_item": "2025-05-01 23:34:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-05-01 23:35:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-01 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/rekindled_betrayal": {
+    "criteria": {
+      "used_item": "2025-05-01 23:43:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-05-01 23:51:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/banshee_powder": {
+    "criteria": {
+      "item": "2025-05-01 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-05-01 23:49:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-05-01 23:49:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/hp_minecraftian": {
+    "criteria": {
+      "has_item": "2025-05-01 23:49:05 +0000"
     },
     "done": true
   },

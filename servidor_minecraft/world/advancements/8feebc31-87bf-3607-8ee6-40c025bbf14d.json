@@ -4358,6 +4358,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "steak_and_potatoes": "2025-05-01 23:39:01 +0000",
       "beef_stew": "2025-04-18 04:06:17 +0000"
     },
     "done": false
@@ -7712,6 +7713,24 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-01 23:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-01 23:06:32 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/combat_shotgun": {
+    "criteria": {
+      "combat_shotgun": "2025-05-01 23:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-01 23:33:50 +0000"
@@ -7730,27 +7749,51 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-01 23:06:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-01 23:33:50 +0000"
     },
     "done": true
   },
-  "scguns:main/iron/combat_shotgun": {
+  "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
-      "combat_shotgun": "2025-05-01 23:11:17 +0000"
+      "nourishment": "2025-05-01 23:39:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-05-01 23:06:32 +0000"
+      "has_item": "2025-05-01 23:41:50 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-05-01 23:41:50 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_ascent": {
+    "criteria": {
+      "gobber2_ring_ascent": "2025-05-01 23:42:22 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-05-01 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-05-01 23:54:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-05-01 23:53:30 +0000"
     },
     "done": true
   },

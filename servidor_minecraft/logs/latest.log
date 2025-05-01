@@ -1,17 +1,17 @@
-[01May2025 18:37:21.256] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[01May2025 18:37:21.260] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[01May2025 18:37:22.601] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01May2025 18:37:22.668] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serverdelaverga/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01May2025 18:37:23.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 18:37:23.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 18:37:23.159] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 18:37:23.160] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01May2025 18:37:23.458] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[01May2025 18:37:26.033] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01May2025 18:37:26.242] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[01May2025 18:37:26.410] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01May2025 18:37:26.471] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[01May2025 18:37:26.537] [main/INFO] [Puzzles Lib/]: Loading 55 mods:
+[01May2025 23:47:42.262] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01May2025 23:47:42.266] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[01May2025 23:47:43.579] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01May2025 23:47:43.659] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serverdelaverga/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01May2025 23:47:43.995] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:47:43.996] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:47:43.997] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:47:43.998] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01May2025 23:47:44.342] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[01May2025 23:47:46.829] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01May2025 23:47:47.010] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01May2025 23:47:47.201] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01May2025 23:47:47.267] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[01May2025 23:47:47.330] [main/INFO] [Puzzles Lib/]: Loading 55 mods:
 	- appleskin 2.5.1+mc1.20.1
 	- balm 7.3.27
 		\-- kuma_api 20.1.10
@@ -67,72 +67,70 @@
 	- xaerominimap 25.2.0
 	- xaeroworldmap 1.39.4
 	- yungsapi 1.20-Forge-4.0.6
-[01May2025 18:37:28.637] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[01May2025 18:37:28.637] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[01May2025 18:37:28.874] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01May2025 18:37:38.555] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[01May2025 18:37:38.591] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[01May2025 18:37:38.594] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[01May2025 18:37:39.076] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[01May2025 18:37:39.077] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[01May2025 18:37:39.707] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[01May2025 18:37:39.914] [modloading-worker-0/INFO] [com.oierbravo.create_mechanical_chicken.CreateMechanicalChicken/]: Registering blocks for Create Mechanical Chicken
-[01May2025 18:37:40.287] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:37:40.399] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
-[01May2025 18:37:40.409] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[01May2025 18:37:44.482] [main/INFO] [Moonlight/]: Initialized block sets in 14ms
-[01May2025 18:37:45.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@144aba8 has been registered twice for the same name scguns:mechanical_pressing.
-[01May2025 18:37:45.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@291fd83d has been registered twice for the same name scguns:powered_mechanical_pressing.
-[01May2025 18:37:45.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@7b51d80d has been registered twice for the same name scguns:macerating.
-[01May2025 18:37:45.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@422c47b4 has been registered twice for the same name scguns:powered_macerating.
-[01May2025 18:37:45.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@726e363 has been registered twice for the same name scguns:gun_bench.
-[01May2025 18:37:45.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@6ace77c2 has been registered twice for the same name scguns:lightning_battery.
-[01May2025 18:37:45.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@144aba8 has been registered twice for the same name scguns:mechanical_pressing.
-[01May2025 18:37:45.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@291fd83d has been registered twice for the same name scguns:powered_mechanical_pressing.
-[01May2025 18:37:45.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@7b51d80d has been registered twice for the same name scguns:macerating.
-[01May2025 18:37:45.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@422c47b4 has been registered twice for the same name scguns:powered_macerating.
-[01May2025 18:37:45.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@726e363 has been registered twice for the same name scguns:gun_bench.
-[01May2025 18:37:45.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@6ace77c2 has been registered twice for the same name scguns:lightning_battery.
-[01May2025 18:37:45.300] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:37:45.301] [Thread-1/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:37:45.303] [Thread-1/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:37:45.362] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[01May2025 18:37:45.529] [main/INFO] [Moonlight/]: Initialized color sets in 35ms
-[01May2025 18:37:45.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[01May2025 18:37:45.698] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
-[01May2025 18:37:45.698] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
-[01May2025 18:37:45.699] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
-[01May2025 18:37:45.699] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
-[01May2025 18:37:45.699] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
-[01May2025 18:37:45.699] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
-[01May2025 18:37:45.736] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01May2025 18:37:45.737] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01May2025 18:37:45.744] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01May2025 18:37:45.745] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01May2025 18:37:46.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[01May2025 18:37:46.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[01May2025 18:37:46.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[01May2025 18:37:46.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[01May2025 18:37:46.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[01May2025 18:37:46.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01May2025 18:37:46.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[01May2025 18:37:46.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[01May2025 18:37:46.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.17 Target: null
-[01May2025 18:37:46.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[01May2025 18:37:46.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
-[01May2025 18:37:46.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[01May2025 18:37:46.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[01May2025 18:37:46.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[01May2025 18:37:47.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[01May2025 18:37:47.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[01May2025 18:37:47.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[01May2025 18:37:48.136] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01May2025 18:37:49.770] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/assets/.mcassetsroot' uses unexpected schema
-[01May2025 18:37:49.771] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/data/.mcassetsroot' uses unexpected schema
-[01May2025 18:37:49.921] [main/INFO] [com.simibubi.create.Create/]: Created 165 recipes which will be injected into the game
-[01May2025 18:37:49.929] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
-[01May2025 18:37:50.505] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[01May2025 18:37:53.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_smelting_crushed_raw_anthralite
+[01May2025 23:47:49.496] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[01May2025 23:47:49.496] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[01May2025 23:47:49.704] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01May2025 23:47:58.115] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[01May2025 23:47:58.149] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[01May2025 23:47:58.196] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[01May2025 23:47:58.633] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01May2025 23:47:58.633] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01May2025 23:47:59.535] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[01May2025 23:47:59.738] [modloading-worker-0/INFO] [com.oierbravo.create_mechanical_chicken.CreateMechanicalChicken/]: Registering blocks for Create Mechanical Chicken
+[01May2025 23:48:00.305] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[01May2025 23:48:00.370] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[01May2025 23:48:00.446] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[01May2025 23:48:03.314] [main/INFO] [Moonlight/]: Initialized block sets in 12ms
+[01May2025 23:48:03.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@144aba8 has been registered twice for the same name scguns:mechanical_pressing.
+[01May2025 23:48:03.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@291fd83d has been registered twice for the same name scguns:powered_mechanical_pressing.
+[01May2025 23:48:03.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@7b51d80d has been registered twice for the same name scguns:macerating.
+[01May2025 23:48:03.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@422c47b4 has been registered twice for the same name scguns:powered_macerating.
+[01May2025 23:48:03.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@726e363 has been registered twice for the same name scguns:gun_bench.
+[01May2025 23:48:03.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@6ace77c2 has been registered twice for the same name scguns:lightning_battery.
+[01May2025 23:48:03.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@144aba8 has been registered twice for the same name scguns:mechanical_pressing.
+[01May2025 23:48:03.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@291fd83d has been registered twice for the same name scguns:powered_mechanical_pressing.
+[01May2025 23:48:03.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@7b51d80d has been registered twice for the same name scguns:macerating.
+[01May2025 23:48:03.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@422c47b4 has been registered twice for the same name scguns:powered_macerating.
+[01May2025 23:48:03.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@726e363 has been registered twice for the same name scguns:gun_bench.
+[01May2025 23:48:03.950] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@6ace77c2 has been registered twice for the same name scguns:lightning_battery.
+[01May2025 23:48:04.254] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[01May2025 23:48:04.327] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[01May2025 23:48:04.514] [main/INFO] [Moonlight/]: Initialized color sets in 48ms
+[01May2025 23:48:04.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[01May2025 23:48:04.763] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
+[01May2025 23:48:04.763] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
+[01May2025 23:48:04.763] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
+[01May2025 23:48:04.764] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
+[01May2025 23:48:04.764] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
+[01May2025 23:48:04.764] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
+[01May2025 23:48:04.815] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01May2025 23:48:04.817] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01May2025 23:48:04.824] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01May2025 23:48:04.824] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01May2025 23:48:05.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[01May2025 23:48:05.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[01May2025 23:48:05.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[01May2025 23:48:05.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[01May2025 23:48:05.129] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[01May2025 23:48:05.129] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01May2025 23:48:05.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01May2025 23:48:05.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[01May2025 23:48:05.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.12.17 Target: null
+[01May2025 23:48:05.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[01May2025 23:48:05.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.15 Target: 1.20.1-1.0.23
+[01May2025 23:48:05.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[01May2025 23:48:05.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[01May2025 23:48:05.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[01May2025 23:48:06.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[01May2025 23:48:06.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[01May2025 23:48:06.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[01May2025 23:48:07.660] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01May2025 23:48:09.474] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/assets/.mcassetsroot' uses unexpected schema
+[01May2025 23:48:09.475] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serverdelaverga/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/data/.mcassetsroot' uses unexpected schema
+[01May2025 23:48:09.589] [main/INFO] [com.simibubi.create.Create/]: Created 165 recipes which will be injected into the game
+[01May2025 23:48:09.598] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[01May2025 23:48:10.213] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[01May2025 23:48:13.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_smelting_crushed_raw_anthralite
 com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
 	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -161,7 +159,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_l
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.128] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ingot_anthralite
+[01May2025 23:48:13.134] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ingot_anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -190,7 +188,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.130] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/phosphor
+[01May2025 23:48:13.136] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/phosphor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -219,7 +217,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.137] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_ore
+[01May2025 23:48:13.147] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -248,7 +246,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.147] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_brass_casing
+[01May2025 23:48:13.155] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_brass_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -277,7 +275,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.149] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_2
+[01May2025 23:48:13.157] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -306,7 +304,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.157] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_brass_casing
+[01May2025 23:48:13.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_brass_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -335,7 +333,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.179] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
+[01May2025 23:48:13.185] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:bk
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -368,7 +366,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.187] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_block
+[01May2025 23:48:13.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -397,7 +395,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.203] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/anthralite
+[01May2025 23:48:13.205] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -426,7 +424,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_raw
+[01May2025 23:48:13.228] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -455,7 +453,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.230] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
+[01May2025 23:48:13.239] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:nca
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -488,7 +486,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.231] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
+[01May2025 23:48:13.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:ncc
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -521,7 +519,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/raw_anthralite
+[01May2025 23:48:13.250] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/raw_anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -550,7 +548,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.245] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/deepslate_from_raw
+[01May2025 23:48:13.254] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/deepslate_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -579,7 +577,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.247] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_chunk
+[01May2025 23:48:13.257] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_chunk
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -608,7 +606,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.255] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_block
+[01May2025 23:48:13.264] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -637,7 +635,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.257] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_ore
+[01May2025 23:48:13.266] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -666,7 +664,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.276] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur
+[01May2025 23:48:13.282] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -695,7 +693,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.282] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/shock_cell
+[01May2025 23:48:13.286] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/shock_cell
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -724,7 +722,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.284] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/depleted_energy_core
+[01May2025 23:48:13.288] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/depleted_energy_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -753,7 +751,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.291] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite
+[01May2025 23:48:13.293] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -782,7 +780,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.295] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_conversion_recycling
+[01May2025 23:48:13.295] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_conversion_recycling
 com.google.gson.JsonSyntaxException: Unknown item 'scguns:sawed_off_callwell'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -821,7 +819,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'scguns:sawed_off_callwell'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.302] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
+[01May2025 23:48:13.301] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:pb
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -854,7 +852,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.305] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/charged_amethyst_shard
+[01May2025 23:48:13.304] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/charged_amethyst_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -883,7 +881,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.312] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_block
+[01May2025 23:48:13.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -912,7 +910,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.323] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/depleted_energy_core
+[01May2025 23:48:13.326] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/depleted_energy_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -941,7 +939,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.332] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_ore
+[01May2025 23:48:13.336] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -970,7 +968,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.337] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_blasting_crushed_raw_anthralite
+[01May2025 23:48:13.345] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_blasting_crushed_raw_anthralite
 com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
 	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -999,7 +997,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_l
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.339] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_iron_casing
+[01May2025 23:48:13.347] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_iron_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1028,7 +1026,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.361] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_3
+[01May2025 23:48:13.369] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_3
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1057,7 +1055,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.364] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_2
+[01May2025 23:48:13.370] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1086,7 +1084,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.369] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/charged_amethyst_shard
+[01May2025 23:48:13.373] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/charged_amethyst_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1115,7 +1113,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.371] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_brass_casing
+[01May2025 23:48:13.374] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_brass_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1144,7 +1142,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.388] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ore
+[01May2025 23:48:13.395] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1173,7 +1171,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.410] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/vehement_coal
+[01May2025 23:48:13.421] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/vehement_coal
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1202,7 +1200,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.414] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_core
+[01May2025 23:48:13.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1231,7 +1229,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.416] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/sulfur
+[01May2025 23:48:13.425] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1260,7 +1258,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/chunk_sulfur
+[01May2025 23:48:13.426] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/chunk_sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1289,7 +1287,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_iron_casing
+[01May2025 23:48:13.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_iron_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1318,7 +1316,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.435] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_diamond_steel_casing
+[01May2025 23:48:13.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_diamond_steel_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1347,7 +1345,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.437] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_shard
+[01May2025 23:48:13.451] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1376,7 +1374,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma
+[01May2025 23:48:13.452] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1405,7 +1403,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.456] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_2
+[01May2025 23:48:13.468] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1434,7 +1432,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.458] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_3
+[01May2025 23:48:13.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_3
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1463,7 +1461,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.460] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_1
+[01May2025 23:48:13.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_1
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1492,7 +1490,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.462] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_copper_casing
+[01May2025 23:48:13.473] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_copper_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1521,7 +1519,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.467] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_core
+[01May2025 23:48:13.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_core
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1550,7 +1548,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/sulfur
+[01May2025 23:48:13.487] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/sulfur
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1579,7 +1577,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/phosphor
+[01May2025 23:48:13.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/phosphor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1608,7 +1606,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.480] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_copper_casing
+[01May2025 23:48:13.507] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_copper_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1637,7 +1635,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.486] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/gun_parts
+[01May2025 23:48:13.520] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/gun_parts
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1666,7 +1664,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/heavy_gun_parts
+[01May2025 23:48:13.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/heavy_gun_parts
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1695,7 +1693,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.494] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_2
+[01May2025 23:48:13.527] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1724,7 +1722,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.497] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_1
+[01May2025 23:48:13.529] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_1
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1753,7 +1751,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.499] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/vehement_coal
+[01May2025 23:48:13.532] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/vehement_coal
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1782,7 +1780,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.500] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prima_materia
+[01May2025 23:48:13.533] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prima_materia
 com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_44196_(ShapedRecipe.java:256) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:307) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
@@ -1814,7 +1812,7 @@ com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same 
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/anthralite
+[01May2025 23:48:13.537] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/anthralite
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1843,7 +1841,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_ore
+[01May2025 23:48:13.544] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1872,7 +1870,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.504] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dirty_dust/from_clump
+[01May2025 23:48:13.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dirty_dust/from_clump
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1901,7 +1899,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.506] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ingot
+[01May2025 23:48:13.551] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ingot
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1930,7 +1928,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.641] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/empty_cell
+[01May2025 23:48:13.565] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/empty_cell
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1959,7 +1957,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.646] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/from_raw
+[01May2025 23:48:13.567] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1988,7 +1986,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.648] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma
+[01May2025 23:48:13.568] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2017,7 +2015,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.655] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_diamond_steel_casing
+[01May2025 23:48:13.576] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_diamond_steel_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2046,7 +2044,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.660] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/shulker_casing
+[01May2025 23:48:13.579] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/shulker_casing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2075,7 +2073,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.665] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_block
+[01May2025 23:48:13.583] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2104,7 +2102,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createa
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.668] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_dirty_dust
+[01May2025 23:48:13.585] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_dirty_dust
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2133,7 +2131,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.675] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_ore
+[01May2025 23:48:13.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2162,7 +2160,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.693] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_block
+[01May2025 23:48:13.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2191,7 +2189,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.695] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
+[01May2025 23:48:13.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rpgsmw:b
 com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23202!/:?]
@@ -2224,7 +2222,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.697] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/shock_cell
+[01May2025 23:48:13.941] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/shock_cell
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2253,8 +2251,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[01May2025 18:37:53.707] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
-[01May2025 18:37:53.708] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[01May2025 23:48:13.948] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 31 recipes
+[01May2025 23:48:13.949] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -2270,434 +2268,80 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[01May2025 18:37:54.039] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3190 advancements
-[01May2025 18:37:54.072] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[01May2025 18:37:54.082] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[01May2025 18:37:55.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[01May2025 18:37:55.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01May2025 18:37:55.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01May2025 18:37:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01May2025 18:37:55.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01May2025 18:37:55.790] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01May2025 18:37:55.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01May2025 18:37:55.897] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01May2025 18:37:55.898] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01May2025 18:37:55.898] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01May2025 18:37:55.920] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[01May2025 18:37:55.921] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[01May2025 18:37:55.922] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
-[01May2025 18:37:56.018] [Server thread/INFO] [Framework/]: Loading server configs...
-[01May2025 18:37:56.026] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[01May2025 18:37:56.028] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[01May2025 18:37:56.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01May2025 18:37:57.101] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:38:02.361] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:38:03.458] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[01May2025 18:38:03.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01May2025 18:38:09.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.457] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.459] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.460] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.463] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.464] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.465] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.465] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.475] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.482] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.483] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.484] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01May2025 18:38:09.965] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[01May2025 18:38:10.464] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[01May2025 18:38:10.692] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7228 ms
-[01May2025 18:38:10.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.779s)! For help, type "help"
-[01May2025 18:38:10.740] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01May2025 18:38:43.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:54127] logged in with entity id 159 at (-665.6169286849507, 63.0, 403.5271986567714)
-[01May2025 18:38:43.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 18:38:46.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
-[01May2025 18:51:55.079] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent it/unimi/dsi/fastutil/doubles/AbstractDoubleList for class com/abdelaziz/canary/common/shapes/lists/OffsetFractionalDoubleList in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-3,5,SERVER]
-[01May2025 18:51:55.080] [ForkJoinPool.commonPool-worker-3/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
-java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleList
-	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
-	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
-	at com.abdelaziz.canary.common.shapes.VoxelShapeAlignedCuboidOffset.m_7700_(VoxelShapeAlignedCuboidOffset.java:136) ~[?:?]
-	at net.minecraft.world.phys.shapes.Shapes.m_83148_(Shapes.java:148) ~[?:?]
-	at com.simibubi.create.content.contraptions.Contraption.lambda$gatherBBsOffThread$25(Contraption.java:1481) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[01May2025 19:00:27.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5798, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 19:00:35.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:53195] logged in with entity id 5839 at (-89.23726666604942, 34.0, 112.87917399213536)
-[01May2025 19:00:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
-[01May2025 19:01:35.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
-[01May2025 19:01:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
-[01May2025 19:02:20.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:56835] logged in with entity id 6609 at (-89.23726666604942, 34.0, 112.87917399213536)
-[01May2025 19:02:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
-[01May2025 19:02:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> xd
-[01May2025 19:02:39.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> fdsaf
-[01May2025 19:02:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ghgfp
-[01May2025 19:02:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Te da mucho Lag?
-[01May2025 19:02:44.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
-[01May2025 19:02:44.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
-[01May2025 19:02:56.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:59077] logged in with entity id 6923 at (-671.322007863327, 63.0, 431.12843359647184)
-[01May2025 19:02:56.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 19:03:19.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> teneis Lag Jojo??
-[01May2025 19:03:20.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
-[01May2025 19:03:20.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
-[01May2025 19:04:12.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:54483] logged in with entity id 8062 at (-89.23726666604942, 34.0, 112.87917399213536)
-[01May2025 19:04:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
-[01May2025 19:05:29.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8909, l='ServerLevel[world]', x=129.67, y=72.00, z=81.89]
-[01May2025 19:05:32.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8977, l='ServerLevel[world]', x=146.64, y=72.00, z=112.48]
-[01May2025 19:05:32.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8978, l='ServerLevel[world]', x=146.65, y=73.00, z=110.12]
-[01May2025 19:06:26.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9288, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 19:19:32.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14609, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 19:23:15.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Don't be scared'/7221, l='ServerLevel[world]', x=-726.60, y=59.00, z=387.11] died: %1$s was slain by %2$s
-[01May2025 19:23:15.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7124, l='ServerLevel[world]', x=-726.99, y=59.02, z=387.98] died: %1$s was slain by %2$s
-[01May2025 19:23:15.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7218, l='ServerLevel[world]', x=-727.95, y=59.00, z=388.95] died: %1$s was slain by %2$s
-[01May2025 19:23:18.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7220, l='ServerLevel[world]', x=-738.29, y=61.98, z=387.58] died: Come closer was slain by Zombie62002
-[01May2025 19:23:25.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['I'll find you'/7217, l='ServerLevel[world]', x=-745.88, y=55.36, z=378.46] died: I'll find you was slain by Zombie62002
-[01May2025 19:23:26.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7222, l='ServerLevel[world]', x=-746.36, y=54.31, z=379.43] died: Come closer was slain by Zombie62002
-[01May2025 19:23:26.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7340, l='ServerLevel[world]', x=-746.41, y=55.03, z=376.79] died: Come closer was slain by Zombie62002
-[01May2025 19:24:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> BRO???
-[01May2025 19:24:31.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ??
-[01May2025 19:24:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Y este Poco e Monte??
-[01May2025 19:24:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> es que albin no lo corta maginate
-[01May2025 19:24:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> no mentira es obra de un baston XD
-[01May2025 19:24:56.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> NaGuevonaa
-[01May2025 19:32:53.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:45731] logged in with entity id 18543 at (-763.1806586305369, 63.0, 341.8140810480081)
-[01May2025 19:32:53.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:33:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hols
-[01May2025 19:33:17.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hola
-[01May2025 19:33:20.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
-[01May2025 19:33:23.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 19:33:23.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 19:33:40.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39043] logged in with entity id 18722 at (-763.1806586305369, 63.0, 341.8140810480081)
-[01May2025 19:33:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:33:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ogogog
-[01May2025 19:34:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aver
-[01May2025 19:34:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> listo
-[01May2025 19:34:04.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18801, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
-[01May2025 19:34:18.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> habemus conexion
-[01May2025 19:36:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pueden dormir?
-[01May2025 19:36:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si
-[01May2025 19:36:28.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Vamos
-[01May2025 19:36:29.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19238, l='ServerLevel[world]', x=-738.50, y=61.56, z=297.50] died, message: 'Villager was killed'
-[01May2025 19:36:45.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Aja duerman cabrones
-[01May2025 19:36:51.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ya no hay nadie que pege(gracias a dios)
-[01May2025 19:36:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el heromierda le puso nombre a una de mis ovejas
-[01May2025 19:36:56.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 19:36:56.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 19:37:21.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:58363] logged in with entity id 19597 at (-763.508807287003, 69.0, 364.0534347192483)
-[01May2025 19:37:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:37:41.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> verga
-[01May2025 19:37:51.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 19:37:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 19:38:14.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50547] logged in with entity id 19804 at (-763.508807287003, 69.0, 364.0534347192483)
-[01May2025 19:38:14.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:38:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pues sigue popy la conexion
-[01May2025 19:38:58.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
-[01May2025 19:38:58.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 19:39:09.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:37221] logged in with entity id 20043 at (-763.508807287003, 69.0, 364.0534347192483)
-[01May2025 19:39:09.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:39:39.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 19:39:39.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 19:39:43.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
-[01May2025 19:39:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
-[01May2025 19:39:56.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:39969] logged in with entity id 20171 at (-667.6677478410073, 71.0, 443.64970467650403)
-[01May2025 19:39:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 19:39:59.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:52879] logged in with entity id 20415 at (-763.508807287003, 69.0, 364.0534347192483)
-[01May2025 19:39:59.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:40:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> okok
-[01May2025 19:40:38.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mrk da arrechera cuando ya conecta y an asi te saca
-[01May2025 19:43:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
-[01May2025 19:44:25.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-723, y=63, z=299} BlockPos{x=-722, y=62, z=300}
-[01May2025 19:44:25.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-723, y=63, z=299} BlockPos{x=-722, y=62, z=300}
-[01May2025 19:44:28.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=302} BlockPos{x=-719, y=63, z=304}
-[01May2025 19:44:28.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=302} BlockPos{x=-719, y=63, z=304}
-[01May2025 19:44:28.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=302} BlockPos{x=-719, y=63, z=304}
-[01May2025 19:44:28.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=302} BlockPos{x=-719, y=63, z=304}
-[01May2025 19:44:28.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=64, z=302} BlockPos{x=-719, y=63, z=304}
-[01May2025 19:44:51.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=286} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:51.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=286} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:51.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=287} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:51.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=287} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:51.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=287} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:51.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=288} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:52.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=288} BlockPos{x=-717, y=62, z=285}
-[01May2025 19:44:52.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-717, y=63, z=290} BlockPos{x=-717, y=62, z=292}
-[01May2025 19:44:52.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-717, y=63, z=290} BlockPos{x=-717, y=62, z=292}
-[01May2025 19:44:56.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=300} BlockPos{x=-718, y=62, z=302}
-[01May2025 19:45:04.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-717, y=63, z=312} BlockPos{x=-716, y=63, z=313}
-[01May2025 19:45:04.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-717, y=63, z=312} BlockPos{x=-716, y=63, z=313}
-[01May2025 19:45:04.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-717, y=63, z=312} BlockPos{x=-716, y=63, z=313}
-[01May2025 19:45:04.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=312} BlockPos{x=-716, y=63, z=313}
-[01May2025 19:45:05.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-718, y=64, z=312} BlockPos{x=-716, y=63, z=313}
-[01May2025 19:45:05.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=64, z=311} BlockPos{x=-721, y=62, z=312}
-[01May2025 19:45:05.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=64, z=311} BlockPos{x=-721, y=62, z=312}
-[01May2025 19:45:05.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=310} BlockPos{x=-721, y=62, z=312}
-[01May2025 19:45:05.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=310} BlockPos{x=-721, y=62, z=312}
-[01May2025 19:45:05.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-720, y=63, z=310} BlockPos{x=-721, y=62, z=312}
-[01May2025 19:45:11.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-714, y=64, z=309} BlockPos{x=-714, y=62, z=308}
-[01May2025 19:46:45.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 19:46:45.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 19:47:15.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40435] logged in with entity id 23061 at (-839.4753616650618, 70.0, 370.68807313216513)
-[01May2025 19:47:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 19:47:32.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> me quiero volver chango
-[01May2025 19:47:36.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
-[01May2025 19:47:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
-[01May2025 19:48:32.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:45765] logged in with entity id 23763 at (-669.9752841597705, 64.0, 438.58923615136644)
-[01May2025 19:48:32.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 19:50:49.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24322, l='ServerLevel[world]', x=-765.53, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 19:56:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojoda hasta el caballo me le cambio el nombre
-[01May2025 19:57:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> con lo que costo la etiqueta
-[01May2025 19:57:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hey ando En discord
-[01May2025 19:58:34.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> voy
-[01May2025 20:00:06.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> jojo
-[01May2025 20:00:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> nice
-[01May2025 20:01:20.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['You can't hide for too long'/7683, l='ServerLevel[world]', x=-693.54, y=70.00, z=276.81] died: You can't hide for too long was burnt to a crisp whilst fighting Pokenaito
-[01May2025 20:01:55.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['I'll find you'/6940, l='ServerLevel[world]', x=-664.83, y=63.00, z=401.47] died: I'll find you was slain by Zombie62002
-[01May2025 20:01:57.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['There is nothing to be afraid of'/15498, l='ServerLevel[world]', x=-734.50, y=71.00, z=230.50] died: There is nothing to be afraid of was slain by Pokenaito
-[01May2025 20:02:04.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['There is nothing to be afraid of'/15497, l='ServerLevel[world]', x=-736.50, y=71.00, z=233.50] died: There is nothing to be afraid of was slain by Pokenaito
-[01May2025 20:02:51.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:51947] logged in with entity id 28134 at (-85.75076699038685, 16.0, 130.12460218549566)
-[01May2025 20:02:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
-[01May2025 20:02:59.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> lechiiinaaaaaaaaaaaaa
-[01May2025 20:03:10.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> REMPALAGOOOOOOOOOOOOO
-[01May2025 20:03:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tamo en dicor
-[01May2025 20:04:37.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['You can't hide for too long'/10111, l='ServerLevel[world]', x=-653.96, y=78.00, z=262.93] died: You can't hide for too long was slain by Zombie62002
-[01May2025 20:04:53.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Hidden in the Depths]
-[01May2025 20:04:59.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['There is nothing to be afraid of'/7709, l='ServerLevel[world]', x=-777.54, y=64.00, z=285.06] died: There is nothing to be afraid of was burnt to a crisp whilst fighting Pokenaito
-[01May2025 20:05:10.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['There is nothing to be afraid of'/7701, l='ServerLevel[world]', x=-775.30, y=64.00, z=284.16] died: There is nothing to be afraid of was burnt to a crisp whilst fighting Pokenaito
-[01May2025 20:05:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> papi, tienes vacas malditas
-[01May2025 20:05:29.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['There is nothing to be afraid of'/7694, l='ServerLevel[world]', x=-773.61, y=64.00, z=285.54] died: There is nothing to be afraid of was slain by Pokenaito
-[01May2025 20:05:37.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ves que tienen nombres?
-[01May2025 20:05:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hay que matarlas
-[01May2025 20:05:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si, pero no les paro bolas
-[01May2025 20:05:47.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['There is nothing to be afraid of'/7698, l='ServerLevel[world]', x=-773.39, y=64.00, z=283.55] died: There is nothing to be afraid of was burnt to a crisp whilst fighting Pokenaito
-[01May2025 20:05:59.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['There is nothing to be afraid of'/7699, l='ServerLevel[world]', x=-775.16, y=64.00, z=287.54] died: There is nothing to be afraid of was burnt to a crisp whilst fighting Pokenaito
-[01May2025 20:06:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> no las estingas coño xd
-[01May2025 20:06:26.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> da igual que diga eso
-[01May2025 20:06:29.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['There is nothing to be afraid of'/7695, l='ServerLevel[world]', x=-770.67, y=64.00, z=287.55] died: There is nothing to be afraid of was slain by Pokenaito
-[01May2025 20:06:34.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> listo
-[01May2025 20:06:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Eso da Lag
-[01May2025 20:06:42.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que?
-[01May2025 20:06:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> las demas merecen vivir
-[01May2025 20:09:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Los piglon no atacan verdad?
-[01May2025 20:09:40.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
-[01May2025 20:09:40.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
-[01May2025 20:10:54.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32968, l='ServerLevel[world]', x=-740.50, y=61.06, z=298.50] died, message: 'Villager was killed'
-[01May2025 20:11:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> si
-[01May2025 20:11:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> duerman
-[01May2025 20:11:17.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 20:11:17.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 20:11:45.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33895] logged in with entity id 33699 at (-766.746813378674, 63.0, 345.4732498376045)
-[01May2025 20:11:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 20:12:03.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> suck
-[01May2025 20:14:41.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> nada?
-[01May2025 20:14:49.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Don't be scared'/7479, l='ServerLevel[world]', x=-760.39, y=69.00, z=358.63] died: Don't be scared was slain by Pokenaito
-[01May2025 20:14:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Metete a discord
-[01May2025 20:15:10.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Don't be scared'/7413, l='ServerLevel[world]', x=-769.75, y=74.00, z=336.80] died: Don't be scared was slain by Pokenaito
-[01May2025 20:15:12.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Come closer'/7414, l='ServerLevel[world]', x=-766.20, y=75.03, z=339.95] died: Come closer was slain by Pokenaito
-[01May2025 20:15:18.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Come closer'/7480, l='ServerLevel[world]', x=-759.51, y=74.00, z=330.38] died: Come closer was slain by Pokenaito
-[01May2025 20:16:06.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si venis a la cueva jojo no la reconoces XD
-[01May2025 20:17:34.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:58209] logged in with entity id 37299 at (-671.7374705818982, 63.0, 432.1302133497013)
-[01May2025 20:17:34.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 20:22:50.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41453, l='ServerLevel[world]', x=-765.53, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 20:27:02.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=15, z=136} BlockPos{x=-39, y=15, z=136}
-[01May2025 20:27:55.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
-[01May2025 20:27:55.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
-[01May2025 20:27:55.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
-[01May2025 20:27:55.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
-[01May2025 20:27:55.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=15, z=151} BlockPos{x=-20, y=15, z=151}
-[01May2025 20:38:29.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=66, z=368} BlockPos{x=-765, y=67, z=367}
-[01May2025 20:43:41.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Gobber Goes Nether]
-[01May2025 20:44:00.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Stronger Material]
-[01May2025 20:44:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [An Even Better Block Breaker]
-[01May2025 20:51:20.886] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easymagic:1] rejected their client side version number
-[01May2025 20:51:20.886] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[01May2025 20:51:20.933] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@740788ed[id=<null>,name=Kierbyuwu,properties={},legacy=false] (/127.160.147.109:34171) lost connection: Connection closed - mismatched mod channel list
-[01May2025 20:51:28.545] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easymagic:1] rejected their client side version number
-[01May2025 20:51:28.545] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[01May2025 20:51:28.575] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bc16623[id=<null>,name=Kierbyuwu,properties={},legacy=false] (/127.160.147.109:53683) lost connection: Connection closed - mismatched mod channel list
-[01May2025 20:52:46.182] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1d2df428: ConcentricRingsSearchWorker starting with 100000 max samples
-[01May2025 20:52:46.299] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1d2df428: ConcentricRingsSearchWorker succeeded with 256 samples
-[01May2025 20:54:26.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['You can't hide for too long'/10108, l='ServerLevel[world]', x=-666.50, y=80.00, z=259.50] died: You can't hide for too long was slain by Lechina
-[01May2025 20:54:35.515] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easymagic:1] rejected their client side version number
-[01May2025 20:54:35.515] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[01May2025 20:54:35.528] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46d27f2c[id=<null>,name=Kierbyuwu,properties={},legacy=false] (/127.160.147.109:51359) lost connection: Connection closed - mismatched mod channel list
-[01May2025 20:54:58.676] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easymagic:1] rejected their client side version number
-[01May2025 20:54:58.676] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[01May2025 20:54:58.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24be593[id=<null>,name=Kierbyuwu,properties={},legacy=false] (/127.160.147.109:35993) lost connection: Connection closed - mismatched mod channel list
-[01May2025 20:57:26.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['I'll find you'/7126, l='ServerLevel[world]', x=-697.73, y=63.52, z=404.20] died: I'll find you went up in flames
-[01May2025 20:57:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Castlemania]
-[01May2025 20:57:59.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was doomed to fall by Apparition
-[01May2025 20:59:28.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
-[01May2025 21:01:00.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25578f6e[id=<null>,name=Kierbyuwu,properties={},legacy=false] (/127.160.147.109:56067) lost connection: Disconnected
-[01May2025 21:02:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [Hot Tourist Destinations]
-[01May2025 21:04:44.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.160.147.109:33919] logged in with entity id 65902 at (-751.9966082502997, 58.434108691663226, 345.57097993743633)
-[01May2025 21:04:44.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
-[01May2025 21:04:50.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65945, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 21:05:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu drowned
-[01May2025 21:05:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Those Were the Days]
-[01May2025 21:08:03.296] [Server thread/ERROR] [mezz.jei.common.transfer.BasicRecipeTransferHandlerServer/]: Tried to transfer recipe but was given an empty inventory slot as an ingredient source: 11
-[01May2025 21:10:43.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Castlemania]
-[01May2025 21:13:46.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -7.623998487945414,0.22768848754498094,-6.921910918049207
-[01May2025 21:13:46.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu moved too quickly! -5.995859351316199,-1.0625,-8.086439305245563
-[01May2025 21:13:46.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3530ms or 70 ticks behind
-[01May2025 21:14:37.155] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: BlundererEntity['Blunderer'/71640, l='ServerLevel[world]', x=-688.50, y=65.00, z=431.50]
-[01May2025 21:15:38.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu has completed the challenge [Hero of the Village]
-[01May2025 21:15:38.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Hero of the Village]
-[01May2025 21:15:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Hero of the Village]
-[01May2025 21:16:05.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 4.209995119308132,1.2481359985909393,-9.29560849644389
-[01May2025 21:16:09.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
-[01May2025 21:16:09.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
-[01May2025 21:16:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 21:16:20.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46909] logged in with entity id 72417 at (-660.2580885394368, 67.7531999805212, 317.5806526570686)
-[01May2025 21:16:20.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 21:16:39.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> garfield
-[01May2025 21:16:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [An Even Better Block Breaker]
-[01May2025 21:16:50.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
-[01May2025 21:16:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 21:17:07.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:58661] logged in with entity id 72616 at (-660.2580885394368, 67.7531999805212, 317.5806526570686)
-[01May2025 21:17:07.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 21:17:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zancudo
-[01May2025 21:17:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> loco
-[01May2025 21:17:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el sancocho
-[01May2025 21:26:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [Hot Tourist Destinations]
-[01May2025 21:27:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Those Were the Days]
-[01May2025 21:30:38.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79663, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
-[01May2025 21:30:56.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Hidden in the Depths]
-[01May2025 21:32:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Castlemania]
-[01May2025 21:34:38.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> puta
-[01May2025 21:36:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Basis of Nether Power]
-[01May2025 21:39:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Those Were the Days]
-[01May2025 21:40:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.08622826973788733,1.1451067006516382,10.235149225256237
-[01May2025 21:40:50.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
-[01May2025 21:40:56.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.06538222118938108,-1.0,10.055279099452491
-[01May2025 21:43:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Great View From Up Here]
-[01May2025 21:44:14.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
-[01May2025 21:46:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Hot Tourist Destinations]
-[01May2025 21:51:21.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:21.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:21.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:51:22.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
-[01May2025 21:54:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Better Than Mending]
-[01May2025 21:55:21.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=16, z=101} BlockPos{x=-97, y=16, z=101}
-[01May2025 21:56:01.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=17, z=111} BlockPos{x=-105, y=16, z=110}
-[01May2025 21:56:01.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=17, z=111} BlockPos{x=-105, y=16, z=110}
-[01May2025 21:59:45.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 burned to death
-[01May2025 21:59:59.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Castlemania]
-[01May2025 22:02:58.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108017, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.96] died, message: 'Villager was killed'
-[01May2025 22:03:19.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/108237, l='ServerLevel[world]', x=960.48, y=69.00, z=848.14] died, message: 'Weaponsmith was squashed by a falling anvil'
-[01May2025 22:08:23.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
-[01May2025 22:08:23.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
-[01May2025 22:09:13.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:49645] logged in with entity id 113586 at (919.2432736364357, 59.1188963910629, 1342.5244164675175)
-[01May2025 22:09:13.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 22:11:11.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was squashed by a falling anvil
-[01May2025 22:12:50.631] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 22:12:57.334] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 22:14:06.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.999741466289152,1.0752008901189498,1.7543833313106347
-[01May2025 22:14:10.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
-[01May2025 22:14:10.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
-[01May2025 22:14:10.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 22:14:24.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46469] logged in with entity id 118020 at (-678.1659802051249, 65.79673560066871, 363.07052105166343)
-[01May2025 22:14:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 22:14:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdfasdsa
-[01May2025 22:19:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was doomed to fall
-[01May2025 22:27:06.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -0.25749271948859587,1.130268635893657,10.02214011173561
-[01May2025 22:27:10.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
-[01May2025 22:27:10.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
-[01May2025 22:27:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
-[01May2025 22:27:23.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128829, l='ServerLevel[world]', x=-765.55, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 22:27:24.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36849] logged in with entity id 129212 at (-662.1285938215174, 64.00133597911214, 386.8441949704293)
-[01May2025 22:27:24.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
-[01May2025 22:27:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogo
-[01May2025 22:29:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was slain by Phantom
-[01May2025 22:29:33.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/132591, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
-[01May2025 22:29:46.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.95840659267958,-1.1661092609382138,-0.08749198501367061
-[01May2025 22:41:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [An Even Better Bow]
-[01May2025 22:42:46.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151676, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
-[01May2025 22:43:27.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.7666983461393784,0.0,10.204102061937817
-[01May2025 22:44:13.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[01May2025 22:51:49.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.084457051228128,0.0,0.3684999424662223
-[01May2025 22:52:00.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Wither Skeleton
-[01May2025 22:52:06.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Disconnected
-[01May2025 22:52:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
-[01May2025 22:53:27.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -0.38975134409918155,1.252203340253729,10.217780011435991
-[01May2025 22:53:33.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadassad
-[01May2025 22:54:57.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=50, z=84} BlockPos{x=-91, y=52, z=83}
-[01May2025 22:54:57.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=52, z=83} BlockPos{x=-91, y=50, z=84}
-[01May2025 22:57:39.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=14, z=111} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=14, z=111} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=14, z=111} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=14, z=111} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=14, z=111} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=14, z=107} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=14, z=107} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:57:39.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=14, z=106} BlockPos{x=-113, y=15, z=111}
-[01May2025 22:58:58.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [What a Deal!]
-[01May2025 22:59:59.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=16, z=106} BlockPos{x=-87, y=13, z=105}
-[01May2025 22:59:59.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=16, z=106} BlockPos{x=-87, y=13, z=105}
-[01May2025 23:00:20.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=13, z=108} BlockPos{x=-79, y=14, z=109}
-[01May2025 23:01:31.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=19, z=91} BlockPos{x=-72, y=18, z=90}
-[01May2025 23:01:31.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=19, z=91} BlockPos{x=-72, y=18, z=90}
-[01May2025 23:01:31.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=18, z=91} BlockPos{x=-72, y=18, z=90}
-[01May2025 23:01:31.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=18, z=91} BlockPos{x=-72, y=18, z=90}
-[01May2025 23:01:31.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=19, z=92} BlockPos{x=-72, y=18, z=90}
-[01May2025 23:01:31.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=19, z=92} BlockPos{x=-72, y=18, z=90}
-[01May2025 23:01:58.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=17, z=105} BlockPos{x=-78, y=17, z=106}
-[01May2025 23:01:59.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=17, z=105} BlockPos{x=-78, y=17, z=106}
-[01May2025 23:01:59.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=17, z=104} BlockPos{x=-76, y=18, z=105}
-[01May2025 23:02:01.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=17, z=103} BlockPos{x=-79, y=18, z=103}
-[01May2025 23:06:32.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Spooky Scary Skeleton]
-[01May2025 23:06:52.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/175163, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
-[01May2025 23:09:09.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Zombified Piglin
-[01May2025 23:15:14.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
-[01May2025 23:15:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
-[01May2025 23:15:28.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -10.241848062174313,0.12129684053920187,0.09258917345090367
-[01May2025 23:15:36.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assfdafads
-[01May2025 23:16:54.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:59085] logged in with entity id 180929 at (-383.53744482437685, 76.0, 133.6129797203585)
-[01May2025 23:16:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
-[01May2025 23:17:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Wither Skeleton
-[01May2025 23:18:44.427] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 23:19:01.082] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 23:19:05.187] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 23:20:00.134] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 23:20:04.136] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
-[01May2025 23:21:12.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Wither Skeleton
-[01May2025 23:21:12.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 tried to swim in lava
-[01May2025 23:25:10.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has reached the goal [Non-renewable? Yeah, right..]
-[01May2025 23:26:24.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsadsa
-[01May2025 23:27:46.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Ice Bucket Challenge]
-[01May2025 23:27:49.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Gravedigger]
-[01May2025 23:28:21.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Gravedigger]
-[01May2025 23:31:13.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [A Terrible Fortress]
-[01May2025 23:31:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Terrible Fortress]
-[01May2025 23:32:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdsadads
-[01May2025 23:34:44.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Into Fire]
-[01May2025 23:35:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Non-renewable? Yeah, right..]
-[01May2025 23:42:22.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Up, Up, and Away]
+[01May2025 23:48:14.203] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3190 advancements
+[01May2025 23:48:14.227] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[01May2025 23:48:14.234] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[01May2025 23:48:15.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01May2025 23:48:15.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01May2025 23:48:15.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01May2025 23:48:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01May2025 23:48:15.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01May2025 23:48:15.803] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01May2025 23:48:15.901] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01May2025 23:48:15.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01May2025 23:48:15.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01May2025 23:48:15.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01May2025 23:48:15.928] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[01May2025 23:48:15.929] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[01May2025 23:48:15.931] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[01May2025 23:48:16.024] [Server thread/INFO] [Framework/]: Loading server configs...
+[01May2025 23:48:16.029] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[01May2025 23:48:16.030] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[01May2025 23:48:16.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01May2025 23:48:16.886] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[01May2025 23:48:22.201] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[01May2025 23:48:23.194] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[01May2025 23:48:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01May2025 23:48:28.399] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.416] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.430] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.444] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.451] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.468] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.498] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.514] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.537] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.551] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.567] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:28.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01May2025 23:48:29.200] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[01May2025 23:48:29.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[01May2025 23:48:30.186] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6987 ms
+[01May2025 23:48:30.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.269s)! For help, type "help"
+[01May2025 23:48:30.302] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01May2025 23:48:42.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:44917] logged in with entity id 161 at (559.0261078699627, 43.0, 1985.5157668702795)
+[01May2025 23:48:42.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[01May2025 23:48:44.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[01May2025 23:48:50.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:33847] logged in with entity id 575 at (562.9493675190381, 43.0, 1987.437938490088)
+[01May2025 23:48:50.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[01May2025 23:48:59.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[01May2025 23:48:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[01May2025 23:49:03.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:34311] logged in with entity id 613 at (561.3057388919718, 43.0, 1984.225594756465)
+[01May2025 23:49:03.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[01May2025 23:49:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [H.P Minecraftian]
+[01May2025 23:49:09.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:33079] logged in with entity id 617 at (562.9493675190381, 43.0, 1987.437938490088)
+[01May2025 23:49:09.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[01May2025 23:50:26.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44235] logged in with entity id 897 at (572.5475022669325, 40.17675927506424, 1984.9219212134753)
+[01May2025 23:50:26.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01May2025 23:50:56.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[01May2025 23:50:56.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01May2025 23:51:14.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:56231] logged in with entity id 966 at (572.5475022669325, 39.031652574412604, 1984.9219212134753)
+[01May2025 23:51:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01May2025 23:51:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has reached the goal [Eldritch Manipulation]
+[01May2025 23:51:30.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aofkasak
+[01May2025 23:51:32.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culooo
+[01May2025 23:51:37.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Eldritch Manipulation]
+[01May2025 23:51:44.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[01May2025 23:51:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01May2025 23:52:03.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60145] logged in with entity id 1032 at (572.5475022669325, 39.031652574412604, 1984.9219212134753)
+[01May2025 23:52:03.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01May2025 23:52:24.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Phasmophobic]
+[01May2025 23:52:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assda
+[01May2025 23:52:33.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Frightening Rush]
+[01May2025 23:53:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Frightening Rush]
+[01May2025 23:53:35.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Frightening Rush]
+[01May2025 23:54:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Eldritch Manipulation]
+[01May2025 23:54:54.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 6.316293316116571,2.132407400788125,-7.7277302880143
+[01May2025 23:54:54.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[01May2025 23:55:31.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[01May2025 23:55:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
