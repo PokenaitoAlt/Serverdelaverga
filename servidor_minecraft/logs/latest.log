@@ -2368,3 +2368,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 19:05:32.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8977, l='ServerLevel[world]', x=146.64, y=72.00, z=112.48]
 [01May2025 19:05:32.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/8978, l='ServerLevel[world]', x=146.65, y=73.00, z=110.12]
 [01May2025 19:06:26.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9288, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01May2025 19:19:32.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14609, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01May2025 19:23:15.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Don't be scared'/7221, l='ServerLevel[world]', x=-726.60, y=59.00, z=387.11] died: %1$s was slain by %2$s
+[01May2025 19:23:15.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7124, l='ServerLevel[world]', x=-726.99, y=59.02, z=387.98] died: %1$s was slain by %2$s
+[01May2025 19:23:15.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7218, l='ServerLevel[world]', x=-727.95, y=59.00, z=388.95] died: %1$s was slain by %2$s
+[01May2025 19:23:18.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7220, l='ServerLevel[world]', x=-738.29, y=61.98, z=387.58] died: Come closer was slain by Zombie62002
+[01May2025 19:23:25.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['I'll find you'/7217, l='ServerLevel[world]', x=-745.88, y=55.36, z=378.46] died: I'll find you was slain by Zombie62002
+[01May2025 19:23:26.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7222, l='ServerLevel[world]', x=-746.36, y=54.31, z=379.43] died: Come closer was slain by Zombie62002
+[01May2025 19:23:26.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/7340, l='ServerLevel[world]', x=-746.41, y=55.03, z=376.79] died: Come closer was slain by Zombie62002
+[01May2025 19:24:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> BRO???
+[01May2025 19:24:31.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ??
+[01May2025 19:24:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Y este Poco e Monte??
+[01May2025 19:24:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> es que albin no lo corta maginate
+[01May2025 19:24:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> no mentira es obra de un baston XD
+[01May2025 19:24:56.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> NaGuevonaa
