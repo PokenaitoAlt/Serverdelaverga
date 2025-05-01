@@ -5200,10 +5200,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-21 21:07:54 +0000",
+      "minecraft:nether_wastes": "2025-05-01 21:24:01 +0000",
       "minecraft:soul_sand_valley": "2025-05-01 19:14:08 +0000",
-      "minecraft:warped_forest": "2025-04-21 21:08:24 +0000"
+      "minecraft:warped_forest": "2025-04-21 21:08:24 +0000",
+      "minecraft:basalt_deltas": "2025-05-01 21:26:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -6309,6 +6311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-01 21:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-01 20:27:09 +0000"
@@ -6348,6 +6356,18 @@
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2025-05-01 19:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-01 21:30:56 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_repair": {
+    "criteria": {
+      "gobber2_ring_repair": "2025-05-01 21:54:15 +0000"
     },
     "done": true
   },
@@ -6399,6 +6419,12 @@
     },
     "done": true
   },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-05-01 21:32:32 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/stairs": {
     "criteria": {
       "has_planks": "2025-05-01 19:17:42 +0000"
@@ -6420,6 +6446,18 @@
   "netherexp:recipes/soul_slate/bricks": {
     "criteria": {
       "has_item": "2025-05-01 19:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-01 21:30:56 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_nether": {
+    "criteria": {
+      "gobber2_ring_nether": "2025-05-01 21:36:24 +0000"
     },
     "done": true
   },
@@ -6450,6 +6488,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2025-05-01 20:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 21:27:22 +0000"
     },
     "done": true
   },

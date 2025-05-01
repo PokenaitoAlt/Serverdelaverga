@@ -2580,3 +2580,34 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01May2025 21:17:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zancudo
 [01May2025 21:17:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> loco
 [01May2025 21:17:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el sancocho
+[01May2025 21:26:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [Hot Tourist Destinations]
+[01May2025 21:27:22.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Those Were the Days]
+[01May2025 21:30:38.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79663, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[01May2025 21:30:56.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Hidden in the Depths]
+[01May2025 21:32:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Castlemania]
+[01May2025 21:34:38.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> puta
+[01May2025 21:36:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Basis of Nether Power]
+[01May2025 21:39:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Those Were the Days]
+[01May2025 21:40:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.08622826973788733,1.1451067006516382,10.235149225256237
+[01May2025 21:40:50.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[01May2025 21:40:56.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.06538222118938108,-1.0,10.055279099452491
+[01May2025 21:43:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Great View From Up Here]
+[01May2025 21:44:14.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[01May2025 21:46:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Hot Tourist Destinations]
+[01May2025 21:51:21.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:21.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:21.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:51:22.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-81, y=16, z=118} BlockPos{x=-80, y=16, z=118}
+[01May2025 21:54:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Better Than Mending]
+[01May2025 21:55:21.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=16, z=101} BlockPos{x=-97, y=16, z=101}
+[01May2025 21:56:01.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=17, z=111} BlockPos{x=-105, y=16, z=110}
+[01May2025 21:56:01.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=17, z=111} BlockPos{x=-105, y=16, z=110}
+[01May2025 21:59:45.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 burned to death
+[01May2025 21:59:59.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Castlemania]

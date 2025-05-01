@@ -2239,9 +2239,27 @@
     },
     "done": true
   },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2025-05-01 21:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-01 21:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-01 21:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-01 21:53:58 +0000"
     },
     "done": true
   },
