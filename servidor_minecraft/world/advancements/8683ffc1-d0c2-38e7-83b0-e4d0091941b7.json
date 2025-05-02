@@ -9167,12 +9167,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
@@ -9182,24 +9176,6 @@
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9221,27 +9197,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
-    "criteria": {
-      "has_pink_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9257,21 +9215,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
     },
     "done": true
   },
@@ -9284,12 +9230,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9320,30 +9260,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9431,27 +9347,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-02 03:28:26 +0000"
     },
     "done": true
   },
@@ -9461,21 +9359,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9491,30 +9377,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-05-02 03:27:00 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
@@ -9524,12 +9386,6 @@
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9545,21 +9401,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_pink_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9575,27 +9419,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
     },
     "done": true
   },
@@ -9623,21 +9449,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9653,30 +9467,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_toilet": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
@@ -9686,12 +9476,6 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9713,45 +9497,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
-    "criteria": {
-      "has_bread": "2025-05-02 03:26:59 +0000"
     },
     "done": true
   },
@@ -9785,33 +9539,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9824,24 +9560,6 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
-    "criteria": {
-      "has_pink_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9875,57 +9593,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
-    "criteria": {
-      "has_pink_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9938,12 +9614,6 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -9971,12 +9641,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_pink_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
@@ -9989,12 +9653,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
@@ -10004,24 +9662,6 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -10043,45 +9683,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_stool": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -10103,12 +9707,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
-    "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 03:15:48 +0000"
@@ -10121,15 +9719,393 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+  "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
     "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
     },
     "done": true
   },
@@ -10157,12 +10133,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
@@ -10187,18 +10157,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_grill": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/root": {
-    "criteria": {
-      "seeds": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
@@ -10208,12 +10166,6 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_range_hood": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
     },
     "done": true
   },
@@ -10232,24 +10184,6 @@
   "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
     },
     "done": true
   },
@@ -10283,24 +10217,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_grill": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_pink_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
@@ -10313,27 +10229,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-05-02 03:28:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
     },
     "done": true
   },
@@ -10355,15 +10253,129 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-02 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-02 03:27:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-02 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2025-05-02 03:28:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-02 03:28:27 +0000"
     },
     "done": true
   },
@@ -10379,15 +10391,195 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
-      "has_iron_ingot": "2025-05-02 03:15:48 +0000"
+      "has_stick": "2025-05-02 03:31:24 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
-      "has_planks": "2025-05-02 03:23:03 +0000"
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-02 03:31:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-02 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-02 03:37:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-02 03:37:32 +0000"
     },
     "done": true
   },

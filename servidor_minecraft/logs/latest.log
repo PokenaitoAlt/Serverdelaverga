@@ -2343,3 +2343,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 03:27:32.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Eso dicelo a la persona que estaba Chingue y Chingue que la pusiera XD
 [02May2025 03:27:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> osea Karla
 [02May2025 03:27:39.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> XD
+[02May2025 03:36:11.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50041] logged in with entity id 4918 at (-766.5, 69.5, 334.5)
+[02May2025 03:36:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 03:36:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogog
+[02May2025 03:36:46.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 03:36:46.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 03:37:22.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53177] logged in with entity id 5198 at (-766.5, 69.5, 334.5)
+[02May2025 03:37:22.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 03:37:48.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> conecta conexion puta
+[02May2025 03:37:58.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogo
+[02May2025 03:38:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asodkaso
+[02May2025 03:38:04.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[02May2025 03:38:04.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[02May2025 03:38:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sexo
+[02May2025 03:38:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya habia estabilizado xd
+[02May2025 03:38:33.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:55009] logged in with entity id 5583 at (-661.8029613918408, 63.0, 380.03969850353997)
+[02May2025 03:38:33.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[02May2025 03:38:53.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 03:38:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 03:39:10.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44029] logged in with entity id 6013 at (-765.9709480878082, 63.0, 337.69999998807907)
+[02May2025 03:39:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 03:39:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assadsa
+[02May2025 03:39:40.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogogo
+[02May2025 03:40:13.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> hay un peluche de peter grefen XD
+[02May2025 03:40:44.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6245, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[02May2025 03:41:22.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Jojo
+[02May2025 03:41:26.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> entra a un cofre
+[02May2025 03:41:38.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ya
+[02May2025 03:41:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> y da click en la rueda del raton
+[02May2025 03:41:57.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Listo?
+[02May2025 03:42:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ya le di pero nada
+[02May2025 03:42:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ven para aca
+[02May2025 03:42:39.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Miralo
+[02May2025 03:42:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> se ordena
+[02May2025 03:42:51.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Aja
+[02May2025 03:42:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> es eso?
+[02May2025 03:42:57.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> aaaaaa
+[02May2025 03:42:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Si
+[02May2025 03:43:02.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Prueba
+[02May2025 03:43:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> entonces si
+[02May2025 03:43:17.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> mi inventario se ordeno
+[02May2025 03:43:24.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> como se llama el mod de karla
+[02May2025 03:43:26.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 03:43:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 03:43:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Son vaaarios
+[02May2025 03:43:47.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43821] logged in with entity id 7066 at (-768.3109148077937, 69.0, 329.0125698149129)
+[02May2025 03:43:47.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 03:44:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sasadasdasd
+[02May2025 03:44:04.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> uwuwuw
+[02May2025 03:44:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yoyo
+[02May2025 03:44:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> y cuales son?
+[02May2025 03:44:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> oyoyoyoyoy

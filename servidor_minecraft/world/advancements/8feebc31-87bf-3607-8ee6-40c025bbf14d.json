@@ -7785,15 +7785,57 @@
     },
     "done": true
   },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-05-01 23:53:30 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/eldritch_manipulation": {
     "criteria": {
       "used_item": "2025-05-01 23:54:20 +0000"
     },
     "done": true
   },
-  "netherexp:nether/frightening_rush": {
+  "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
-      "condition": "2025-05-01 23:53:30 +0000"
+      "has_result": "2025-05-02 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-05-02 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-05-02 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-02 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 03:36:11 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-05-02 03:36:11 +0000"
     },
     "done": true
   },
