@@ -10703,5 +10703,23 @@
     },
     "done": true
   },
+  "gobber2:gobber2_staff_ensnarement": {
+    "criteria": {
+      "gobber2_staff_ensnarement": "2025-05-02 04:15:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_barrel": {
+    "criteria": {
+      "has_item": "2025-05-02 04:13:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_fist": {
+    "criteria": {
+      "has_item": "2025-05-02 04:13:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

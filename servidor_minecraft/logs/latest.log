@@ -2455,3 +2455,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 04:05:30.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [02May2025 04:05:34.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.239.171.224:36329] logged in with entity id 15704 at (-752.9077105597989, 65.0, 304.7000062380791)
 [02May2025 04:05:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[02May2025 04:05:41.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:46989] logged in with entity id 15947 at (-661.543624441645, 63.0, 403.9015380894418)
+[02May2025 04:05:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[02May2025 04:08:40.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Up, Up, and Away]
+[02May2025 04:10:35.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:47323] logged in with entity id 17301 at (-764.5, 69.5625, 333.5)
+[02May2025 04:10:35.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:10:59.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> disturbando la paz
+[02May2025 04:11:24.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[02May2025 04:11:24.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:11:56.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76da0d4e[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:58245) lost connection: Disconnected
+[02May2025 04:12:55.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17837, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[02May2025 04:13:17.558] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6e0db885[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:59753): Took too long to log in
+[02May2025 04:13:17.559] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e0db885[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:59753) lost connection: Took too long to log in
+[02May2025 04:13:17.616] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 04:13:44.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49045] logged in with entity id 18080 at (-764.5, 69.5625, 333.5)
+[02May2025 04:13:44.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:14:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> wewewew
+[02May2025 04:14:20.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasdasd
+[02May2025 04:14:44.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 04:14:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:15:02.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:47563] logged in with entity id 18524 at (-764.5, 69.5625, 333.5)
+[02May2025 04:15:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:15:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> holly canolly
+[02May2025 04:15:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sdadas
+[02May2025 04:15:27.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Mob in Your Pocket]
+[02May2025 04:15:46.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> soy libre?
