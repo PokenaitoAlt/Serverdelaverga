@@ -1636,11 +1636,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-01 23:59:52 +0000",
       "minecraft:skeleton": "2025-04-20 17:41:35 +0000",
       "minecraft:hoglin": "2025-04-27 20:31:56 +0000",
       "minecraft:spider": "2025-04-19 04:35:39 +0000",
       "minecraft:creeper": "2025-04-20 16:44:58 +0000",
       "minecraft:phantom": "2025-04-26 04:13:54 +0000",
+      "minecraft:wither_skeleton": "2025-05-01 23:57:11 +0000",
       "minecraft:piglin": "2025-04-30 05:22:40 +0000",
       "minecraft:enderman": "2025-04-26 05:56:53 +0000",
       "minecraft:zombie": "2025-04-20 16:20:58 +0000",
@@ -6077,15 +6079,75 @@
     },
     "done": true
   },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-05-01 23:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-01 23:59:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/netherite_plating": {
+    "criteria": {
+      "has_item": "2025-05-01 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_barrel": {
+    "criteria": {
+      "has_item": "2025-05-01 23:58:10 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-05-01 23:52:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_fist": {
+    "criteria": {
+      "has_item": "2025-05-01 23:58:10 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2025-05-01 23:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-01 23:58:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 23:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-01 23:59:57 +0000"
     },
     "done": true
   },
