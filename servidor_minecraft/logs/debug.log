@@ -16106,3 +16106,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 05:34:36.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Gobber Goes Nether]
 [02May2025 05:35:34.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 05:35:34.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 05:40:34.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 05:40:34.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 05:40:47.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[02May2025 05:40:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[02May2025 05:45:34.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 05:45:34.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 05:46:29.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> e
+[02May2025 05:47:19.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/90126, l='ServerLevel[world]', x=-1325.04, y=63.00, z=228.12] died, message: 'Nitwit was slain by Zombie'
+[02May2025 05:47:28.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/89524, l='ServerLevel[world]', x=-1182.64, y=70.00, z=156.03] died, message: 'Armorer was slain by Zombie'
+[02May2025 05:47:33.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/89913, l='ServerLevel[world]', x=-1279.51, y=66.00, z=244.27] died, message: 'Nitwit was slain by The Immortal'
+[02May2025 05:47:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[02May2025 05:47:49.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90128, l='ServerLevel[world]', x=-1257.50, y=63.00, z=220.00] died, message: 'Villager was slain by The Immortal'
+[02May2025 05:47:49.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/90046, l='ServerLevel[world]', x=-1306.14, y=64.00, z=207.74] died, message: 'Mason was slain by Zombie'
