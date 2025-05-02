@@ -8533,9 +8533,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-02 05:00:28 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_medallion_nether": {
     "criteria": {
       "gobber2_medallion_nether": "2025-05-02 04:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-05-02 05:04:01 +0000"
     },
     "done": true
   },
@@ -8551,6 +8563,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_medallion": {
+    "criteria": {
+      "gobber2_medallion": "2025-05-02 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-02 05:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-05-02 04:09:08 +0000"
@@ -8560,6 +8584,12 @@
   "gobber2:gobber2_medallion_exp": {
     "criteria": {
       "gobber2_medallion_exp": "2025-05-02 04:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-05-02 05:04:01 +0000"
     },
     "done": true
   },

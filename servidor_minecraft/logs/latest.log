@@ -2525,3 +2525,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 04:35:40.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40911] logged in with entity id 30954 at (-765.8702262079918, 63.0, 345.17500001192093)
 [02May2025 04:35:40.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [02May2025 04:36:01.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> GOOGOGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[02May2025 04:36:36.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[02May2025 04:36:36.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:46:33.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49835] logged in with entity id 42808 at (-765.8702262079918, 63.0, 345.17500001192093)
+[02May2025 04:46:33.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:47:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> la cuspide del lag
+[02May2025 04:47:21.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[02May2025 04:47:21.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:47:37.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60583] logged in with entity id 44647 at (-765.8702262079918, 63.0, 345.17500001192093)
+[02May2025 04:47:37.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:48:37.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 04:48:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:51:21.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40531] logged in with entity id 49166 at (-765.8702262079918, 63.0, 345.17500001192093)
+[02May2025 04:51:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:51:37.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> subeeeeeeeeeeeeee
+[02May2025 04:51:40.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[02May2025 04:51:40.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[02May2025 04:51:45.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sube mamaguebo
+[02May2025 04:51:49.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sube como el dolar
+[02May2025 04:51:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> kmadpñlmdas
+[02May2025 04:52:02.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> vamoooooos
+[02May2025 04:52:07.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> malpario
+[02May2025 04:52:29.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:56189] logged in with entity id 49955 at (941.5670903021447, -58.0, 1433.666561997037)
+[02May2025 04:52:29.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[02May2025 04:53:24.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50695, l='ServerLevel[world]', x=-765.55, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[02May2025 04:54:36.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Beginning of Something Magical]
+[02May2025 04:58:22.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 04:58:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:58:58.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44125] logged in with entity id 56056 at (-704.9244880222778, 63.99999999999999, 359.586980978773)
+[02May2025 04:58:58.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:59:01.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[02May2025 04:59:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[02May2025 04:59:08.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> endernegro
+[02May2025 04:59:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsfadsf
+[02May2025 04:59:49.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:55321] logged in with entity id 56649 at (936.5848751924589, -58.0, 1408.0350297151185)
+[02May2025 04:59:49.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[02May2025 05:04:56.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['Come closer'/475, l='ServerLevel[world]', x=-742.72, y=62.00, z=349.59] died: Come closer was slain by Pokenaito
+[02May2025 05:06:18.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64688, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[02May2025 05:06:35.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65606, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
