@@ -8533,6 +8533,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_medallion_nether": {
+    "criteria": {
+      "gobber2_medallion_nether": "2025-05-02 04:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-05-02 04:17:17 +0000"
@@ -8548,6 +8554,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-05-02 04:09:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_medallion_exp": {
+    "criteria": {
+      "gobber2_medallion_exp": "2025-05-02 04:30:32 +0000"
     },
     "done": true
   },

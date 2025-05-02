@@ -2507,3 +2507,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 04:22:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasdsa
 [02May2025 04:24:23.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [02May2025 04:24:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:26:24.967] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b0546f5[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:35269) lost connection: Disconnected
+[02May2025 04:27:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Take Aim]
+[02May2025 04:28:26.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78082bd[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:60827) lost connection: Disconnected
+[02May2025 04:29:57.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53417] logged in with entity id 28118 at (-765.8702262079918, 63.0, 345.17500001192093)
+[02May2025 04:29:57.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:30:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [The Magic Continues]
+[02May2025 04:30:22.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el invecil
+[02May2025 04:30:27.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 04:30:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:30:32.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Get More for Your Hard Work]
+[02May2025 04:31:04.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60993] logged in with entity id 28435 at (-765.8702262079918, 63.0, 345.17500001192093)
+[02May2025 04:31:04.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:31:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nojodAAAAAAAAAAAAAAA
+[02May2025 04:32:05.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 04:32:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 04:35:40.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:40911] logged in with entity id 30954 at (-765.8702262079918, 63.0, 345.17500001192093)
+[02May2025 04:35:40.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 04:36:01.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> GOOGOGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
