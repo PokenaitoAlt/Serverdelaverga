@@ -2394,3 +2394,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 03:44:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yoyo
 [02May2025 03:44:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> y cuales son?
 [02May2025 03:44:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> oyoyoyoyoy
+[02May2025 03:45:23.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasddsa
+[02May2025 03:47:32.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 03:47:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[02May2025 03:47:58.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50637] logged in with entity id 7883 at (-766.4242914498028, 63.0, 342.01362099444475)
+[02May2025 03:47:58.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[02May2025 03:54:45.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zz
+[02May2025 03:54:45.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[02May2025 03:54:46.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[02May2025 03:54:58.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[02May2025 03:54:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
