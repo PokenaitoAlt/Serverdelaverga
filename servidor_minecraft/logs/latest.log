@@ -2594,3 +2594,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 05:47:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
 [02May2025 05:47:49.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90128, l='ServerLevel[world]', x=-1257.50, y=63.00, z=220.00] died, message: 'Villager was slain by The Immortal'
 [02May2025 05:47:49.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/90046, l='ServerLevel[world]', x=-1306.14, y=64.00, z=207.74] died, message: 'Mason was slain by Zombie'
+[02May2025 05:48:13.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/89895, l='ServerLevel[world]', x=-1263.69, y=63.00, z=229.29] died, message: 'Gunsmith was slain by The Immortal'
+[02May2025 05:48:14.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/89526, l='ServerLevel[world]', x=-1209.24, y=68.00, z=174.17] died, message: 'Butcher was burnt to a crisp whilst fighting Zombie'
+[02May2025 05:48:39.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/89763, l='ServerLevel[world]', x=-1290.64, y=65.00, z=222.51] died, message: 'Nitwit was slain by The Immortal'
+[02May2025 05:48:41.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/89911, l='ServerLevel[world]', x=-1260.52, y=63.00, z=242.52] died, message: 'Mason was slain by Sucker'
+[02May2025 05:49:36.964] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[02May2025 05:49:49.743] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[02May2025 05:49:49.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[02May2025 05:50:42.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan (vehicle of Pokenaito) moved wrongly! 0.2521575672463996
+[02May2025 05:50:43.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan (vehicle of Pokenaito) moved wrongly! 0.5602609643566439
+[02May2025 05:50:43.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan (vehicle of Pokenaito) moved wrongly! 0.8680743984663195
+[02May2025 05:50:43.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan (vehicle of Pokenaito) moved wrongly! 1.1693597679746972
+[02May2025 05:50:43.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan (vehicle of Pokenaito) moved wrongly! 1.4596975449319416
+[02May2025 05:51:44.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.3754800844399142
+[02May2025 05:51:44.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.2509720918990297
+[02May2025 05:51:44.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.7567314885002361
+[02May2025 05:51:44.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.5241577418544239
+[02May2025 05:51:44.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.7897894467594142
+[02May2025 05:51:44.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.8099170020550446
+[02May2025 05:51:44.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 1.1068279129501661
+[02May2025 05:51:45.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 1.4134482957713317
+[02May2025 05:51:45.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3075366887119344
+[02May2025 05:51:45.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3155035948063869
+[02May2025 05:51:45.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.35236079054288894
+[02May2025 05:51:45.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.32243378592238514
+[02May2025 05:51:45.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.6587146319241128
+[02May2025 05:51:45.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.33390640856464415
+[02May2025 05:51:45.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.37062327693570296
+[02May2025 05:51:45.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3388694419290914
+[02May2025 05:51:45.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.6899528609119443
+[02May2025 05:51:45.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3467570909672304
+[02May2025 05:51:45.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.4512689403809418
+[02May2025 05:51:45.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3504013121053049
+[02May2025 05:51:45.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3534163881888617
+[02May2025 05:51:45.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.7174079918650023
+[02May2025 05:51:45.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.25434068005051813
+[02May2025 05:51:45.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3194251908073511
+[02May2025 05:51:45.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: I'll find you (vehicle of Lechina) moved wrongly! 0.28072424381207384
+[02May2025 05:51:45.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.2866659395340321
+[02May2025 05:51:45.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.2571826141688689
+[02May2025 05:51:45.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.4959974800351574
+[02May2025 05:51:45.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.35936881066049864
+[02May2025 05:51:45.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.2895369445357119
+[02May2025 05:51:48.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rempalago181) moved wrongly! 0.3803412458184994
+[02May2025 05:53:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Best Friends Forever]
+[02May2025 05:54:56.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Cobweb Entanglement]
