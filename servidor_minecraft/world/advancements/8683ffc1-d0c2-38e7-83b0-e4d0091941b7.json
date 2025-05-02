@@ -10649,15 +10649,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-05-02 03:45:10 +0000"
+    },
+    "done": true
+  },
   "scguns:main/iron/iron_javelin": {
     "criteria": {
       "iron_javelin": "2025-05-02 03:45:24 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
-      "has_oak_planks": "2025-05-02 03:45:10 +0000"
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-02 03:50:43 +0000"
     },
     "done": true
   },
