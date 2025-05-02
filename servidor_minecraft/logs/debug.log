@@ -16168,3 +16168,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 05:54:56.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Cobweb Entanglement]
 [02May2025 05:55:39.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 05:55:39.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 06:00:39.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 06:00:39.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 06:00:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asda
+[02May2025 06:03:13.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lechina) moved wrongly! 0.29965184529316957
+[02May2025 06:03:13.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lechina) moved wrongly! 0.8019151280099095
+[02May2025 06:03:13.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lechina) moved wrongly! 1.3108347318352571
+[02May2025 06:03:39.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> 5 de asada
+[02May2025 06:04:32.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lechina) moved wrongly! 0.2555909837710715
+[02May2025 06:04:32.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lechina) moved wrongly! 0.6480569462097492
+[02May2025 06:04:32.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lechina) moved wrongly! 1.1097179635358998
+[02May2025 06:04:52.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106861, l='ServerLevel[world]', x=-765.55, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[02May2025 06:05:39.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 06:05:39.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 06:06:34.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> seba=
+[02May2025 06:06:36.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> _
+[02May2025 06:06:46.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a verga el womic
