@@ -16092,3 +16092,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02May2025 05:27:01.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:51683] logged in with entity id 82149 at (-664.3862467061514, 63.0, 407.0225996778744)
 [02May2025 05:27:01.827] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4baeb62a into net.minecraft.network.Connection@6841b859
 [02May2025 05:27:01.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[02May2025 05:28:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> go
+[02May2025 05:28:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 was slain by Pokenaito using [La Penetradora]
+[02May2025 05:28:58.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/83365, l='ServerLevel[world]', x=-738.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[02May2025 05:30:34.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 05:30:34.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 05:31:06.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/84918, l='ServerLevel[world]', x=-765.55, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[02May2025 05:32:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Better Than Mending]
+[02May2025 05:33:31.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=65, z=289} BlockPos{x=-563, y=65, z=290}
+[02May2025 05:33:31.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=65, z=289} BlockPos{x=-563, y=65, z=290}
+[02May2025 05:33:31.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=65, z=289} BlockPos{x=-563, y=65, z=290}
+[02May2025 05:33:34.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-563, y=67, z=293} BlockPos{x=-563, y=68, z=292}
+[02May2025 05:34:36.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Gobber Goes Nether]
+[02May2025 05:35:34.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 05:35:34.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
