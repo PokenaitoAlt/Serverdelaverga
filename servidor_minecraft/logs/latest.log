@@ -3289,3 +3289,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03May2025 22:59:11.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4defcd68[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:50459) lost connection: Disconnected
 [03May2025 23:01:21.436] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b61b1c6[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:51629) lost connection: Disconnected
 [03May2025 23:01:31.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40cb1370[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:41671) lost connection: Disconnected
+[03May2025 23:05:14.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:47991] logged in with entity id 4097 at (-717.2976091564877, 64.0, 319.21217902725124)
+[03May2025 23:05:14.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[03May2025 23:05:14.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Plushies!]
+[03May2025 23:07:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Cute!]
