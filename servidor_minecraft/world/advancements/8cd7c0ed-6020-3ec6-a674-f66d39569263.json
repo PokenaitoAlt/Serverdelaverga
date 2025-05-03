@@ -7743,6 +7743,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-03 23:16:25 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2025-05-03 23:06:56 +0000"
