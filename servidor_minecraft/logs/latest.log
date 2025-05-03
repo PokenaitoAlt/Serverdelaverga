@@ -3275,3 +3275,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03May2025 22:43:18.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7301 ms
 [03May2025 22:43:18.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.892s)! For help, type "help"
 [03May2025 22:43:18.912] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03May2025 22:53:26.831] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@224dcf0a[id=<null>,name=Zombie62002,properties={},legacy=false] (/127.109.46.254:37517) lost connection: Disconnected
+[03May2025 22:53:33.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:33745] logged in with entity id 160 at (-659.7780682423638, 68.0625, 407.6983600792457)
+[03May2025 22:53:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[03May2025 22:53:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Plushies!]
+[03May2025 22:53:35.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[03May2025 22:54:19.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1222, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[03May2025 22:57:16.389] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [a_man_with_plushies:a_man_with_plushies] rejected their client side version number
+[03May2025 22:57:16.390] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03May2025 22:57:16.436] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2813f206[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:43161) lost connection: Connection closed - mismatched mod channel list
+[03May2025 22:58:38.585] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@146d306b[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:32817) lost connection: Disconnected
+[03May2025 22:58:56.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41748bd8[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:53719) lost connection: Disconnected
+[03May2025 22:59:11.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4defcd68[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:50459) lost connection: Disconnected
+[03May2025 23:01:21.436] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b61b1c6[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:51629) lost connection: Disconnected
+[03May2025 23:01:31.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40cb1370[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:41671) lost connection: Disconnected
