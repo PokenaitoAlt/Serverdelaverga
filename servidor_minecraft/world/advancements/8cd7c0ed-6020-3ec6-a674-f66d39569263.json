@@ -67,6 +67,7 @@
       "minecraft:stony_peaks": "2025-05-04 01:38:20 +0000",
       "minecraft:sparse_jungle": "2025-04-23 04:28:32 +0000",
       "minecraft:river": "2025-04-19 02:44:00 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-04 02:56:39 +0000",
       "minecraft:stony_shore": "2025-04-19 02:43:02 +0000",
       "minecraft:dripstone_caves": "2025-04-23 04:30:53 +0000",
       "minecraft:grove": "2025-05-04 01:57:08 +0000",
@@ -78,6 +79,7 @@
       "minecraft:ocean": "2025-04-23 04:57:34 +0000",
       "minecraft:jungle": "2025-05-04 01:16:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-04 01:06:53 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-04 02:59:12 +0000",
       "minecraft:flower_forest": "2025-04-27 17:51:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:10:13 +0000",
       "minecraft:deep_dark": "2025-04-23 04:38:12 +0000",
@@ -1652,6 +1654,7 @@
       "minecraft:pillager": "2025-05-04 02:29:40 +0000",
       "minecraft:skeleton": "2025-04-20 17:41:35 +0000",
       "minecraft:hoglin": "2025-04-27 20:31:56 +0000",
+      "minecraft:vindicator": "2025-05-04 02:43:56 +0000",
       "minecraft:spider": "2025-04-19 04:35:39 +0000",
       "minecraft:creeper": "2025-04-20 16:44:58 +0000",
       "minecraft:phantom": "2025-04-26 04:13:54 +0000",
@@ -7749,9 +7752,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron_blueprint": {
+    "criteria": {
+      "iron_blueprint": "2025-05-04 03:09:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
     },
     "done": true
   },
@@ -7797,9 +7824,27 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel_blueprint": {
+    "criteria": {
+      "diamond_steel_blueprint": "2025-05-04 03:09:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-05-04 01:40:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
     },
     "done": true
   },
@@ -7815,9 +7860,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-04 02:54:06 +0000"
     },
     "done": true
   },
@@ -7857,6 +7914,18 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel/uppercut": {
+    "criteria": {
+      "uppercut": "2025-05-04 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2025-05-04 01:29:35 +0000"
@@ -7887,15 +7956,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-05-03 23:16:25 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2025-05-03 23:06:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 03:19:01 +0000"
     },
     "done": true
   },
