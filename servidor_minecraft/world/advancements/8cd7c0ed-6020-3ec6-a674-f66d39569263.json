@@ -71,9 +71,11 @@
       "minecraft:lush_caves": "2025-04-23 04:31:38 +0000",
       "minecraft:deep_cold_ocean": "2025-04-23 05:11:55 +0000",
       "minecraft:ocean": "2025-04-23 04:57:34 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-04 01:06:53 +0000",
       "minecraft:flower_forest": "2025-04-27 17:51:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:10:13 +0000",
       "minecraft:deep_dark": "2025-04-23 04:38:12 +0000",
+      "minecraft:meadow": "2025-05-04 01:09:14 +0000",
       "minecraft:savanna": "2025-04-23 04:25:50 +0000",
       "minecraft:plains": "2025-04-19 02:43:28 +0000"
     },
@@ -7726,6 +7728,12 @@
     },
     "done": true
   },
+  "scguns:main/craft_small_casing_mold": {
+    "criteria": {
+      "small_casing_mold": "2025-05-04 01:03:50 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/blind_shot": {
     "criteria": {
       "shot_arrow": "2025-05-04 00:37:23 +0000"
@@ -7735,6 +7743,12 @@
   "a_man_with_plushies:first_plush_box": {
     "criteria": {
       "first_plush_box_0": "2025-05-03 23:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-05-04 01:06:44 +0000"
     },
     "done": true
   },
