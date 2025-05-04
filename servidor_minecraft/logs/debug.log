@@ -10831,3 +10831,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04May2025 00:02:15.074] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-617, y=70, z=333}) doesn't have enough leaves around top most log
 [04May2025 00:03:21.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 00:03:21.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:06:30.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26467, l='ServerLevel[world]', x=-739.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[04May2025 00:07:09.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-620, y=68, z=311} BlockPos{x=-620, y=69, z=311}
+[04May2025 00:07:14.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-614, y=69, z=320} BlockPos{x=-614, y=69, z=318}
+[04May2025 00:07:29.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=69, z=315} BlockPos{x=-617, y=69, z=318}
+[04May2025 00:07:31.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=68, z=318} BlockPos{x=-617, y=69, z=320}
+[04May2025 00:07:31.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=69, z=321} BlockPos{x=-617, y=69, z=320}
+[04May2025 00:08:21.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:08:21.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:08:57.222] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-617, y=69, z=327}) doesn't have enough leaves around top most log
+[04May2025 00:08:57.923] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-618, y=69, z=327}) doesn't have enough leaves around top most log
+[04May2025 00:08:59.541] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-617, y=69, z=328}) doesn't have enough leaves around top most log
+[04May2025 00:09:00.242] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-618, y=69, z=328}) doesn't have enough leaves around top most log
+[04May2025 00:11:00.818] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-616, y=69, z=328}) doesn't have enough leaves around top most log
+[04May2025 00:11:29.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-620, y=68, z=313} BlockPos{x=-619, y=68, z=315}
+[04May2025 00:11:41.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=67, z=327} BlockPos{x=-616, y=68, z=327}
+[04May2025 00:11:41.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-618, y=66, z=327} BlockPos{x=-616, y=68, z=327}
+[04May2025 00:13:21.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:13:21.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:13:36.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28942, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.50] died, message: 'Villager was killed'
+[04May2025 00:18:21.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:18:21.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:21:33.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-619, y=69, z=304} BlockPos{x=-614, y=69, z=304}
+[04May2025 00:21:33.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-619, y=69, z=304} BlockPos{x=-614, y=69, z=304}
+[04May2025 00:22:59.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=70, z=306} BlockPos{x=-626, y=70, z=304}
+[04May2025 00:23:21.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:23:21.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
