@@ -375,3 +375,41 @@
 [04May2025 02:21:34.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [04May2025 02:21:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [04May2025 02:24:45.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sdaadas
+[04May2025 02:30:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Voluntary Exile]
+[04May2025 02:35:25.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=792, y=64, z=1005} BlockPos{x=793, y=62, z=1005}
+[04May2025 02:36:19.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:34767] logged in with entity id 122769 at (-662.122668734857, 63.0, 407.05986868096267)
+[04May2025 02:36:19.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[04May2025 02:38:21.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 4.777906687958875,1.587963106046999,8.680883401106257
+[04May2025 02:38:21.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[04May2025 02:38:24.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 4.780811359542895,1.6753492726193144,8.687674311999217
+[04May2025 02:38:24.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.551705884200601,0.7531999805212024,-9.692293560279552
+[04May2025 02:38:24.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -3.7041374757841368,2.177777974007313,-9.113379990927285
+[04May2025 02:38:28.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.7209149382947544,1.7240484085199625,10.038093164548854
+[04May2025 02:38:28.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsad
+[04May2025 02:38:45.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[04May2025 02:38:51.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 0.906403343091938,-0.07544406518948676,10.060482222869496
+[04May2025 02:38:51.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 4.574551995900038,1.6333334805054847,8.936485506744702
+[04May2025 02:38:57.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 6.912372484543994,2.252203340253729,6.956639779112152
+[04May2025 02:38:57.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 5.371593513973039,1.6787001695313108,8.44383901117908
+[04May2025 02:38:57.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 2.2161919055583894,-0.5047991229940791,-9.852834505036242
+[04May2025 02:39:05.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4330ms or 86 ticks behind
+[04May2025 02:40:26.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/127920, l='ServerLevel[world]', x=-2597.49, y=68.00, z=2118.94] died, message: 'Villager tried to swim in lava'
+[04May2025 02:40:30.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/127921, l='ServerLevel[world]', x=-2597.49, y=68.00, z=2118.36] died, message: 'Villager tried to swim in lava'
+[04May2025 02:41:01.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128317, l='ServerLevel[world]', x=-2535.44, y=66.00, z=2184.35] died, message: 'Villager died whilst trying to escape The Spitter'
+[04May2025 02:41:11.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/128316, l='ServerLevel[world]', x=-2547.19, y=66.05, z=2179.70] died, message: 'Toolsmith died'
+[04May2025 02:41:13.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/128326, l='ServerLevel[world]', x=-2650.04, y=71.00, z=2198.74] died, message: 'Fletcher was slain by The Somnolence'
+[04May2025 02:41:27.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128146, l='ServerLevel[world]', x=-2573.38, y=71.00, z=2153.80] died, message: 'Villager was sniped by Archer'
+[04May2025 02:41:36.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128149, l='ServerLevel[world]', x=-2572.49, y=71.00, z=2147.54] died, message: 'Villager was sniped by Archer'
+[04May2025 02:41:52.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128189, l='ServerLevel[world]', x=-2555.45, y=71.00, z=2151.41] died, message: 'Villager was sniped by Archer'
+[04May2025 02:41:55.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/128206, l='ServerLevel[world]', x=-2541.30, y=68.00, z=2134.50] died, message: 'Gunsmith was shot by Pillager'
+[04May2025 02:42:05.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128119, l='ServerLevel[world]', x=-2561.30, y=71.00, z=2142.49] died, message: 'Villager was shot by Pillager'
+[04May2025 02:42:40.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/128300, l='ServerLevel[world]', x=-2587.51, y=72.00, z=2180.70] died, message: 'Nitwit was sniped by Archer'
+[04May2025 02:42:52.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128302, l='ServerLevel[world]', x=-2578.45, y=72.00, z=2189.70] died, message: 'Villager was sniped by Archer'
+[04May2025 02:43:12.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/128142, l='ServerLevel[world]', x=-2588.90, y=68.00, z=2124.73] died, message: 'Nitwit was shot by Pillager'
+[04May2025 02:43:22.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128491, l='ServerLevel[world]', x=-2549.35, y=64.00, z=2213.59] died, message: 'Villager was slain by Vindicator'
+[04May2025 02:43:34.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/128493, l='ServerLevel[world]', x=-2552.48, y=63.94, z=2213.51] died, message: 'Nitwit was slain by Vindicator'
+[04May2025 02:43:38.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/128495, l='ServerLevel[world]', x=-2554.49, y=64.00, z=2217.98] died, message: 'Nitwit was slain by Vindicator'
+[04May2025 02:44:26.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128597, l='ServerLevel[world]', x=-2600.41, y=71.00, z=2245.42] died, message: 'Villager was slain by Zombie'
+[04May2025 02:44:43.655] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128596, l='ServerLevel[world]', x=-2641.70, y=69.42, z=2237.67] died, message: 'Villager was slain by The Skeeper'
+[04May2025 02:44:47.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128544, l='ServerLevel[world]', x=-2641.66, y=69.27, z=2236.50] died, message: 'Villager was slain by The Skeeper'
+[04May2025 02:46:33.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/128598, l='ServerLevel[world]', x=-2618.45, y=68.00, z=2239.13] died, message: 'Villager was slain by The Somnolence'
