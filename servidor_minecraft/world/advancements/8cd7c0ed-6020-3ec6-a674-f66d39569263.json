@@ -7725,6 +7725,12 @@
     },
     "done": true
   },
+  "netherexp:nether/blind_shot": {
+    "criteria": {
+      "shot_arrow": "2025-05-04 00:37:23 +0000"
+    },
+    "done": true
+  },
   "a_man_with_plushies:first_plush_box": {
     "criteria": {
       "first_plush_box_0": "2025-05-03 23:05:14 +0000"
@@ -7734,6 +7740,12 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-03 23:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-04 00:41:09 +0000"
     },
     "done": true
   },
