@@ -42,3 +42,9 @@
 [04May2025 01:11:27.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62362, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
 [04May2025 01:11:33.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62393, l='ServerLevel[world]', x=-734.99, y=-256.00, z=301.50] died, message: 'Villager was killed'
 [04May2025 01:12:32.757] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04May2025 01:17:06.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.8296720994562747,-9.984353451575501,-1.7414592706196572
+[04May2025 01:23:04.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3343, y=64, z=-15} BlockPos{x=-3342, y=62, z=-14}
+[04May2025 01:23:04.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3343, y=64, z=-15} BlockPos{x=-3342, y=62, z=-14}
+[04May2025 01:23:09.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3347, y=63, z=-14} BlockPos{x=-3348, y=63, z=-15}
+[04May2025 01:23:09.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3347, y=63, z=-14} BlockPos{x=-3348, y=63, z=-15}
+[04May2025 01:23:09.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3347, y=63, z=-14} BlockPos{x=-3348, y=63, z=-15}

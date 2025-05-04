@@ -71,6 +71,7 @@
       "minecraft:lush_caves": "2025-04-23 04:31:38 +0000",
       "minecraft:deep_cold_ocean": "2025-04-23 05:11:55 +0000",
       "minecraft:ocean": "2025-04-23 04:57:34 +0000",
+      "minecraft:jungle": "2025-05-04 01:16:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-04 01:06:53 +0000",
       "minecraft:flower_forest": "2025-04-27 17:51:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:10:13 +0000",
@@ -7728,6 +7729,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-04 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_small_casing_mold": {
     "criteria": {
       "small_casing_mold": "2025-05-04 01:03:50 +0000"
@@ -7746,6 +7765,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-05-04 01:06:44 +0000"
@@ -7761,6 +7792,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-04 00:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-04 01:15:19 +0000"
     },
     "done": true
   },

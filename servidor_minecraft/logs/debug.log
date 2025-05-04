@@ -11319,3 +11319,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04May2025 01:12:32.757] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [04May2025 01:13:21.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 01:13:21.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:16:53.707] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[04May2025 01:16:53.707] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4cd6aaaa, b=81, e=89}, net.minecraft.world.CompoundContainer@7ac6c681=InventoryMapping{i=net.minecraft.world.CompoundContainer@7ac6c681, c=net.minecraft.world.inventory.ChestMenu@4cd6aaaa, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4cd6aaaa, b=54, e=80}}
+[04May2025 01:16:53.709] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7ac6c681, c=net.minecraft.world.inventory.ChestMenu@4cd6aaaa, b=0, e=53}
+[04May2025 01:17:06.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.8296720994562747,-9.984353451575501,-1.7414592706196572
+[04May2025 01:18:21.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:18:21.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:23:04.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3343, y=64, z=-15} BlockPos{x=-3342, y=62, z=-14}
+[04May2025 01:23:04.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3343, y=64, z=-15} BlockPos{x=-3342, y=62, z=-14}
+[04May2025 01:23:09.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3347, y=63, z=-14} BlockPos{x=-3348, y=63, z=-15}
+[04May2025 01:23:09.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3347, y=63, z=-14} BlockPos{x=-3348, y=63, z=-15}
+[04May2025 01:23:09.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3347, y=63, z=-14} BlockPos{x=-3348, y=63, z=-15}
+[04May2025 01:23:19.016] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 23
+[04May2025 01:23:19.017] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3a322314=InventoryMapping{i=net.minecraft.world.CompoundContainer@3a322314, c=net.minecraft.world.inventory.ChestMenu@5a697e8c, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5a697e8c, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5a697e8c, b=54, e=80}}
+[04May2025 01:23:19.017] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3a322314, c=net.minecraft.world.inventory.ChestMenu@5a697e8c, b=0, e=53}
+[04May2025 01:23:21.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:23:21.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
