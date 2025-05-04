@@ -3322,3 +3322,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03May2025 23:47:08.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19116, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
 [03May2025 23:47:57.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19310, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.99] died, message: 'Villager was killed'
 [03May2025 23:49:24.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19615, l='ServerLevel[world]', x=-738.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[03May2025 23:59:13.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[03May2025 23:59:13.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[03May2025 23:59:35.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.126.108.26:36413] logged in with entity id 23260 at (-687.3000000119209, 63.0, 410.69999998807907)
+[03May2025 23:59:35.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[03May2025 23:59:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 was incinerated by an Encased Fan

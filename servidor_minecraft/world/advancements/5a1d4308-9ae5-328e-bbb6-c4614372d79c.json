@@ -8623,6 +8623,24 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_plush_box": {
+    "criteria": {
+      "first_plush_box_0": "2025-05-03 23:30:19 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_common_plushie": {
+    "criteria": {
+      "first_common_plushie_0": "2025-05-03 23:31:46 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-05-03 23:44:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2025-05-03 23:45:12 +0000"
@@ -8761,12 +8779,6 @@
     },
     "done": true
   },
-  "a_man_with_plushies:first_plush_box": {
-    "criteria": {
-      "first_plush_box_0": "2025-05-03 23:30:19 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-03 23:45:12 +0000"
@@ -8881,12 +8893,6 @@
     },
     "done": true
   },
-  "brewery:recipes/patterned_wool": {
-    "criteria": {
-      "has_blue_wool": "2025-05-03 23:44:30 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-03 23:45:12 +0000"
@@ -8908,12 +8914,6 @@
   "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
       "has_dye": "2025-05-03 23:45:12 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_common_plushie": {
-    "criteria": {
-      "first_common_plushie_0": "2025-05-03 23:31:46 +0000"
     },
     "done": true
   },
