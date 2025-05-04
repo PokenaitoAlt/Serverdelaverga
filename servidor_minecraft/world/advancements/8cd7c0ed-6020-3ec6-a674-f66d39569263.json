@@ -68,6 +68,8 @@
       "minecraft:river": "2025-04-19 02:44:00 +0000",
       "minecraft:stony_shore": "2025-04-19 02:43:02 +0000",
       "minecraft:dripstone_caves": "2025-04-23 04:30:53 +0000",
+      "minecraft:grove": "2025-05-04 01:57:08 +0000",
+      "minecraft:jagged_peaks": "2025-05-04 01:57:24 +0000",
       "minecraft:cold_ocean": "2025-04-23 05:11:29 +0000",
       "minecraft:forest": "2025-04-19 02:39:23 +0000",
       "minecraft:lush_caves": "2025-04-23 04:31:38 +0000",
@@ -7751,6 +7753,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-04 01:54:15 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_small_casing_mold": {
     "criteria": {
       "small_casing_mold": "2025-05-04 01:03:50 +0000"
@@ -7784,6 +7792,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-04 01:15:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-05-04 01:54:15 +0000"
     },
     "done": true
   },
