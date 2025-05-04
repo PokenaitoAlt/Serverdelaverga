@@ -1837,3 +1837,25 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [04May2025 03:59:23.540] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180002, l='ServerLevel[world]', x=-1210.70, y=63.00, z=189.70] died, message: 'Villager was slain by Zombie'
 [04May2025 04:02:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [NOW' S YOUR CHANCE TO BE A [[BIG SHOT]]!!]
 [04May2025 04:06:48.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/195749, l='ServerLevel[world]', x=-734.95, y=-256.00, z=300.59] died, message: 'Villager was killed'
+[04May2025 04:09:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsasdadsads
+[04May2025 04:09:19.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogogogogo
+[04May2025 04:09:22.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[04May2025 04:09:22.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04May2025 04:09:27.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[04May2025 04:09:27.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[04May2025 04:09:32.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[04May2025 04:09:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[04May2025 04:09:53.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:34815] logged in with entity id 197185 at (-661.964376597014, 63.0, 392.9437360874934)
+[04May2025 04:09:53.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[04May2025 04:09:58.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:54757] logged in with entity id 198235 at (-638.0150658632964, -58.0, 198.29015099975626)
+[04May2025 04:09:58.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[04May2025 04:10:00.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:38245] logged in with entity id 198491 at (-571.9868948246161, 64.0, 400.08667749686003)
+[04May2025 04:10:00.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[04May2025 04:10:28.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[04May2025 04:10:28.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[04May2025 04:10:28.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04May2025 04:10:45.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:50967] logged in with entity id 198772 at (-678.0274718917068, 65.25220334025373, 316.47043744409507)
+[04May2025 04:10:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[04May2025 04:15:02.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.12651868001933,-4.231523797587016,-0.34812222405213333
+[04May2025 04:15:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gggggggggggggggggg
+[04May2025 04:15:13.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> fuliculi

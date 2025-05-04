@@ -10951,21 +10951,9 @@
     },
     "done": true
   },
-  "a_man_with_plushies:first_golden_plush_box": {
-    "criteria": {
-      "first_golden_plush_box_0": "2025-05-04 03:54:42 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-04 02:51:58 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_spamton_voice_line": {
-    "criteria": {
-      "first_spamton_voice_line_0": "2025-05-04 04:02:43 +0000"
     },
     "done": true
   },
@@ -10984,6 +10972,48 @@
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-05-04 02:51:58 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_golden_plush_box": {
+    "criteria": {
+      "first_golden_plush_box_0": "2025-05-04 03:54:42 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_spamton_voice_line": {
+    "criteria": {
+      "first_spamton_voice_line_0": "2025-05-04 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-05-04 04:12:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_deepslate": "2025-05-04 04:12:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-04 04:12:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-05-04 04:12:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-04 04:13:02 +0000"
     },
     "done": true
   },
