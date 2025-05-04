@@ -8989,6 +8989,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-05-04 01:01:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
     "criteria": {
       "cooked_chicken_cuts": "2025-05-04 00:27:29 +0000"

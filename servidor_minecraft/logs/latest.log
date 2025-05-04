@@ -34,3 +34,4 @@
 [04May2025 00:51:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [04May2025 00:51:53.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46588, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
 [04May2025 00:53:32.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45469, l='ServerLevel[world]', x=-1261.32, y=66.00, z=185.70] died, message: 'Villager was stung to death'
+[04May2025 00:54:18.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/45487, l='ServerLevel[world]', x=-1286.29, y=63.00, z=189.51] died, message: 'Farmer was killed by magic'
