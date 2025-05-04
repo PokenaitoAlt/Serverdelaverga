@@ -350,3 +350,20 @@
 [04May2025 02:04:08.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/105772, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
 [04May2025 02:04:43.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=61, z=429} BlockPos{x=-642, y=62, z=429}
 [04May2025 02:04:43.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=61, z=429} BlockPos{x=-642, y=62, z=429}
+[04May2025 02:08:09.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [A little bit of luck...]
+[04May2025 02:11:41.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Totally not arbitrary rarity]
+[04May2025 02:11:51.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Cute!]
+[04May2025 02:11:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Totally not arbitrary rarity]
+[04May2025 02:12:22.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A little bit of luck...]
+[04May2025 02:12:58.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[04May2025 02:12:58.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04May2025 02:13:06.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[04May2025 02:13:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[04May2025 02:13:30.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39089] logged in with entity id 109210 at (-686.1384361762932, 63.0, 434.1713435707803)
+[04May2025 02:13:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[04May2025 02:13:30.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:36129] logged in with entity id 109211 at (-663.4393987821989, 63.0, 414.4058574198097)
+[04May2025 02:13:30.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[04May2025 02:13:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gggg
+[04May2025 02:13:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadasdas
+[04May2025 02:14:00.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[04May2025 02:14:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game

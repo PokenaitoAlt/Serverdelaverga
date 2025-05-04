@@ -8745,9 +8745,21 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-05-04 02:08:09 +0000"
+    },
+    "done": true
+  },
   "a_man_with_plushies:first_plush_box": {
     "criteria": {
       "first_plush_box_0": "2025-05-04 02:01:05 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-05-04 02:11:52 +0000"
     },
     "done": true
   },

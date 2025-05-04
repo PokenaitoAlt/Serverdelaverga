@@ -10926,5 +10926,29 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-05-04 02:05:07 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-05-04 02:11:41 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_common_plushie": {
+    "criteria": {
+      "first_common_plushie_0": "2025-05-04 02:11:51 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-05-04 02:12:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
