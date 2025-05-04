@@ -1823,3 +1823,6 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [04May2025 03:17:50.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/161506, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
 [04May2025 03:23:20.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/165104, l='ServerLevel[world]', x=-765.56, y=-256.00, z=338.99] died, message: 'Villager was killed'
 [04May2025 03:24:08.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/165972, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[04May2025 03:27:37.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [A little bit of luck...]
+[04May2025 03:32:25.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['I'll find you'/123233, l='ServerLevel[world]', x=-598.58, y=59.00, z=358.29] died: I'll find you was slain by Lechina
+[04May2025 03:32:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
