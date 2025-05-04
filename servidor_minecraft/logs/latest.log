@@ -1859,3 +1859,23 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [04May2025 04:15:02.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.12651868001933,-4.231523797587016,-0.34812222405213333
 [04May2025 04:15:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gggggggggggggggggg
 [04May2025 04:15:13.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> fuliculi
+[04May2025 04:22:45.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/205839, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[04May2025 04:23:28.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/206441, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[04May2025 04:23:30.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved wrongly!
+[04May2025 04:23:31.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 1.0955067914671872,-10.06652030435393,-1.1591038885510443
+[04May2025 04:31:27.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aaaaaaaaa
+[04May2025 04:31:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asddddddddasdddddddddddddddddddddddddddddddddddddd
+[04May2025 04:31:46.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[04May2025 04:31:46.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[04May2025 04:32:11.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:48941] logged in with entity id 214891 at (-771.4686238328106, 69.0, 333.9294860644312)
+[04May2025 04:32:11.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[04May2025 04:32:39.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[04May2025 04:32:39.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[04May2025 04:32:39.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[04May2025 04:33:04.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3398e4a7[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:33837) lost connection: Disconnected
+[04May2025 04:33:25.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a1b8153[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:42025) lost connection: Disconnected
+[04May2025 04:33:33.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d3fd4b9[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:57263) lost connection: Disconnected
+[04May2025 04:33:42.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:53957] logged in with entity id 216454 at (-73.31242815102821, 74.4767826685747, -3656.5105550682483)
+[04May2025 04:33:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[04May2025 04:37:37.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/219181, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[04May2025 04:41:46.327] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/221262, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.87] died, message: 'Villager was killed'
