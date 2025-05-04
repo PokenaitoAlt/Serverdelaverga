@@ -22,3 +22,15 @@
 [04May2025 00:37:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has completed the challenge [Hero of the Village]
 [04May2025 00:38:54.146] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [04May2025 00:41:09.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [What a Deal!]
+[04May2025 00:46:16.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43876, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[04May2025 00:46:41.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44144, l='ServerLevel[world]', x=-765.62, y=-256.00, z=338.98] died, message: 'Villager was killed'
+[04May2025 00:46:54.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[04May2025 00:46:54.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04May2025 00:47:01.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44294, l='ServerLevel[world]', x=-764.46, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[04May2025 00:49:22.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45095, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[04May2025 00:49:46.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45162, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.98] died, message: 'Villager was killed'
+[04May2025 00:51:10.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/45467, l='ServerLevel[world]', x=-1241.70, y=67.00, z=159.71] died, message: 'Cartographer died'
+[04May2025 00:51:18.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:39549] logged in with entity id 46192 at (-661.6474304640163, 63.0, 402.27996333299126)
+[04May2025 00:51:18.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[04May2025 00:51:53.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46588, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[04May2025 00:53:32.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45469, l='ServerLevel[world]', x=-1261.32, y=66.00, z=185.70] died, message: 'Villager was stung to death'
