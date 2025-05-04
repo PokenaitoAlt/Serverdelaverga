@@ -1826,3 +1826,14 @@ Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
 [04May2025 03:27:37.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [A little bit of luck...]
 [04May2025 03:32:25.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Salmon['I'll find you'/123233, l='ServerLevel[world]', x=-598.58, y=59.00, z=358.29] died: I'll find you was slain by Lechina
 [04May2025 03:32:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[04May2025 03:44:33.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/180084, l='ServerLevel[world]', x=-1235.73, y=67.05, z=159.49] died, message: 'Fisherman was slain by The Moonflower'
+[04May2025 03:45:28.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/182053, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[04May2025 03:45:44.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/182272, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.42] died, message: 'Villager was killed'
+[04May2025 03:46:24.612] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lechina just tried to change non-editable sign
+[04May2025 03:51:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> rasdsa
+[04May2025 03:54:42.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Plushie Gambling!!!]
+[04May2025 03:58:46.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/179997, l='ServerLevel[world]', x=-1214.03, y=67.94, z=180.80] died, message: 'Gunsmith was slain by Zombie'
+[04May2025 03:59:00.248] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/180080, l='ServerLevel[world]', x=-1210.30, y=63.00, z=189.70] died, message: 'Armorer was slain by Zombie'
+[04May2025 03:59:23.540] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180002, l='ServerLevel[world]', x=-1210.70, y=63.00, z=189.70] died, message: 'Villager was slain by Zombie'
+[04May2025 04:02:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [NOW' S YOUR CHANCE TO BE A [[BIG SHOT]]!!]
+[04May2025 04:06:48.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/195749, l='ServerLevel[world]', x=-734.95, y=-256.00, z=300.59] died, message: 'Villager was killed'

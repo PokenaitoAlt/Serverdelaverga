@@ -452,7 +452,8 @@
       "minecraft:enderman": "2025-04-17 03:13:35 +0000",
       "minecraft:vex": "2025-04-26 03:14:01 +0000",
       "minecraft:zombie": "2025-04-11 02:48:45 +0000",
-      "minecraft:drowned": "2025-04-13 16:28:11 +0000"
+      "minecraft:drowned": "2025-04-13 16:28:11 +0000",
+      "minecraft:zombie_villager": "2025-05-04 03:39:19 +0000"
     },
     "done": false
   },
@@ -10950,9 +10951,21 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_golden_plush_box": {
+    "criteria": {
+      "first_golden_plush_box_0": "2025-05-04 03:54:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-04 02:51:58 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_spamton_voice_line": {
+    "criteria": {
+      "first_spamton_voice_line_0": "2025-05-04 04:02:43 +0000"
     },
     "done": true
   },

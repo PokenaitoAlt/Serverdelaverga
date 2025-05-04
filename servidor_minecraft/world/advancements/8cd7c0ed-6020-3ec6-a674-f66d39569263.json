@@ -7824,6 +7824,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-05-04 03:45:54 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/blind_shot": {
     "criteria": {
       "shot_arrow": "2025-05-04 00:37:23 +0000"
@@ -7857,6 +7863,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-05-04 01:36:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-04 03:58:32 +0000"
     },
     "done": true
   },
