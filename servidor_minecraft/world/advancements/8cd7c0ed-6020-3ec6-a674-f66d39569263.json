@@ -58,6 +58,7 @@
       "minecraft:old_growth_pine_taiga": "2025-05-02 05:44:57 +0000",
       "minecraft:taiga": "2025-04-23 05:11:23 +0000",
       "minecraft:sunflower_plains": "2025-04-27 17:53:22 +0000",
+      "minecraft:cherry_grove": "2025-05-04 02:21:36 +0000",
       "minecraft:birch_forest": "2025-04-19 02:47:39 +0000",
       "minecraft:bamboo_jungle": "2025-04-23 05:02:26 +0000",
       "minecraft:savanna_plateau": "2025-05-04 01:38:36 +0000",
@@ -7759,9 +7760,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-05-04 02:17:09 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_small_casing_mold": {
     "criteria": {
       "small_casing_mold": "2025-05-04 01:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-05-04 02:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-05-04 02:15:52 +0000"
     },
     "done": true
   },

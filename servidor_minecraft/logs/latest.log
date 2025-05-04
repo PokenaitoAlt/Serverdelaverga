@@ -367,3 +367,11 @@
 [04May2025 02:13:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sadasdas
 [04May2025 02:14:00.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [04May2025 02:14:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04May2025 02:17:37.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:44573] logged in with entity id 111803 at (-662.122668734857, 63.0, 407.05986868096267)
+[04May2025 02:17:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[04May2025 02:18:50.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/112347, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[04May2025 02:18:53.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogfgogogo
+[04May2025 02:20:37.312] [Worker-Main-73/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04May2025 02:21:34.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[04May2025 02:21:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04May2025 02:24:45.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sdaadas
