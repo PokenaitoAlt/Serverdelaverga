@@ -9033,5 +9033,11 @@
     },
     "done": true
   },
+  "gobber2:gobber2_medallion_hero": {
+    "criteria": {
+      "gobber2_medallion_hero": "2025-05-04 01:42:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

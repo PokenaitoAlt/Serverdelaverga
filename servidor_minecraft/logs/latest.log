@@ -232,3 +232,5 @@
 [04May2025 01:25:47.663] [IO-Worker-132/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.3.mca has an invalid sector at index: 1014; sector 1021 is out of bounds
 [04May2025 01:25:52.599] [IO-Worker-128/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [-65, 126] stream is truncated: expected 6235 but read 4091
 [04May2025 01:32:05.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Take Aim]
+[04May2025 01:39:22.124] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04May2025 01:42:53.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Get the Best Deals]
