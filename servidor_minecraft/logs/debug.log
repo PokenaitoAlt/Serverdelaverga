@@ -16654,3 +16654,32 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06May2025 02:47:55.655] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@210a06f4 into net.minecraft.network.Connection@21178d5b
 [06May2025 02:47:55.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [06May2025 02:48:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> goog
+[06May2025 02:49:01.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/44940, l='ServerLevel[world]', x=-1220.94, y=69.00, z=198.49] died, message: 'Gunsmith was slain by Zombie'
+[06May2025 02:49:12.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> moab
+[06May2025 02:49:21.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44756, l='ServerLevel[world]', x=-1208.89, y=64.00, z=183.30] died, message: 'Villager was slain by Zombie'
+[06May2025 02:49:29.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/44757, l='ServerLevel[world]', x=-1207.33, y=63.94, z=185.47] died, message: 'Nitwit was slain by Zombie'
+[06May2025 02:49:42.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44755, l='ServerLevel[world]', x=-1210.49, y=64.17, z=185.44] died, message: 'Villager was slain by Zombie'
+[06May2025 02:49:50.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44760, l='ServerLevel[world]', x=-1211.70, y=64.00, z=183.47] died, message: 'Villager was slain by Zombie'
+[06May2025 02:50:10.073] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44758, l='ServerLevel[world]', x=-1210.70, y=63.00, z=189.70] died, message: 'Villager was slain by Zombie'
+[06May2025 02:50:38.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/44804, l='ServerLevel[world]', x=-1284.69, y=63.54, z=193.68] died, message: 'Fletcher was squashed by a falling anvil'
+[06May2025 02:50:46.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/44795, l='ServerLevel[world]', x=-1284.38, y=60.00, z=196.75] died, message: 'Mason was squashed by a falling anvil'
+[06May2025 02:50:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [War Pigs]
+[06May2025 02:51:40.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 02:51:40.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 02:53:50.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50637, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[06May2025 02:54:31.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44784, l='ServerLevel[world]', x=-1262.30, y=63.29, z=217.30] died, message: 'Villager was slain by Zombie'
+[06May2025 02:54:35.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=73, z=1335} BlockPos{x=-92, y=75, z=1332}
+[06May2025 02:54:35.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=73, z=1335} BlockPos{x=-92, y=75, z=1332}
+[06May2025 02:54:35.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=73, z=1335} BlockPos{x=-92, y=75, z=1332}
+[06May2025 02:54:36.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=73, z=1335} BlockPos{x=-92, y=75, z=1332}
+[06May2025 02:54:36.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=73, z=1335} BlockPos{x=-92, y=75, z=1332}
+[06May2025 02:54:36.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=73, z=1335} BlockPos{x=-92, y=75, z=1332}
+[06May2025 02:54:50.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51206, l='ServerLevel[world]', x=-737.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[06May2025 02:55:21.588] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 39
+[06May2025 02:55:21.588] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@522fdedc=InventoryMapping{i=net.minecraft.world.CompoundContainer@522fdedc, c=net.minecraft.world.inventory.ChestMenu@733f7c21, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@733f7c21, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@733f7c21, b=54, e=80}}
+[06May2025 02:55:21.588] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@522fdedc, c=net.minecraft.world.inventory.ChestMenu@733f7c21, b=0, e=53}
+[06May2025 02:55:26.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44935, l='ServerLevel[world]', x=-1225.30, y=67.00, z=144.70] died, message: 'Villager was slain by Zombie'
+[06May2025 02:55:35.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44855, l='ServerLevel[world]', x=-1233.30, y=67.00, z=157.30] died, message: 'Villager was slain by Zombie'
+[06May2025 02:55:45.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/44856, l='ServerLevel[world]', x=-1233.70, y=67.00, z=157.30] died, message: 'Armorer was slain by Zombie'
+[06May2025 02:56:40.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 02:56:40.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
