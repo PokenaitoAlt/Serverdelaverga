@@ -11084,33 +11084,9 @@
     },
     "done": true
   },
-  "scguns:main/diamond_steel": {
-    "criteria": {
-      "diamond_steel_ingot": "2025-05-06 03:03:35 +0000"
-    },
-    "done": true
-  },
   "create:funnel": {
     "criteria": {
       "0": "2025-05-06 02:10:21 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_polar_generator": {
-    "criteria": {
-      "polar_generator": "2025-05-06 02:42:27 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_lightning_battery": {
-    "criteria": {
-      "lightning_battery": "2025-05-06 02:36:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-05-06 02:41:37 +0000"
     },
     "done": true
   },
@@ -11120,21 +11096,51 @@
     },
     "done": true
   },
-  "scguns:main/craft_lightning_rod_connector": {
-    "criteria": {
-      "lightning_rod_connector": "2025-05-06 02:42:45 +0000"
-    },
-    "done": true
-  },
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-05-06 02:15:49 +0000"
     },
     "done": true
   },
+  "scguns:main/craft_lightning_battery": {
+    "criteria": {
+      "lightning_battery": "2025-05-06 02:36:23 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_disc_mold": {
     "criteria": {
       "disc_mold": "2025-05-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-06 02:41:37 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_polar_generator": {
+    "criteria": {
+      "polar_generator": "2025-05-06 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_lightning_rod_connector": {
+    "criteria": {
+      "lightning_rod_connector": "2025-05-06 02:42:45 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel": {
+    "criteria": {
+      "diamond_steel_ingot": "2025-05-06 03:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-06 03:33:46 +0000"
     },
     "done": true
   },
