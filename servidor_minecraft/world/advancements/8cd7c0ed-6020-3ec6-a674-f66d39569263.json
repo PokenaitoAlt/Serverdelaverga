@@ -8095,15 +8095,15 @@
     },
     "done": true
   },
-  "undead_revamp2:daddy": {
-    "criteria": {
-      "daddy_0": "2025-05-04 06:23:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-05-04 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-05-04 06:23:10 +0000"
     },
     "done": true
   },

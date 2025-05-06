@@ -2455,3 +2455,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06May2025 01:46:33.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [06May2025 01:46:48.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.30.177.82:49785] logged in with entity id 17454 at (-757.5850863013665, 64.0, 297.798333650385)
 [06May2025 01:46:48.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[06May2025 01:47:17.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:52073] logged in with entity id 17755 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 01:47:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:47:33.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:54247] logged in with entity id 17816 at (-662.0699290216734, 65.0, 361.07499998807907)
+[06May2025 01:47:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[06May2025 01:47:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Server abierto
+[06May2025 01:47:51.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Como mis nalgas
+[06May2025 01:48:05.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[06May2025 01:48:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:48:14.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XDXD
+[06May2025 01:48:19.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Andamos en el discord
+[06May2025 01:48:20.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> XDDDDDDD
+[06May2025 01:48:29.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Tejo porque andaba en escribienpo
+[06May2025 01:48:37.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[06May2025 01:48:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[06May2025 01:49:14.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18098, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[06May2025 01:49:48.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:37041] logged in with entity id 18444 at (-674.935178793641, 63.0, 428.5443154180805)
+[06May2025 01:49:48.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[06May2025 01:51:41.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19020, l='ServerLevel[world]', x=-765.51, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[06May2025 01:52:35.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59311] logged in with entity id 19370 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 01:52:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:52:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> h
+[06May2025 01:53:36.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[06May2025 01:53:36.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:54:22.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36915] logged in with entity id 19782 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 01:54:22.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:54:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ho
+[06May2025 01:54:44.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asidjasodijaspodajspdsajo
+[06May2025 01:55:02.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 01:55:02.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:55:22.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:41365] logged in with entity id 20030 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 01:55:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:56:03.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 01:56:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:56:19.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57007] logged in with entity id 20249 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 01:56:19.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
