@@ -2339,3 +2339,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06May2025 00:47:13.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:60517] logged in with entity id 152 at (-662.5425343079615, 68.0625, 407.1639211505258)
 [06May2025 00:47:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [06May2025 00:47:17.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
+[06May2025 01:04:51.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.30.177.82:55551] logged in with entity id 4893 at (-760.8709103260934, 64.0, 301.11799788664206)
+[06May2025 01:04:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[06May2025 01:05:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> duerme
+[06May2025 01:05:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> tzzzz
+[06May2025 01:05:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Bro mira mi internet
+[06May2025 01:05:51.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[06May2025 01:05:57.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> mE DIO la maldicion de ebas
+[06May2025 01:06:10.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> como puedo ver tu internet?xd
+[06May2025 01:06:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> XD
+[06May2025 01:06:18.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> En tab
+[06May2025 01:06:25.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> le paso a cada uno de nosotros
