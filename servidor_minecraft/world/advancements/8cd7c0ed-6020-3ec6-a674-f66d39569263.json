@@ -82,11 +82,13 @@
       "minecraft:lush_caves": "2025-04-23 04:31:38 +0000",
       "minecraft:deep_cold_ocean": "2025-04-23 05:11:55 +0000",
       "minecraft:frozen_ocean": "2025-05-04 04:20:35 +0000",
+      "minecraft:desert": "2025-05-04 04:58:02 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-04 04:20:58 +0000",
       "minecraft:ocean": "2025-04-23 04:57:34 +0000",
       "minecraft:jungle": "2025-05-04 01:16:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-04 01:06:53 +0000",
       "minecraft:snowy_beach": "2025-05-04 04:27:30 +0000",
+      "minecraft:warm_ocean": "2025-05-04 04:57:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-04 02:59:12 +0000",
       "minecraft:flower_forest": "2025-04-27 17:51:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:10:13 +0000",
@@ -1668,6 +1670,7 @@
       "minecraft:creeper": "2025-04-20 16:44:58 +0000",
       "minecraft:phantom": "2025-04-26 04:13:54 +0000",
       "minecraft:wither_skeleton": "2025-05-01 23:57:11 +0000",
+      "minecraft:husk": "2025-05-04 04:58:57 +0000",
       "minecraft:cave_spider": "2025-05-04 01:23:50 +0000",
       "minecraft:piglin": "2025-04-30 05:22:40 +0000",
       "minecraft:enderman": "2025-04-26 05:56:53 +0000",
@@ -7739,6 +7742,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-04 05:49:12 +0000",
       "in_better_spider_dungeon": "2025-05-02 05:54:56 +0000"
     },
     "done": false
@@ -8034,6 +8038,72 @@
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-04 03:58:32 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-04 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron/combat_shotgun": {
+    "criteria": {
+      "combat_shotgun": "2025-05-04 05:16:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-04 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-05-04 06:07:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-05-04 06:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-04 06:17:33 +0000"
     },
     "done": true
   },

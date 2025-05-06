@@ -44,6 +44,7 @@
       "minecraft:savanna_plateau": "2025-04-23 01:55:57 +0000",
       "minecraft:beach": "2025-04-16 16:09:15 +0000",
       "minecraft:dark_forest": "2025-04-17 22:19:51 +0000",
+      "minecraft:stony_peaks": "2025-05-04 05:45:51 +0000",
       "minecraft:mangrove_swamp": "2025-05-01 22:31:31 +0000",
       "minecraft:sparse_jungle": "2025-04-17 23:54:32 +0000",
       "minecraft:river": "2025-04-11 03:14:08 +0000",
@@ -65,6 +66,7 @@
       "minecraft:ocean": "2025-04-18 00:04:59 +0000",
       "minecraft:jungle": "2025-04-19 04:19:54 +0000",
       "minecraft:snowy_beach": "2025-05-04 04:27:28 +0000",
+      "minecraft:warm_ocean": "2025-05-04 04:57:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-26 03:43:30 +0000",
       "minecraft:flower_forest": "2025-04-17 04:34:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 02:48:46 +0000",
@@ -427,6 +429,7 @@
       "rabbit": "2025-04-27 20:34:50 +0000",
       "mutton": "2025-04-11 04:21:28 +0000",
       "bread": "2025-04-11 03:47:55 +0000",
+      "golden_apple": "2025-05-04 05:12:15 +0000",
       "rotten_flesh": "2025-04-11 03:42:16 +0000",
       "golden_carrot": "2025-04-27 19:42:17 +0000",
       "cooked_chicken": "2025-04-11 03:08:13 +0000",
@@ -4798,6 +4801,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-04 05:49:13 +0000",
       "in_better_monster_room": "2025-04-17 04:38:21 +0000",
       "in_better_spider_dungeon": "2025-04-23 02:57:42 +0000"
     },
@@ -11001,21 +11005,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-05-04 04:12:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-05-04 04:12:33 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-04 04:12:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-04 04:13:02 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-04 04:59:05 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_clear": {
+    "criteria": {
+      "pharaoh_killed": "2025-05-04 05:14:31 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-04 05:49:13 +0000"
     },
     "done": true
   },
