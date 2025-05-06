@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-19 05:07:58 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-06 03:11:33 +0000",
       "minecraft:mushroom_fields": "2025-04-26 03:50:14 +0000",
       "minecraft:taiga": "2025-04-23 02:15:40 +0000",
       "minecraft:deep_ocean": "2025-04-26 03:40:31 +0000",
@@ -11080,6 +11081,12 @@
   "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
     "criteria": {
       "has_dried_kelp": "2025-05-06 01:43:11 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel": {
+    "criteria": {
+      "diamond_steel_ingot": "2025-05-06 03:03:35 +0000"
     },
     "done": true
   },
