@@ -9515,6 +9515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-06 04:27:23 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_vision": {
     "criteria": {
       "gobber2_ring_vision": "2025-05-06 04:04:35 +0000"
@@ -9524,6 +9530,12 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-06 04:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-06 04:27:23 +0000"
     },
     "done": true
   },

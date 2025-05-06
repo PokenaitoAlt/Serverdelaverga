@@ -2535,3 +2535,5 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06May2025 04:21:58.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> afasdsa
 [06May2025 04:22:06.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no laguees
 [06May2025 04:22:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nonolaguees
+[06May2025 04:26:12.723] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 04:28:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no laguees

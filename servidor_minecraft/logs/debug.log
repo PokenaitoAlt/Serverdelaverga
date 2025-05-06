@@ -10473,3 +10473,15 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06May2025 04:21:58.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> afasdsa
 [06May2025 04:22:06.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no laguees
 [06May2025 04:22:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nonolaguees
+[06May2025 04:23:29.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 04:23:29.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 04:25:56.059] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[06May2025 04:25:56.059] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@717c6134=InventoryMapping{i=net.minecraft.world.CompoundContainer@717c6134, c=net.minecraft.world.inventory.ChestMenu@7bc7f192, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7bc7f192, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7bc7f192, b=54, e=80}}
+[06May2025 04:25:56.059] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@717c6134, c=net.minecraft.world.inventory.ChestMenu@7bc7f192, b=0, e=53}
+[06May2025 04:26:12.723] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 04:28:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no laguees
+[06May2025 04:28:29.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 04:28:29.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 04:30:50.119] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 77
+[06May2025 04:30:50.120] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@201164b7, b=81, e=89}, net.minecraft.world.CompoundContainer@54d34d3a=InventoryMapping{i=net.minecraft.world.CompoundContainer@54d34d3a, c=net.minecraft.world.inventory.ChestMenu@201164b7, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@201164b7, b=54, e=80}}
+[06May2025 04:30:50.120] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@201164b7, b=54, e=80}
