@@ -11138,9 +11138,27 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot_nether": {
+    "criteria": {
+      "gobber2_ingot_nether": "2025-05-06 03:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-05-06 03:33:46 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_nether": {
+    "criteria": {
+      "gobber2_ring_nether": "2025-05-06 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/lockewood": {
+    "criteria": {
+      "lockewood": "2025-05-06 04:00:14 +0000"
     },
     "done": true
   },

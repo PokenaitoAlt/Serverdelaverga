@@ -2399,3 +2399,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06May2025 03:49:12.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Stronger Material]
 [06May2025 03:50:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was shot by Lechina using [Aranceles]
 [06May2025 03:51:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Basis of Nether Power]
+[06May2025 03:55:06.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['I'll find you'/647, l='ServerLevel[world]', x=-803.50, y=64.00, z=358.50] died: I'll find you was slain by Pokenaito using [La Penetradora]
+[06May2025 03:55:23.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['I'll find you'/658, l='ServerLevel[world]', x=-821.50, y=63.00, z=335.50] died: I'll find you was slain by Pokenaito using [La Penetradora]
+[06May2025 03:55:43.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['You can't hide for too long'/735, l='ServerLevel[world]', x=-833.50, y=63.00, z=295.50] died: You can't hide for too long was slain by Pokenaito
+[06May2025 03:55:45.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['You can't hide for too long'/734, l='ServerLevel[world]', x=-833.50, y=63.00, z=292.50] died: You can't hide for too long was slain by Pokenaito
+[06May2025 03:56:10.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CoppertarEntity['I'll find you'/657, l='ServerLevel[world]', x=-822.50, y=63.00, z=335.50] died: I'll find you was slain by Pokenaito
+[06May2025 03:57:28.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16392, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[06May2025 03:58:47.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16644, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[06May2025 03:59:23.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16911, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[06May2025 04:02:44.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gggg
+[06May2025 04:02:54.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 04:02:54.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 04:03:23.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44291] logged in with entity id 18388 at (-765.3931816515945, 63.0, 348.34794284062775)
+[06May2025 04:03:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 04:04:10.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[06May2025 04:04:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 04:04:28.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33009] logged in with entity id 18705 at (-765.3931816515945, 63.0, 348.34794284062775)
+[06May2025 04:04:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 04:04:35.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Darkness Begone!]
+[06May2025 04:04:38.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> f
+[06May2025 04:04:40.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> assad
+[06May2025 04:05:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> jjjjjjjjjjjjjj
+[06May2025 04:05:13.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 04:05:13.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 04:05:39.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:48315] logged in with entity id 19244 at (-764.7619807519543, 63.0, 336.9192446599624)
+[06May2025 04:05:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 04:07:02.294] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157568_(PersistentEntitySectionManager.java:653) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157583_(PersistentEntitySectionManager.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:274) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:306) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.removeIf(AbstractLongCollection.java:159) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157577_(PersistentEntitySectionManager.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157506_(PersistentEntitySectionManager.java:270) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23197!/:0.4.1-1.20.1]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	... 21 more
+[06May2025 04:07:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was shot by Rempalago181 using [ZZZ]
+[06May2025 04:11:02.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> diablo loco

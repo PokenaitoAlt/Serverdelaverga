@@ -2142,6 +2142,7 @@
       "brown_mushroom": "2025-05-01 19:56:10 +0000",
       "potato": "2025-04-19 05:55:21 +0000",
       "red_mushroom": "2025-04-20 18:25:56 +0000",
+      "nether_wart": "2025-05-06 03:58:33 +0000",
       "wheat": "2025-04-18 04:42:22 +0000",
       "carrot": "2025-04-19 05:59:01 +0000"
     },
@@ -9508,9 +9509,27 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_vision": {
+    "criteria": {
+      "gobber2_ring_vision": "2025-05-06 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-06 04:03:51 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-06 03:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-06 03:58:27 +0000"
     },
     "done": true
   },
