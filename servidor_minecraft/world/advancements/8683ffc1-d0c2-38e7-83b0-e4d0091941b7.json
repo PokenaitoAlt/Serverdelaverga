@@ -11138,6 +11138,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-06 05:01:44 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot_nether": {
     "criteria": {
       "gobber2_ingot_nether": "2025-05-06 03:49:12 +0000"
@@ -11150,9 +11156,39 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel/plasgun": {
+    "criteria": {
+      "plasgun": "2025-05-06 04:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-05-06 04:59:06 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_nether": {
     "criteria": {
       "gobber2_ring_nether": "2025-05-06 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 04:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-05-06 04:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-05-06 04:59:06 +0000"
     },
     "done": true
   },
