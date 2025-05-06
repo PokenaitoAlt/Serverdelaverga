@@ -2905,3 +2905,18 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23197!/:0.4.1-1.20.1]
 	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
 	... 19 more
+[06May2025 02:37:45.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a5d3673[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:38075) lost connection: Disconnected
+[06May2025 02:38:07.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:44723] logged in with entity id 40495 at (-1243.006904245682, 108.57791859343929, 173.04494906649487)
+[06May2025 02:38:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[06May2025 02:41:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> h
+[06May2025 02:43:13.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[06May2025 02:43:13.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[06May2025 02:44:28.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f798c9c[id=<null>,name=Lechina,properties={},legacy=false] (/127.106.87.114:53667) lost connection: Disconnected
+[06May2025 02:44:33.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.106.87.114:34637] logged in with entity id 44753 at (-1250.7446344317634, 63.9375, 206.86451558106523)
+[06May2025 02:44:33.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[06May2025 02:47:11.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> h
+[06May2025 02:47:14.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:47:14.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:47:55.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38753] logged in with entity id 47354 at (-766.2187984784321, 63.5625, 342.85248678036163)
+[06May2025 02:47:55.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:48:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> goog

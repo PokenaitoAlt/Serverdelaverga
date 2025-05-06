@@ -9584,5 +9584,17 @@
     },
     "done": true
   },
+  "scguns:main/craft_disc_mold": {
+    "criteria": {
+      "disc_mold": "2025-05-06 02:42:19 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_blank_mold": {
+    "criteria": {
+      "blank_mold": "2025-05-06 02:42:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
