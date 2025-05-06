@@ -9508,5 +9508,11 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-06 03:46:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
