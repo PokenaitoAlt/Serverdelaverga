@@ -9509,6 +9509,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_haste": {
+    "criteria": {
+      "gobber2_ring_haste": "2025-05-06 04:18:16 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_vision": {
     "criteria": {
       "gobber2_ring_vision": "2025-05-06 04:04:35 +0000"
