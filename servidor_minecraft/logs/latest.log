@@ -2521,3 +2521,387 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06May2025 02:03:34.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> golden win
 [06May2025 02:03:46.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [06May2025 02:03:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:09:02.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27358, l='ServerLevel[world]', x=-738.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[06May2025 02:11:09.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44323] logged in with entity id 28087 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:11:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:11:28.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[06May2025 02:11:39.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:11:39.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:13:58.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29089, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[06May2025 02:16:18.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43447] logged in with entity id 29682 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:16:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:17:18.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:17:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:17:42.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46813] logged in with entity id 30152 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:17:42.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:17:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mamelungas
+[06May2025 02:18:13.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:18:13.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:18:56.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:47939] logged in with entity id 30560 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:18:56.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:19:16.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[06May2025 02:20:01.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[06May2025 02:21:51.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> al
+[06May2025 02:22:08.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:22:08.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:23:47.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:55711] logged in with entity id 32112 at (-748.1027964428694, 63.0, 332.97989752347206)
+[06May2025 02:23:47.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:24:32.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:24:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:24:49.295] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 02:25:04.466] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 02:25:20.199] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 02:25:23.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[06May2025 02:25:23.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[06May2025 02:25:23.815] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f7a4dff9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[06May2025 02:25:25.012] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 13; sector 931 is out of bounds
+[06May2025 02:25:25.012] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 14; sector 981 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 15; sector 1014 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 16; sector 1031 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 17; sector 1076 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 18; sector 1099 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 19; sector 1136 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 44; sector 905 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 46; sector 965 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 47; sector 1023 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 48; sector 1055 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 49; sector 1052 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 50; sector 1126 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 51; sector 1139 is out of bounds
+[06May2025 02:25:25.013] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 77; sector 932 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 78; sector 914 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 79; sector 1012 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 80; sector 1038 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 81; sector 1027 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 82; sector 1105 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 83; sector 1144 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 110; sector 974 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 111; sector 1007 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 112; sector 1056 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 113; sector 1051 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 114; sector 1124 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 115; sector 1147 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 141; sector 930 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 142; sector 913 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 143; sector 1015 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 144; sector 1032 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 145; sector 1075 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 146; sector 1091 is out of bounds
+[06May2025 02:25:25.014] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 147; sector 1150 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 174; sector 968 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 175; sector 1019 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 176; sector 1030 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 177; sector 1045 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 178; sector 1115 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 179; sector 1004 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 205; sector 934 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 206; sector 967 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 207; sector 963 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 208; sector 1047 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 209; sector 1026 is out of bounds
+[06May2025 02:25:25.015] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 210; sector 1113 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 211; sector 1155 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 236; sector 904 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 238; sector 980 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 239; sector 1008 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 240; sector 1040 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 241; sector 1084 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 242; sector 1104 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 243; sector 1066 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 270; sector 975 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 271; sector 962 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 272; sector 1054 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 273; sector 1074 is out of bounds
+[06May2025 02:25:25.016] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 274; sector 1128 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 275; sector 1167 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 302; sector 915 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 303; sector 1022 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 304; sector 1039 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 305; sector 1083 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 306; sector 1120 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 307; sector 1153 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 333; sector 928 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 334; sector 972 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 335; sector 1001 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 337; sector 1024 is out of bounds
+[06May2025 02:25:25.017] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 338; sector 1112 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 339; sector 955 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 364; sector 900 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 365; sector 944 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 366; sector 982 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 367; sector 1006 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 368; sector 1046 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 369; sector 1081 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 370; sector 1093 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 371; sector 909 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 397; sector 933 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 398; sector 983 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 399; sector 1020 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 400; sector 1033 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 401; sector 1077 is out of bounds
+[06May2025 02:25:25.018] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 402; sector 1109 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 403; sector 1200 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 428; sector 903 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 430; sector 966 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 431; sector 1025 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 432; sector 1049 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 433; sector 1070 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 434; sector 1123 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 435; sector 1215 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 441; sector 906 is out of bounds
+[06May2025 02:25:25.020] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 461; sector 927 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 462; sector 916 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 463; sector 1013 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 464; sector 1037 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 465; sector 1087 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 467; sector 1177 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 473; sector 947 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 494; sector 976 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 495; sector 961 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 496; sector 1048 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 497; sector 1071 is out of bounds
+[06May2025 02:25:25.021] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 498; sector 1103 is out of bounds
+[06May2025 02:25:25.022] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 499; sector 1224 is out of bounds
+[06May2025 02:25:25.022] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 525; sector 929 is out of bounds
+[06May2025 02:25:25.022] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 526; sector 912 is out of bounds
+[06May2025 02:25:25.022] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 527; sector 1016 is out of bounds
+[06May2025 02:25:25.022] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 528; sector 959 is out of bounds
+[06May2025 02:25:25.022] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 529; sector 1078 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 531; sector 1197 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 556; sector 1021 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 557; sector 901 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 559; sector 920 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 563; sector 1174 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 570; sector 1057 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 586; sector 1002 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 587; sector 1035 is out of bounds
+[06May2025 02:25:25.023] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 588; sector 942 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 590; sector 936 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 593; sector 1029 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 594; sector 1240 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 595; sector 1237 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 606; sector 996 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 618; sector 969 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 619; sector 1044 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 623; sector 897 is out of bounds
+[06May2025 02:25:25.024] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 625; sector 1034 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 626; sector 1160 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 627; sector 1188 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 638; sector 957 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 651; sector 1053 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 652; sector 971 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 655; sector 941 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 656; sector 1050 is out of bounds
+[06May2025 02:25:25.025] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 658; sector 1195 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 659; sector 1245 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 663; sector 921 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 681; sector 1009 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 682; sector 1118 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 683; sector 1085 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 684; sector 917 is out of bounds
+[06May2025 02:25:25.026] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 687; sector 1073 is out of bounds
+[06May2025 02:25:25.027] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 689; sector 1036 is out of bounds
+[06May2025 02:25:25.027] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 690; sector 1129 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 691; sector 1249 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 697; sector 1060 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 712; sector 973 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 716; sector 1121 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 717; sector 964 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 718; sector 1028 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 721; sector 1041 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 722; sector 1256 is out of bounds
+[06May2025 02:25:25.028] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 723; sector 1253 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 724; sector 1258 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 729; sector 950 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 734; sector 945 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 745; sector 939 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 746; sector 1122 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 748; sector 979 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 749; sector 899 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 750; sector 1003 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 751; sector 1082 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 753; sector 1010 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 754; sector 1261 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 755; sector 1095 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 756; sector 1268 is out of bounds
+[06May2025 02:25:25.029] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 757; sector 1264 is out of bounds
+[06May2025 02:25:25.030] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 777; sector 977 is out of bounds
+[06May2025 02:25:25.030] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 780; sector 1079 is out of bounds
+[06May2025 02:25:25.031] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 781; sector 1133 is out of bounds
+[06May2025 02:25:25.031] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 783; sector 1132 is out of bounds
+[06May2025 02:25:25.031] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 786; sector 938 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 787; sector 1272 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 788; sector 1275 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 789; sector 1277 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 794; sector 924 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 807; sector 898 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 809; sector 1069 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 810; sector 1111 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 811; sector 1119 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 812; sector 1162 is out of bounds
+[06May2025 02:25:25.032] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 813; sector 1288 is out of bounds
+[06May2025 02:25:25.033] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 814; sector 1011 is out of bounds
+[06May2025 02:25:25.033] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 815; sector 935 is out of bounds
+[06May2025 02:25:25.033] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 819; sector 1280 is out of bounds
+[06May2025 02:25:25.033] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 820; sector 1285 is out of bounds
+[06May2025 02:25:25.033] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 821; sector 1282 is out of bounds
+[06May2025 02:25:25.033] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 822; sector 1203 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 840; sector 1294 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 842; sector 1295 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 843; sector 998 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 847; sector 978 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 849; sector 1107 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 850; sector 1296 is out of bounds
+[06May2025 02:25:25.034] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 851; sector 1289 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 852; sector 1291 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 854; sector 1221 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 872; sector 1301 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 873; sector 1297 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 874; sector 1302 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 875; sector 1018 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 879; sector 1088 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 880; sector 1072 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 883; sector 1303 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 884; sector 1298 is out of bounds
+[06May2025 02:25:25.035] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 885; sector 1206 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 886; sector 1184 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 887; sector 1142 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 894; sector 953 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 895; sector 1180 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 904; sector 1080 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 905; sector 952 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 907; sector 1108 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 908; sector 1307 is out of bounds
+[06May2025 02:25:25.036] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 913; sector 1305 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 914; sector 1313 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 915; sector 1311 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 916; sector 1308 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 919; sector 1235 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 927; sector 918 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 936; sector 1315 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 938; sector 1316 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 939; sector 1017 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 941; sector 1043 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 944; sector 970 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 945; sector 1320 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 946; sector 1317 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 947; sector 1322 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 948; sector 1325 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 949; sector 1232 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 950; sector 1186 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 951; sector 987 is out of bounds
+[06May2025 02:25:25.037] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 952; sector 1062 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 953; sector 1158 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 954; sector 1182 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 955; sector 1219 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 965; sector 1042 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 968; sector 1117 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 969; sector 1329 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 970; sector 1330 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 972; sector 986 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 974; sector 940 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 977; sector 1327 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 978; sector 1331 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 980; sector 1242 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 981; sector 1209 is out of bounds
+[06May2025 02:25:25.038] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 982; sector 1064 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 983; sector 1170 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 984; sector 1191 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 987; sector 1229 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 988; sector 1101 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 990; sector 1165 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 991; sector 999 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 997; sector 937 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1000; sector 1337 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1001; sector 960 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1002; sector 1131 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1003; sector 1098 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1004; sector 1086 is out of bounds
+[06May2025 02:25:25.039] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1005; sector 902 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1009; sector 1338 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1010; sector 1334 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1011; sector 1212 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1012; sector 1134 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1015; sector 1172 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1016; sector 1193 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1017; sector 1163 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1018; sector 994 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1019; sector 1089 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1020; sector 1227 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1021; sector 984 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1022; sector 989 is out of bounds
+[06May2025 02:25:25.040] [IO-Worker-76/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/region/r.-3.4.mca has an invalid sector at index: 1023; sector 991 is out of bounds
+[06May2025 02:25:27.615] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f7a4dff9: RandomSpreadSearchWorker succeeded with 3517 radius, 89 samples
+[06May2025 02:26:47.183] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f7a4dff9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[06May2025 02:26:52.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06May2025 02:26:55.227] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[06May2025 02:26:55.233] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[06May2025 02:26:55.233] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[06May2025 02:26:55.233] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[06May2025 02:26:55.325] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f7a4dff9: RandomSpreadSearchWorker succeeded with 5944 radius, 185 samples
+[06May2025 02:32:33.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44463] logged in with entity id 38057 at (-748.1027964428694, 63.0, 332.97989752347206)
+[06May2025 02:32:33.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:32:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Broly culo
+[06May2025 02:33:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[06May2025 02:34:15.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hola
+[06May2025 02:34:23.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pig['I'll find you'/27519, l='ServerLevel[world]', x=-840.10, y=63.00, z=294.74] died: I'll find you was slain by The Moonflower
+[06May2025 02:35:18.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:35:18.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:35:57.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:56783] logged in with entity id 39163 at (-766.0342972903021, 63.0, 345.11554025398567)
+[06May2025 02:35:57.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:36:14.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> niggers
+[06May2025 02:36:34.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nigger
+[06May2025 02:36:40.458] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23197!/:0.4.1-1.20.1]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	... 19 more
+[06May2025 02:36:40.494] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23197!/:0.4.1-1.20.1]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	... 19 more

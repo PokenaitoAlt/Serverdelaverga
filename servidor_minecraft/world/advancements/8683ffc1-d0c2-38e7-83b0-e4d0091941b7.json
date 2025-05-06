@@ -11083,5 +11083,29 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-06 02:10:21 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_lightning_battery": {
+    "criteria": {
+      "lightning_battery": "2025-05-06 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-05-06 02:14:49 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-05-06 02:15:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
