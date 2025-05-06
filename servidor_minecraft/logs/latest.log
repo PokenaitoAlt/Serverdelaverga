@@ -2490,3 +2490,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06May2025 01:56:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [06May2025 01:56:19.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:57007] logged in with entity id 20249 at (-760.7170143357785, 63.0, 320.28257212863804)
 [06May2025 01:56:19.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:57:05.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 01:57:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:57:33.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[06May2025 01:57:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> jojo?
+[06May2025 01:58:01.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> oah
+[06May2025 01:58:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ni hao
+[06May2025 01:58:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> no se porque no quieren darte la oportunidad
+[06May2025 01:58:53.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> haces que me motives
+[06May2025 01:58:59.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50995] logged in with entity id 21568 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 01:58:59.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:59:34.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> jojo no kimyo na bouken
+[06May2025 01:59:44.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 01:59:44.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:59:47.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> all star battle
+[06May2025 01:59:51.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> r
+[06May2025 02:00:15.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53189] logged in with entity id 22198 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:00:15.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:00:45.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:00:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:01:41.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46237] logged in with entity id 22859 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:01:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:02:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+[06May2025 02:02:41.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:02:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 02:03:00.217] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 02:03:15.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:50353] logged in with entity id 23996 at (-760.7170143357785, 63.0, 320.28257212863804)
+[06May2025 02:03:15.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 02:03:31.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[06May2025 02:03:34.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> golden win
+[06May2025 02:03:46.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[06May2025 02:03:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
