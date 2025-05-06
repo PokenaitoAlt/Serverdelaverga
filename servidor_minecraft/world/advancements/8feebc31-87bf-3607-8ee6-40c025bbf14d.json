@@ -9518,21 +9518,15 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
-      "has_item": "2025-05-04 05:51:23 +0000"
+      "has_spider_eye": "2025-05-04 05:47:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
-      "has_polished_andesite": "2025-05-04 06:01:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-05-04 06:15:10 +0000"
+      "has_acacia_trapdoor": "2025-05-04 05:49:06 +0000"
     },
     "done": true
   },
@@ -9542,9 +9536,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+  "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
-      "has_polished_andesite": "2025-05-04 06:01:12 +0000"
+      "has_item": "2025-05-04 05:51:23 +0000"
     },
     "done": true
   },
@@ -9560,9 +9554,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_spider_eye": "2025-05-04 05:47:13 +0000"
+      "has_polished_andesite": "2025-05-04 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-04 06:01:12 +0000"
     },
     "done": true
   },
@@ -9572,15 +9572,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_acacia_trapdoor": "2025-05-04 05:49:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-04 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-05-04 06:15:10 +0000"
     },
     "done": true
   },

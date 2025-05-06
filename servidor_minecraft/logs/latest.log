@@ -2350,3 +2350,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06May2025 01:06:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> XD
 [06May2025 01:06:18.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> En tab
 [06May2025 01:06:25.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> le paso a cada uno de nosotros
+[06May2025 01:06:33.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ya vi
+[06May2025 01:06:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> diavlo
+[06May2025 01:14:07.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44657] logged in with entity id 7448 at (-765.7610752521148, 63.0, 336.952335826586)
+[06May2025 01:14:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:14:27.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> culo
+[06May2025 01:14:37.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[06May2025 01:14:37.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[06May2025 01:14:37.342] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06May2025 01:15:36.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hey What up
+[06May2025 01:15:51.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53097] logged in with entity id 8054 at (-765.7610752521148, 63.0, 336.952335826586)
+[06May2025 01:15:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[06May2025 01:16:23.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> wewewee
+[06May2025 01:16:26.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[06May2025 01:16:26.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[06May2025 01:16:30.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Ahora
