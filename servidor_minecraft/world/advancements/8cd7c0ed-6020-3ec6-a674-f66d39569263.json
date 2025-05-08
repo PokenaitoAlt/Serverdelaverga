@@ -8468,5 +8468,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-08 22:55:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
