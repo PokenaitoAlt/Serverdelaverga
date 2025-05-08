@@ -5700,6 +5700,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-08 22:34:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-05-08 22:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-08 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-08 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-08 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-08 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-08 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-08 22:50:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-08 22:52:25 +0000"
@@ -5709,18 +5757,6 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-08 22:52:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-08 22:52:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-05-08 22:52:56 +0000"
     },
     "done": true
   },
@@ -5742,12 +5778,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-05-08 22:34:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-08 22:52:25 +0000"
@@ -5760,33 +5790,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-08 22:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-08 22:52:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_paper": "2025-05-08 22:50:39 +0000"
+      "has_book": "2025-05-08 22:52:56 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mysterious_cuckoo_clock": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_item": "2025-05-08 22:48:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-05-08 22:50:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-05-08 22:50:39 +0000"
+      "has_book": "2025-05-08 22:52:56 +0000"
     },
     "done": true
   },
@@ -5796,27 +5820,33 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/sand_paper": {
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
     "criteria": {
-      "has_item": "2025-05-08 22:50:39 +0000"
+      "has_oak_leaves": "2025-05-08 23:03:48 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
-      "has_item": "2025-05-08 22:50:39 +0000"
+      "has_item": "2025-05-08 23:12:08 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
     "criteria": {
-      "has_leather": "2025-05-08 22:52:25 +0000"
+      "has_item": "2025-05-08 23:12:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "create:recipes/building_blocks/framed_glass_pane": {
     "criteria": {
-      "has_paper": "2025-05-08 22:50:39 +0000"
+      "has_ingredient": "2025-05-08 23:12:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-08 23:12:08 +0000"
     },
     "done": true
   },

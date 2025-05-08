@@ -2475,3 +2475,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 22:59:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gracia mi bro
 [08May2025 22:59:57.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ggogogo
 [08May2025 22:59:58.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> de nada
+[08May2025 23:01:23.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[08May2025 23:01:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[08May2025 23:01:42.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[08May2025 23:01:58.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:48245] logged in with entity id 21427 at (-662.0724641134859, 73.0, 395.19217695212984)
+[08May2025 23:01:58.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[08May2025 23:02:34.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> menealo
+[08May2025 23:02:57.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21630, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[08May2025 23:03:18.846] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21631, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[08May2025 23:05:21.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22500, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[08May2025 23:08:58.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> JOJO
+[08May2025 23:09:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> HABLA
+[08May2025 23:14:23.074] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[08May2025 23:14:23.074] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@28e2975c[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.112.79.203:40115): Unexpected custom data from client
+[08May2025 23:14:23.114] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28e2975c[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.112.79.203:40115) lost connection: Unexpected custom data from client
+[08May2025 23:14:27.010] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[08May2025 23:14:27.011] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@16554636[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.112.79.203:35163): Unexpected custom data from client
+[08May2025 23:14:27.014] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16554636[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.112.79.203:35163) lost connection: Unexpected custom data from client
+[08May2025 23:14:30.060] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[08May2025 23:14:30.060] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4704ce4c[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.112.79.203:49543): Unexpected custom data from client
+[08May2025 23:14:30.064] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4704ce4c[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.112.79.203:49543) lost connection: Unexpected custom data from client
+[08May2025 23:15:19.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[08May2025 23:15:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[08May2025 23:15:20.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> JOOOOOOOOOOOOOOOOO
+[08May2025 23:15:23.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.61.112.4:46415] logged in with entity id 25702 at (-571.336847228822, 64.0, 400.2520150542227)
+[08May2025 23:15:23.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[08May2025 23:15:24.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> JOJOOOOOOOOOOOOOO
+[08May2025 23:17:38.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[08May2025 23:17:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[08May2025 23:18:32.364] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f4c3ced[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:54589) lost connection: Disconnected
+[08May2025 23:18:42.664] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4abdfbc4[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:42827) lost connection: Disconnected
+[08May2025 23:19:14.716] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@770758f4[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:52369) lost connection: Disconnected
+[08May2025 23:20:20.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:35051] logged in with entity id 26729 at (-578.9754569232189, 63.0, 412.23088001590895)
+[08May2025 23:20:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[08May2025 23:20:34.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26924, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.93] died, message: 'Villager was killed'
