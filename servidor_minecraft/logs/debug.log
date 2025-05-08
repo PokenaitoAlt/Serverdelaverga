@@ -14502,3 +14502,11 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [08May2025 04:50:24.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67082, l='ServerLevel[world]', x=-737.08, y=-256.00, z=297.58] died, message: 'Villager was killed'
 [08May2025 04:51:51.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 04:51:51.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 04:56:51.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 04:56:51.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 04:58:34.763] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[08May2025 04:58:34.763] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6e0241ca, b=81, e=89}, net.minecraft.world.CompoundContainer@3c88955f=InventoryMapping{i=net.minecraft.world.CompoundContainer@3c88955f, c=net.minecraft.world.inventory.ChestMenu@6e0241ca, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6e0241ca, b=54, e=80}}
+[08May2025 04:58:34.763] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3c88955f, c=net.minecraft.world.inventory.ChestMenu@6e0241ca, b=0, e=53}
+[08May2025 05:01:51.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 05:01:51.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 05:02:02.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69512, l='ServerLevel[world]', x=-737.50, y=61.56, z=297.50] died, message: 'Villager was killed'
