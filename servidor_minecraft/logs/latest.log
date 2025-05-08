@@ -2363,3 +2363,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 01:10:13.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [08May2025 01:16:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Miphril]
 [08May2025 01:17:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que bueno
+[08May2025 01:20:08.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36285] logged in with entity id 29571 at (-663.4863221825718, 65.0, 355.56535281945133)
+[08May2025 01:20:08.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 01:20:25.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coñete
+[08May2025 01:21:01.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 01:21:01.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 01:21:44.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49887] logged in with entity id 30332 at (-663.4863221825718, 64.0, 355.56535281945133)
+[08May2025 01:21:44.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 01:22:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> qsadasdasdsa
+[08May2025 01:22:48.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 01:22:48.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 01:23:05.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[08May2025 01:23:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[08May2025 01:24:22.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33115] logged in with entity id 31079 at (-663.4863221825718, 64.0, 355.56535281945133)
+[08May2025 01:24:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 01:25:01.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 01:25:01.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 01:26:24.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:44479] logged in with entity id 32517 at (-660.9653718783793, 63.0, 403.42757659891316)
+[08May2025 01:26:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[08May2025 01:28:33.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33969, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[08May2025 01:29:00.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:36853] logged in with entity id 34067 at (-663.4863221825718, 64.0, 355.56535281945133)
+[08May2025 01:29:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 01:29:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> i am the storm that is aproaching
+[08May2025 01:29:30.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 01:29:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 01:29:43.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[08May2025 01:29:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
