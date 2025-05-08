@@ -2518,3 +2518,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 23:30:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> la bomba aturdidora
 [08May2025 23:30:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ta bien
 [08May2025 23:30:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> necesitas algo?
+[08May2025 23:31:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> te estoy metiendo la experiencia
+[08May2025 23:31:33.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> conchale mano como asi pues+
+[08May2025 23:32:20.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Jojo que haces?
+[08May2025 23:32:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> decorar
+[08May2025 23:36:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[08May2025 23:44:48.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -10.357034280056041,0.23105103725900733,2.1808258138603946
+[08May2025 23:45:02.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gggggggggggggg
+[08May2025 23:48:05.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 0.0,-10.739343447333596,0.0
+[08May2025 23:48:45.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36244, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'

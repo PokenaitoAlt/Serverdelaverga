@@ -5862,5 +5862,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-08 23:47:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

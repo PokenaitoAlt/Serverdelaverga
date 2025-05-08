@@ -10127,6 +10127,12 @@
     },
     "done": true
   },
+  "brewery:recipes/patterned_carpet": {
+    "criteria": {
+      "has_patterned_wool": "2025-05-08 23:49:56 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-05-08 23:03:13 +0000"
