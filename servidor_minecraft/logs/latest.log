@@ -2590,3 +2590,5 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [08May2025 04:25:47.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=6, z=111} BlockPos{x=-69, y=5, z=112}
 [08May2025 04:26:48.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=2, z=107} BlockPos{x=-62, y=3, z=105}
 [08May2025 04:26:48.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=2, z=106} BlockPos{x=-63, y=2, z=107}
+[08May2025 04:34:29.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Better Than Mending]
+[08May2025 04:41:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Stayin' Frosty]

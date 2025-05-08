@@ -10012,6 +10012,12 @@
     },
     "done": true
   },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-05-08 04:41:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-05-08 04:22:52 +0000"
