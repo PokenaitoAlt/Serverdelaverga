@@ -4508,6 +4508,7 @@
       "potato": "2025-04-20 05:34:02 +0000",
       "nether_wart": "2025-05-06 04:08:08 +0000",
       "wheat": "2025-04-18 19:00:51 +0000",
+      "melon": "2025-05-08 04:24:06 +0000",
       "carrot": "2025-04-20 05:33:39 +0000"
     },
     "done": false
@@ -10064,6 +10065,30 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-05-08 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-05-08 04:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-05-08 04:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-05-08 03:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-05-08 03:56:44 +0000"
     },
     "done": true
   },
