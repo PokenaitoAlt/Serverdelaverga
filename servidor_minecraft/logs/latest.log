@@ -2494,3 +2494,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 01:59:36.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33473] logged in with entity id 54068 at (953.8108650150484, 68.5, 802.3804561312069)
 [08May2025 01:59:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [08May2025 02:00:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hghg
+[08May2025 02:00:36.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 02:00:36.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 02:00:42.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[08May2025 02:00:42.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[08May2025 02:00:57.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54893, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[08May2025 02:01:51.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53573] logged in with entity id 55004 at (953.8108650150484, 68.5, 802.3804561312069)
+[08May2025 02:01:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 02:01:54.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54942, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[08May2025 02:02:12.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55553, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[08May2025 02:02:12.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> h
+[08May2025 02:02:21.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 02:02:21.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 02:02:55.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:32927] logged in with entity id 55866 at (953.8108650150484, 68.5, 802.3804561312069)
+[08May2025 02:02:55.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 02:03:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hoho
+[08May2025 02:03:08.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> feliz navidad
+[08May2025 02:03:09.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56298, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[08May2025 02:03:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bitacora: pude moverme
+[08May2025 02:05:55.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 02:05:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 02:06:20.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:37683] logged in with entity id 57100 at (-69.69999998807907, 5.0, 288.62331296814256)
+[08May2025 02:06:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[08May2025 02:07:02.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59253] logged in with entity id 57520 at (-752.2666302689157, 61.90652184019937, 383.3565706027259)
+[08May2025 02:07:02.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 02:07:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mecagoen
+[08May2025 02:09:32.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 02:09:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
