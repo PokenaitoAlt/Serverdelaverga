@@ -1138,6 +1138,7 @@
       "minecraft:pillager": "2025-04-19 04:40:08 +0000",
       "minecraft:blaze": "2025-05-01 23:34:32 +0000",
       "minecraft:skeleton": "2025-04-18 02:22:06 +0000",
+      "minecraft:ghast": "2025-05-08 01:00:36 +0000",
       "minecraft:hoglin": "2025-04-30 02:42:52 +0000",
       "minecraft:spider": "2025-04-18 16:53:39 +0000",
       "minecraft:piglin_brute": "2025-05-06 02:50:09 +0000",
@@ -9657,6 +9658,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-05-08 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-05-08 01:00:44 +0000"
     },
     "done": true
   },

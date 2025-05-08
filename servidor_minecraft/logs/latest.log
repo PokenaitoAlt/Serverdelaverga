@@ -2351,3 +2351,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 00:47:58.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6800, l='ServerLevel[world]', x=989.70, y=63.62, z=869.30] died, message: 'Villager died whilst trying to escape The Spitter'
 [08May2025 00:49:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> a mIMIR
 [08May2025 00:49:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Por cierto ando en discord
+[08May2025 01:07:18.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:55533] logged in with entity id 22451 at (-663.4863221825718, 65.0, 355.56535281945133)
+[08May2025 01:07:18.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 01:07:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogo
+[08May2025 01:08:02.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 01:08:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game

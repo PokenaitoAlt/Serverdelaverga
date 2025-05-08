@@ -9820,6 +9820,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_bow_nether": {
+    "criteria": {
+      "gobber2_bow_nether": "2025-05-06 05:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-06 05:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-06 05:46:32 +0000"
@@ -9829,18 +9841,6 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-06 05:46:32 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_golden_plush_box": {
-    "criteria": {
-      "first_golden_plush_box_0": "2025-05-06 05:50:22 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_bow_nether": {
-    "criteria": {
-      "gobber2_bow_nether": "2025-05-06 05:30:15 +0000"
     },
     "done": true
   },
@@ -9856,45 +9856,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-05-06 05:50:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-05-06 05:46:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2025-05-06 05:50:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-05-06 05:46:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-05-06 05:50:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-05-06 05:45:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed": {
-    "criteria": {
-      "has_lime_wool": "2025-05-06 05:50:46 +0000"
     },
     "done": true
   },
@@ -9910,21 +9880,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-05-06 05:50:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-05-06 05:46:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_carpet": {
-    "criteria": {
-      "has_lime_wool": "2025-05-06 05:50:46 +0000"
     },
     "done": true
   },
@@ -9943,6 +9901,48 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-05-06 05:46:32 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_golden_plush_box": {
+    "criteria": {
+      "first_golden_plush_box_0": "2025-05-06 05:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-06 05:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-05-06 05:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-06 05:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-05-06 05:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-06 05:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-05-06 05:50:46 +0000"
     },
     "done": true
   },
