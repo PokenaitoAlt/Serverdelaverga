@@ -14490,3 +14490,15 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [08May2025 04:36:51.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 04:36:51.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08May2025 04:41:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Stayin' Frosty]
+[08May2025 04:41:51.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 04:41:51.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 04:42:23.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [A Glorious Feast]
+[08May2025 04:45:55.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66133, l='ServerLevel[world]', x=-739.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[08May2025 04:46:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> @[
+[08May2025 04:46:51.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 04:46:51.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 04:47:20.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 moved wrongly!
+[08May2025 04:49:09.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66910, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[08May2025 04:50:24.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67082, l='ServerLevel[world]', x=-737.08, y=-256.00, z=297.58] died, message: 'Villager was killed'
+[08May2025 04:51:51.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 04:51:51.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
