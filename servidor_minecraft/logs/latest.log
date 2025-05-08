@@ -2343,3 +2343,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 00:30:50.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
 [08May2025 00:36:55.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.211.163.207:40473] logged in with entity id 3899 at (-755.2086503873936, 64.0, 303.4316281167656)
 [08May2025 00:36:55.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[08May2025 00:44:55.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5880, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[08May2025 00:45:56.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6092, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[08May2025 00:46:58.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -0.8464940614701391,1.1905980449809306,-9.982841400113955
+[08May2025 00:47:31.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 10.543648190732483,0.9213127893826396,-1.262295589559642
+[08May2025 00:47:51.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7102, l='ServerLevel[world]', x=-765.54, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[08May2025 00:47:58.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6800, l='ServerLevel[world]', x=989.70, y=63.62, z=869.30] died, message: 'Villager died whilst trying to escape The Spitter'
+[08May2025 00:49:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> a mIMIR
+[08May2025 00:49:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Por cierto ando en discord
