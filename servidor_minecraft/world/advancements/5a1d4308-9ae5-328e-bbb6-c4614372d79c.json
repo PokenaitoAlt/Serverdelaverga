@@ -9631,15 +9631,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-08 00:46:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-05-08 00:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-08 00:45:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-08 00:46:14 +0000"
     },
     "done": true
   },
@@ -9667,9 +9673,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
-      "has_iron_block": "2025-05-08 00:45:24 +0000"
+      "has_upgrade_base": "2025-05-08 01:45:34 +0000"
     },
     "done": true
   },
