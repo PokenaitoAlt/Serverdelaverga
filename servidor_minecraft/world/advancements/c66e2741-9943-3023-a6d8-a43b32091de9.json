@@ -5850,5 +5850,17 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-05-08 23:24:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-05-08 23:17:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2509,3 +2509,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 23:20:20.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:35051] logged in with entity id 26729 at (-578.9754569232189, 63.0, 412.23088001590895)
 [08May2025 23:20:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
 [08May2025 23:20:34.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26924, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.93] died, message: 'Villager was killed'
+[08May2025 23:21:06.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 8.428488565566454,-0.1964373997644202,5.7107394649762
+[08May2025 23:21:13.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26955, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[08May2025 23:24:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[08May2025 23:30:11.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ya
+[08May2025 23:30:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> ya que we
+[08May2025 23:30:26.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> deja sordo a uno
+[08May2025 23:30:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> la bomba aturdidora
+[08May2025 23:30:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ta bien
+[08May2025 23:30:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> necesitas algo?
