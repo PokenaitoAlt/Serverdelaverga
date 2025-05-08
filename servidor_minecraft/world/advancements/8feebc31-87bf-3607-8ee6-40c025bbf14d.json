@@ -10055,5 +10055,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-05-08 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-05-08 03:45:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
