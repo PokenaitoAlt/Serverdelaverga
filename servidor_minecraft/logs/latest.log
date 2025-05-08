@@ -2356,3 +2356,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 01:07:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogo
 [08May2025 01:08:02.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [08May2025 01:08:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 01:09:23.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43763] logged in with entity id 24177 at (-663.4863221825718, 65.0, 355.56535281945133)
+[08May2025 01:09:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[08May2025 01:09:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> tg
+[08May2025 01:10:13.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[08May2025 01:10:13.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[08May2025 01:16:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Miphril]
+[08May2025 01:17:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> que bueno
