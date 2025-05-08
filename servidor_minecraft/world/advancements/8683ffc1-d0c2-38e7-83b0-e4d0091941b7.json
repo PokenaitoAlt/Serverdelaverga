@@ -11138,9 +11138,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_dandelion": "2025-05-06 05:01:44 +0000"
+      "has_clay_block": "2025-05-06 03:33:46 +0000"
     },
     "done": true
   },
@@ -11150,9 +11150,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
+  "gobber2:gobber2_ring_nether": {
     "criteria": {
-      "has_clay_block": "2025-05-06 03:33:46 +0000"
+      "gobber2_ring_nether": "2025-05-06 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/lockewood": {
+    "criteria": {
+      "lockewood": "2025-05-06 04:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 04:41:01 +0000"
     },
     "done": true
   },
@@ -11168,18 +11180,6 @@
     },
     "done": true
   },
-  "gobber2:gobber2_ring_nether": {
-    "criteria": {
-      "gobber2_ring_nether": "2025-05-06 03:51:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-06 04:41:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2025-05-06 04:59:06 +0000"
@@ -11192,9 +11192,9 @@
     },
     "done": true
   },
-  "scguns:main/diamond_steel/lockewood": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
-      "lockewood": "2025-05-06 04:00:14 +0000"
+      "has_dandelion": "2025-05-06 05:01:44 +0000"
     },
     "done": true
   },
