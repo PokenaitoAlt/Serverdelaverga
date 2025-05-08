@@ -11546,12 +11546,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/horizontal_framed_glass_pane": {
-    "criteria": {
-      "has_ingredient": "2025-05-08 04:57:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-05-08 04:49:02 +0000"
@@ -11612,15 +11606,21 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/glass_from_horizontal_framed_glass": {
-    "criteria": {
-      "has_item": "2025-05-08 04:57:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-05-08 04:49:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-05-08 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_horizontal_framed_glass": {
+    "criteria": {
+      "has_item": "2025-05-08 04:57:02 +0000"
     },
     "done": true
   },

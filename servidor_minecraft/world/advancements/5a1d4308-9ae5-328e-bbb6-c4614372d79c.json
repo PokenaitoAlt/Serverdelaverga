@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-19 05:07:48 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-08 05:30:56 +0000",
       "minecraft:taiga": "2025-04-18 04:26:17 +0000",
       "minecraft:cherry_grove": "2025-04-19 05:05:54 +0000",
       "minecraft:sunflower_plains": "2025-04-27 17:53:12 +0000",
@@ -48,12 +49,16 @@
       "minecraft:lukewarm_ocean": "2025-04-27 17:00:57 +0000",
       "minecraft:stony_shore": "2025-04-19 04:39:44 +0000",
       "minecraft:dripstone_caves": "2025-04-23 04:30:50 +0000",
+      "minecraft:snowy_taiga": "2025-05-08 05:34:36 +0000",
+      "minecraft:grove": "2025-05-08 05:34:38 +0000",
       "minecraft:cold_ocean": "2025-05-08 02:27:00 +0000",
       "minecraft:forest": "2025-04-12 03:15:52 +0000",
       "minecraft:lush_caves": "2025-04-23 04:33:36 +0000",
+      "minecraft:frozen_ocean": "2025-05-08 05:34:04 +0000",
       "minecraft:desert": "2025-04-27 17:03:29 +0000",
       "minecraft:jungle": "2025-04-19 04:19:56 +0000",
       "minecraft:ocean": "2025-04-19 04:40:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-08 05:31:23 +0000",
       "minecraft:flower_forest": "2025-04-27 17:51:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-19 04:19:32 +0000",
       "minecraft:deep_dark": "2025-04-23 04:58:52 +0000",
@@ -1150,6 +1155,7 @@
       "minecraft:wither_skeleton": "2025-05-08 03:17:26 +0000",
       "minecraft:piglin": "2025-04-27 20:30:17 +0000",
       "minecraft:enderman": "2025-04-21 17:21:40 +0000",
+      "minecraft:silverfish": "2025-05-08 05:47:29 +0000",
       "minecraft:zombie": "2025-04-18 16:31:40 +0000",
       "minecraft:drowned": "2025-04-27 20:53:43 +0000",
       "minecraft:zombie_villager": "2025-04-23 05:04:07 +0000"
@@ -9868,9 +9874,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-08 05:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-08 05:43:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 04:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-08 05:41:24 +0000"
     },
     "done": true
   },
@@ -9892,9 +9916,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-08 05:19:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 04:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-08 05:36:14 +0000"
     },
     "done": true
   },
@@ -9952,6 +9988,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-08 05:41:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 04:18:22 +0000"
@@ -9961,6 +10003,18 @@
   "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 04:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-08 05:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-08 05:19:14 +0000"
     },
     "done": true
   },
@@ -9982,15 +10036,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-05-08 05:36:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 04:18:22 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-05-08 05:39:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-05-08 04:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-08 05:24:43 +0000"
     },
     "done": true
   },
@@ -10006,6 +10078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-05-08 05:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-05-08 04:22:52 +0000"
@@ -10018,9 +10096,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-08 05:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-05-08 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-08 05:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-08 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-05-08 05:41:24 +0000"
     },
     "done": true
   },
