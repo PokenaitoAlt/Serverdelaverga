@@ -11263,3 +11263,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08May2025 23:48:45.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36244, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
 [08May2025 23:51:14.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08May2025 23:51:14.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:54:05.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.997880215373812,0.06248754659992528,1.7911440004152155
+[08May2025 23:54:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ggggggasd
+[08May2025 23:56:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gghhgh
+[08May2025 23:56:14.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08May2025 23:56:14.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08May2025 23:57:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has reached the goal [Miphril]
+[08May2025 23:57:51.558] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[09May2025 00:01:14.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 00:01:14.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 00:06:14.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 00:06:14.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 00:07:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Gobber Goes Nether]
+[09May2025 00:11:14.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 00:11:14.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 00:14:06.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has reached the goal [Totally not arbitrary rarity]
+[09May2025 00:16:06.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=19, z=73} BlockPos{x=-83, y=19, z=74}
+[09May2025 00:16:14.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 00:16:14.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 00:16:24.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=18, z=76} BlockPos{x=-81, y=18, z=72}
+[09May2025 00:16:24.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=18, z=76} BlockPos{x=-81, y=18, z=72}
+[09May2025 00:16:24.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=18, z=76} BlockPos{x=-81, y=18, z=72}
+[09May2025 00:17:23.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=19, z=70} BlockPos{x=-79, y=19, z=69}
+[09May2025 00:17:43.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=18, z=59} BlockPos{x=-73, y=19, z=59}
+[09May2025 00:17:43.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=18, z=59} BlockPos{x=-73, y=19, z=59}
+[09May2025 00:17:43.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=18, z=59} BlockPos{x=-73, y=19, z=59}
+[09May2025 00:18:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [The Path to Better Gear]
+[09May2025 00:18:36.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gogogogo
+[09May2025 00:19:09.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=19, z=54} BlockPos{x=-77, y=18, z=54}
+[09May2025 00:19:11.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=21, z=55} BlockPos{x=-77, y=19, z=53}
+[09May2025 00:19:11.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=21, z=55} BlockPos{x=-77, y=19, z=53}
+[09May2025 00:19:11.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=20, z=55} BlockPos{x=-77, y=19, z=53}
+[09May2025 00:19:11.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=21, z=55} BlockPos{x=-77, y=19, z=53}
+[09May2025 00:19:11.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=20, z=54} BlockPos{x=-77, y=19, z=53}
+[09May2025 00:19:33.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Glorious Feast]
+[09May2025 00:19:52.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[09May2025 00:19:57.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=19, z=55} BlockPos{x=-81, y=19, z=53}
+[09May2025 00:20:30.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=20, z=51} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=20, z=51} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=20, z=51} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=19, z=51} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=50} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=50} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=50} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:30.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=50} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:31.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=19, z=52} BlockPos{x=-85, y=20, z=50}
+[09May2025 00:20:31.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=51} BlockPos{x=-86, y=18, z=50}
+[09May2025 00:20:32.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=51} BlockPos{x=-86, y=18, z=50}
+[09May2025 00:20:32.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=51} BlockPos{x=-86, y=18, z=50}
+[09May2025 00:20:32.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=18, z=51} BlockPos{x=-86, y=18, z=50}
+[09May2025 00:20:34.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=19, z=46} BlockPos{x=-87, y=19, z=49}
+[09May2025 00:20:34.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=19, z=46} BlockPos{x=-87, y=19, z=49}
+[09May2025 00:20:34.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-88, y=19, z=45} BlockPos{x=-87, y=19, z=49}
+[09May2025 00:21:14.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 00:21:14.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
